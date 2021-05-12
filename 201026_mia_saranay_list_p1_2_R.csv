@@ -1,0 +1,2045 @@
+Data File,Sample Notes,RT (min),Peak Name,Result Type,Area,Amt,Calib Amt,Dev%-Amt,Sample Type,plate
+201026_MIA_001.xms,Solvent Blank,2.626,Caffeine,Failed,771,1,---,---,Blank,P1
+201026_MIA_001001.xms,Solvent Blank,2.534,Caffeine,Failed,1275,1,---,---,Blank,P1
+201026_MIA_002.xms,QC_mix_00,2.53,Caffeine,Failed,511378,2,---,---,Analysis,P1
+201026_MIA_003.xms,Solvent Blank,2.519,Caffeine,Failed,556,1,---,---,Blank,P1
+201026_MIA_003001.xms,Solvent Blank,2.542,Caffeine,Failed,541,1,---,---,Blank,P1
+201026_MIA_004.xms,Blank,2.531,Caffeine,Failed,764,1,---,---,Blank,P1
+201026_MIA_005.xms,0.05 mg/L stric_v13#1,2.518,Caffeine,Failed,235815,1,1,---,Calibration,P1
+201026_MIA_006.xms,0.1 mg/L stric_v13#2,2.517,Caffeine,Failed,440585,1,1,---,Calibration,P1
+201026_MIA_007.xms,0.25 mg/L stric_v13#3,2.522,Caffeine,Failed,239193,1,1,---,Calibration,P1
+201026_MIA_008.xms,0.5 mg/L stric_v13#4,2.502,Caffeine,Failed,240244,1,1,---,Calibration,P1
+201026_MIA_009.xms,1 mg/L stric_v13#5,2.502,Caffeine,Failed,227477,1,1,---,Calibration,P1
+201026_MIA_010.xms,2.5 mg/L stric_v13#6,2.505,Caffeine,Failed,216187,1,1,---,Calibration,P1
+201026_MIA_011.xms,5 mg/L stric_v13#7,2.489,Caffeine,Failed,227380,1,1,---,Calibration,P1
+201026_MIA_012.xms,10 mg/L stric_v13#8,2.492,Caffeine,Failed,230683,1,1,---,Calibration,P1
+201026_MIA_013.xms,25 mg/L stric_v13#9,2.502,Caffeine,Failed,292088,1,1,---,Calibration,P1
+201026_MIA_014.xms,50 mg/L stric_v13#10,2.499,Caffeine,Failed,313196,1,1,---,Calibration,P1
+201026_MIA_015.xms,Solvent Blank,2.591,Caffeine,Failed,611,1,---,---,Blank,P1
+201026_MIA_015001.xms,Solvent Blank,2.56,Caffeine,Failed,1223,1,---,---,Blank,P1
+201026_MIA_015002.xms,Solvent Blank,2.53,Caffeine,Failed,530,1,---,---,Blank,P1
+201026_MIA_016.xms,ISY_CYC_P1_A1,2.495,Caffeine,Failed,4.28E+06,25,---,---,Analysis,P1
+201026_MIA_017.xms,ISY_CYC_P1_A2,2.492,Caffeine,Failed,4.91E+06,25,---,---,Analysis,P1
+201026_MIA_018.xms,ISY_CYC_P1_A3,2.508,Caffeine,Failed,4.67E+06,25,---,---,Analysis,P1
+201026_MIA_019.xms,ISY_CYC_P1_A4,2.51,Caffeine,Failed,4.88E+06,25,---,---,Analysis,P1
+201026_MIA_020.xms,ISY_CYC_P1_A5,2.513,Caffeine,Failed,4.28E+06,25,---,---,Analysis,P1
+201026_MIA_021.xms,ISY_CYC_P1_A6,2.504,Caffeine,Failed,4.68E+06,25,---,---,Analysis,P1
+201026_MIA_022.xms,ISY_CYC_P1_A7,2.509,Caffeine,Failed,4.77E+06,25,---,---,Analysis,P1
+201026_MIA_023.xms,ISY_CYC_P1_A8,2.513,Caffeine,Failed,4.32E+06,25,---,---,Analysis,P1
+201026_MIA_024.xms,ISY_CYC_P1_A9,2.505,Caffeine,Failed,4.83E+06,25,---,---,Analysis,P1
+201026_MIA_025.xms,ISY_CYC_P1_A10,2.507,Caffeine,Failed,4.49E+06,25,---,---,Analysis,P1
+201026_MIA_026.xms,ISY_CYC_P1_A11,2.496,Caffeine,Failed,4.77E+06,25,---,---,Analysis,P1
+201026_MIA_027.xms,ISY_CYC_P1_A12,2.506,Caffeine,Failed,5.34E+06,25,---,---,Analysis,P1
+201026_MIA_028.xms,QC_mix_01,2.505,Caffeine,Failed,364167,1,1,---,Verification,P1
+201026_MIA_029.xms,ISY_CYC_P1_B1,2.493,Caffeine,Failed,5.24E+06,25,---,---,Analysis,P1
+201026_MIA_030.xms,ISY_CYC_P1_B2,2.511,Caffeine,Failed,4.97E+06,25,---,---,Analysis,P1
+201026_MIA_031.xms,ISY_CYC_P1_B3,2.517,Caffeine,Failed,5.28E+06,25,---,---,Analysis,P1
+201026_MIA_032.xms,ISY_CYC_P1_B4,2.505,Caffeine,Failed,5.07E+06,25,---,---,Analysis,P1
+201026_MIA_033.xms,ISY_CYC_P1_B5,2.509,Caffeine,Failed,5.65E+06,25,---,---,Analysis,P1
+201026_MIA_034.xms,ISY_CYC_P1_B6,2.501,Caffeine,Failed,5.57E+06,25,---,---,Analysis,P1
+201026_MIA_035.xms,ISY_CYC_P1_B7,2.5,Caffeine,Failed,5.44E+06,25,---,---,Analysis,P1
+201026_MIA_036.xms,ISY_CYC_P1_B8,2.496,Caffeine,Failed,4.71E+06,25,---,---,Analysis,P1
+201026_MIA_037.xms,ISY_CYC_P1_B9,2.498,Caffeine,Failed,5.69E+06,25,---,---,Analysis,P1
+201026_MIA_038.xms,ISY_CYC_P1_B10,2.502,Caffeine,Failed,5.63E+06,25,---,---,Analysis,P1
+201026_MIA_039.xms,ISY_CYC_P1_B11,2.504,Caffeine,Failed,5.24E+06,25,---,---,Analysis,P1
+201026_MIA_040.xms,ISY_CYC_P1_B12,2.493,Caffeine,Failed,5.41E+06,25,---,---,Analysis,P1
+201026_MIA_041.xms,QC_mix_02,2.491,Caffeine,Failed,359968,1,1,---,Verification,P1
+201026_MIA_042.xms,ISY_CYC_P1_C1,2.488,Caffeine,Failed,4.94E+06,25,---,---,Analysis,P1
+201026_MIA_043.xms,ISY_CYC_P1_C2,2.475,Caffeine,Failed,5.04E+06,25,---,---,Analysis,P1
+201026_MIA_044.xms,ISY_CYC_P1_C3,2.48,Caffeine,Failed,5.58E+06,25,---,---,Analysis,P1
+201026_MIA_045.xms,ISY_CYC_P1_C4,2.477,Caffeine,Failed,5.52E+06,25,---,---,Analysis,P1
+201026_MIA_046.xms,ISY_CYC_P1_C5,2.482,Caffeine,Failed,5.96E+06,25,---,---,Analysis,P1
+201026_MIA_047.xms,ISY_CYC_P1_C6,2.475,Caffeine,Failed,5.23E+06,25,---,---,Analysis,P1
+201026_MIA_048.xms,ISY_CYC_P1_C7,2.478,Caffeine,Failed,5.47E+06,25,---,---,Analysis,P1
+201026_MIA_049.xms,ISY_CYC_P1_C8,2.474,Caffeine,Failed,5.68E+06,25,---,---,Analysis,P1
+201026_MIA_050.xms,ISY_CYC_P1_C9,2.483,Caffeine,Failed,4.01E+06,25,---,---,Analysis,P1
+201026_MIA_051.xms,ISY_CYC_P1_C10,2.484,Caffeine,Failed,4.39E+06,25,---,---,Analysis,P1
+201026_MIA_052.xms,ISY_CYC_P1_C11,2.496,Caffeine,Failed,4.14E+06,25,---,---,Analysis,P1
+201026_MIA_053.xms,ISY_CYC_P1_C12,2.495,Caffeine,Failed,4.17E+06,25,---,---,Analysis,P1
+201026_MIA_054.xms,QC_mix_03,2.495,Caffeine,Failed,382369,1,1,---,Verification,P1
+201026_MIA_055.xms,ISY_CYC_P1_D1,2.507,Caffeine,Failed,4.33E+06,25,---,---,Analysis,P1
+201026_MIA_056.xms,ISY_CYC_P1_D2,2.512,Caffeine,Failed,5.15E+06,25,---,---,Analysis,P1
+201026_MIA_057.xms,ISY_CYC_P1_D3,2.508,Caffeine,Failed,5.39E+06,25,---,---,Analysis,P1
+201026_MIA_058.xms,ISY_CYC_P1_D4,2.5,Caffeine,Failed,6.85E+06,25,---,---,Analysis,P1
+201026_MIA_059.xms,ISY_CYC_P1_D5,2.497,Caffeine,Failed,5.60E+06,25,---,---,Analysis,P1
+201026_MIA_060.xms,ISY_CYC_P1_D6,2.504,Caffeine,Failed,6.46E+06,25,---,---,Analysis,P1
+201026_MIA_061.xms,ISY_CYC_P1_D7,2.493,Caffeine,Failed,6.05E+06,25,---,---,Analysis,P1
+201026_MIA_062.xms,ISY_CYC_P1_D8,2.503,Caffeine,Failed,5.90E+06,25,---,---,Analysis,P1
+201026_MIA_063.xms,ISY_CYC_P1_D9,2.505,Caffeine,Failed,5.05E+06,25,---,---,Analysis,P1
+201026_MIA_064.xms,ISY_CYC_P1_D10,2.507,Caffeine,Failed,5.43E+06,25,---,---,Analysis,P1
+201026_MIA_065.xms,ISY_CYC_P1_D11,2.501,Caffeine,Failed,5.52E+06,25,---,---,Analysis,P1
+201026_MIA_066.xms,ISY_CYC_P1_D12,2.503,Caffeine,Failed,5.54E+06,25,---,---,Analysis,P1
+201026_MIA_067.xms,Solvent Blank,2.501,Caffeine,Failed,26411,1,---,---,Blank,P1
+201026_MIA_067001.xms,Solvent Blank,2.496,Caffeine,Failed,23027,1,---,---,Blank,P1
+201026_MIA_068.xms,Blank,2.501,Caffeine,Failed,9875,1,---,---,Blank,P1
+201026_MIA_069.xms,0.05 mg/L stric_v13#1,2.493,Caffeine,Failed,286612,1,1,---,Calibration,P1
+201026_MIA_070.xms,0.1 mg/L stric_v13#2,2.492,Caffeine,Failed,337212,1,1,---,Calibration,P1
+201026_MIA_071.xms,0.25 mg/L stric_v13#3,2.491,Caffeine,Failed,304009,1,1,---,Calibration,P1
+201026_MIA_072.xms,0.5 mg/L stric_v13#4,2.496,Caffeine,Failed,297723,1,1,---,Calibration,P1
+201026_MIA_073.xms,1 mg/L stric_v13#5,2.499,Caffeine,Failed,277807,1,1,---,Calibration,P1
+201026_MIA_074.xms,2.5 mg/L stric_v13#6,2.509,Caffeine,Failed,268905,1,1,---,Calibration,P1
+201026_MIA_075.xms,5 mg/L stric_v13#7,2.499,Caffeine,Failed,279145,1,1,---,Calibration,P1
+201026_MIA_076.xms,10 mg/L stric_v13#8,2.507,Caffeine,Failed,373324,1,1,---,Calibration,P1
+201026_MIA_077.xms,25 mg/L stric_v13#9,2.481,Caffeine,Failed,276823,1,1,---,Calibration,P1
+201026_MIA_078.xms,50 mg/L stric_v13#10,2.491,Caffeine,Failed,552840,1,1,---,Calibration,P1
+201026_MIA_079.xms,Solvent Blank,2.492,Caffeine,Failed,2271,1,---,---,Blank,P1
+201026_MIA_079001.xms,Solvent Blank,2.487,Caffeine,Identified,2179,1,---,---,Blank,P1
+201026_MIA_079002.xms,Solvent Blank,2.495,Caffeine,Failed,1167,1,---,---,Blank,P1
+201026_MIA_080.xms,ISY_CYC_P1_E1,2.5,Caffeine,Failed,6.05E+06,25,---,---,Analysis,P1
+201026_MIA_081.xms,ISY_CYC_P1_E2,2.493,Caffeine,Failed,5.87E+06,25,---,---,Analysis,P1
+201026_MIA_082.xms,ISY_CYC_P1_E3,2.49,Caffeine,Failed,5.42E+06,25,---,---,Analysis,P1
+201026_MIA_083.xms,ISY_CYC_P1_E4,2.507,Caffeine,Failed,5.09E+06,25,---,---,Analysis,P1
+201026_MIA_084.xms,ISY_CYC_P1_E5,2.491,Caffeine,Failed,5.27E+06,25,---,---,Analysis,P1
+201026_MIA_085.xms,ISY_CYC_P1_E6,2.507,Caffeine,Failed,4.81E+06,25,---,---,Analysis,P1
+201026_MIA_086.xms,ISY_CYC_P1_E7,2.507,Caffeine,Failed,4.65E+06,25,---,---,Analysis,P1
+201026_MIA_087.xms,ISY_CYC_P1_E8,2.502,Caffeine,Failed,4.45E+06,25,---,---,Analysis,P1
+201026_MIA_088.xms,ISY_CYC_P1_E9,2.504,Caffeine,Failed,5.00E+06,25,---,---,Analysis,P1
+201026_MIA_089.xms,ISY_CYC_P1_E10,2.503,Caffeine,Failed,5.47E+06,25,---,---,Analysis,P1
+201026_MIA_090.xms,ISY_CYC_P1_E11,2.492,Caffeine,Failed,4.93E+06,25,---,---,Analysis,P1
+201026_MIA_091.xms,ISY_CYC_P1_E12,2.505,Caffeine,Failed,5.67E+06,25,---,---,Analysis,P1
+201026_MIA_092.xms,QC_mix_04,2.505,Caffeine,Failed,424462,1,1,---,Verification,P1
+201026_MIA_093.xms,ISY_CYC_P1_F1,2.511,Caffeine,Failed,6.05E+06,25,---,---,Analysis,P1
+201026_MIA_094.xms,ISY_CYC_P1_F2,2.516,Caffeine,Failed,5.61E+06,25,---,---,Analysis,P1
+201026_MIA_095.xms,ISY_CYC_P1_F3,2.505,Caffeine,Failed,5.43E+06,25,---,---,Analysis,P1
+201026_MIA_096.xms,ISY_CYC_P1_F4,2.507,Caffeine,Failed,5.74E+06,25,---,---,Analysis,P1
+201026_MIA_097.xms,ISY_CYC_P1_F5,2.513,Caffeine,Failed,6.15E+06,25,---,---,Analysis,P1
+201026_MIA_098.xms,ISY_CYC_P1_F6,2.519,Caffeine,Failed,6.02E+06,25,---,---,Analysis,P1
+201026_MIA_099.xms,ISY_CYC_P1_F7,2.512,Caffeine,Failed,6.07E+06,25,---,---,Analysis,P1
+201026_MIA_100.xms,ISY_CYC_P1_F8,2.52,Caffeine,Failed,5.77E+06,25,---,---,Analysis,P1
+201026_MIA_101.xms,ISY_CYC_P1_F9,2.513,Caffeine,Failed,5.81E+06,25,---,---,Analysis,P1
+201026_MIA_102.xms,ISY_CYC_P1_F10,2.501,Caffeine,Failed,5.53E+06,25,---,---,Analysis,P1
+201026_MIA_103.xms,ISY_CYC_P1_F11,2.513,Caffeine,Failed,6.05E+06,25,---,---,Analysis,P1
+201026_MIA_104.xms,ISY_CYC_P1_F12,2.512,Caffeine,Failed,5.97E+06,25,---,---,Analysis,P1
+201026_MIA_105.xms,QC_mix_05,2.521,Caffeine,Failed,423646,1,1,---,Verification,P1
+201026_MIA_106.xms,ISY_CYC_P1_G1,2.516,Caffeine,Failed,6.84E+06,25,---,---,Analysis,P1
+201026_MIA_107.xms,ISY_CYC_P1_G2,2.51,Caffeine,Failed,6.24E+06,25,---,---,Analysis,P1
+201026_MIA_108.xms,ISY_CYC_P1_G3,2.519,Caffeine,Failed,5.70E+06,25,---,---,Analysis,P1
+201026_MIA_109.xms,ISY_CYC_P1_G4,2.525,Caffeine,Failed,7.00E+06,25,---,---,Analysis,P1
+201026_MIA_110.xms,ISY_CYC_P1_G5,2.498,Caffeine,Failed,6.55E+06,25,---,---,Analysis,P1
+201026_MIA_111.xms,ISY_CYC_P1_G6,2.499,Caffeine,Failed,6.42E+06,25,---,---,Analysis,P1
+201026_MIA_112.xms,ISY_CYC_P1_G7,2.503,Caffeine,Failed,6.69E+06,25,---,---,Analysis,P1
+201026_MIA_113.xms,ISY_CYC_P1_G8,2.5,Caffeine,Failed,5.49E+06,25,---,---,Analysis,P1
+201026_MIA_114.xms,ISY_CYC_P1_G9,2.507,Caffeine,Failed,5.61E+06,25,---,---,Analysis,P1
+201026_MIA_115.xms,ISY_CYC_P1_G10,2.504,Caffeine,Failed,6.31E+06,25,---,---,Analysis,P1
+201026_MIA_116.xms,ISY_CYC_P1_G11,2.499,Caffeine,Failed,6.60E+06,25,---,---,Analysis,P1
+201026_MIA_117.xms,ISY_CYC_P1_G12,2.502,Caffeine,Failed,5.12E+06,25,---,---,Analysis,P1
+201026_MIA_118.xms,QC_mix_06,2.527,Caffeine,Failed,441570,1,1,---,Verification,P1
+201026_MIA_119.xms,ISY_CYC_P1_H1,2.517,Caffeine,Failed,6.57E+06,25,---,---,Analysis,P1
+201026_MIA_120.xms,ISY_CYC_P1_H2,2.529,Caffeine,Failed,5.56E+06,25,---,---,Analysis,P1
+201026_MIA_121.xms,ISY_CYC_P1_H3,2.532,Caffeine,Failed,5.72E+06,25,---,---,Analysis,P1
+201026_MIA_122.xms,ISY_CYC_P1_H4,2.527,Caffeine,Failed,5.55E+06,25,---,---,Analysis,P1
+201026_MIA_123.xms,ISY_CYC_P1_H5,2.532,Caffeine,Failed,5.51E+06,25,---,---,Analysis,P1
+201026_MIA_124.xms,ISY_CYC_P1_H6,2.519,Caffeine,Failed,8.12E+06,25,---,---,Analysis,P1
+201026_MIA_125.xms,ISY_CYC_P1_H7,2.527,Caffeine,Failed,6.86E+06,25,---,---,Analysis,P1
+201026_MIA_126.xms,ISY_CYC_P1_H8,2.523,Caffeine,Failed,7.39E+06,25,---,---,Analysis,P1
+201026_MIA_127.xms,ISY_CYC_P1_H9,2.473,Caffeine,Failed,7.93E+06,25,---,---,Analysis,P1
+201026_MIA_128.xms,ISY_CYC_P1_H10,2.5,Caffeine,Failed,6.74E+06,25,---,---,Analysis,P1
+201026_MIA_129.xms,ISY_CYC_P1_H11,2.521,Caffeine,Failed,5.42E+06,25,---,---,Analysis,P1
+201026_MIA_130.xms,ISY_CYC_P1_H12,2.527,Caffeine,Failed,7.66E+06,25,---,---,Analysis,P1
+201026_MIA_131.xms,Solvent Blank,2.52,Caffeine,Failed,1.44E+06,1,---,---,Blank,P1
+201026_MIA_131001.xms,Solvent Blank,2.512,Caffeine,Failed,62692,1,---,---,Blank,P1
+201026_MIA_132.xms,Blank,2.503,Caffeine,Identified,2421,1,---,---,Blank,P1
+201026_MIA_133.xms,0.05 mg/L stric_v13#1,2.511,Caffeine,Failed,359438,1,1,---,Calibration,P1
+201026_MIA_134.xms,0.1 mg/L stric_v13#2,2.506,Caffeine,Failed,350706,1,1,---,Calibration,P1
+201026_MIA_135.xms,0.25 mg/L stric_v13#3,2.51,Caffeine,Failed,342820,1,1,---,Calibration,P1
+201026_MIA_136.xms,0.5 mg/L stric_v13#4,2.505,Caffeine,Failed,296355,1,1,---,Calibration,P1
+201026_MIA_137.xms,1 mg/L stric_v13#5,2.504,Caffeine,Failed,342963,1,1,---,Calibration,P1
+201026_MIA_138.xms,2.5 mg/L stric_v13#6,2.494,Caffeine,Failed,417932,1,1,---,Calibration,P1
+201026_MIA_139.xms,5 mg/L stric_v13#7,2.539,Caffeine,Failed,324138,1,1,---,Calibration,P1
+201026_MIA_140.xms,10 mg/L stric_v13#8,2.535,Caffeine,Failed,412037,1,1,---,Calibration,P1
+201026_MIA_141.xms,25 mg/L stric_v13#9,2.537,Caffeine,Failed,435630,1,1,---,Calibration,P1
+201026_MIA_142.xms,50 mg/L stric_v13#10,2.53,Caffeine,Failed,584133,1,1,---,Calibration,P1
+201026_MIA_143.xms,Solvent Blank,2.515,Caffeine,Failed,117026,1,---,---,Blank,P1
+201026_MIA_143001.xms,Solvent Blank,2.513,Caffeine,Failed,235170,1,---,---,Blank,P1
+201026_MIA_143002.xms,Solvent Blank,2.519,Caffeine,Failed,104596,1,---,---,Blank,P1
+201026_MIA_001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_001001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_002.xms,QC_mix_00,2.256,Loganic acid,Failed,76795,5839.294,---,---,Analysis,P1
+201026_MIA_003.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_003001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_004.xms,Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_005.xms,0.05 mg/L stric_v13#1,2.239,Loganic acid,Failed,751,56.3,50,12.601,Calibration,P1
+201026_MIA_006.xms,0.1 mg/L stric_v13#2,2.241,Loganic acid,Failed,2340,97.687,100,-2.313,Calibration,P1
+201026_MIA_007.xms,0.25 mg/L stric_v13#3,2.216,Loganic acid,Failed,3546,283,250,13.2,Calibration,P1
+201026_MIA_008.xms,0.5 mg/L stric_v13#4,2.196,Loganic acid,Failed,6534,524.063,500,4.813,Calibration,P1
+201026_MIA_009.xms,1 mg/L stric_v13#5,2.219,Loganic acid,Failed,11603,987.913,1000,-1.209,Calibration,P1
+201026_MIA_010.xms,2.5 mg/L stric_v13#6,2.202,Loganic acid,Failed,29450,2647.935,2500,5.917,Calibration,P1
+201026_MIA_011.xms,5 mg/L stric_v13#7,2.192,Loganic acid,Failed,53929,4614.537,5000,-7.709,Calibration,P1
+201026_MIA_012.xms,10 mg/L stric_v13#8,2.21,Loganic acid,Failed,103930,8770.749,10000,-12.293,Calibration,P1
+201026_MIA_013.xms,25 mg/L stric_v13#9,2.196,Loganic acid,Failed,217845,14523.079,25000,-41.908,Calibration,P1
+201026_MIA_014.xms,50 mg/L stric_v13#10,2.187,Loganic acid,Failed,482789,30023.063,50000,-39.954,Calibration,P1
+201026_MIA_015.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_015001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_015002.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_016.xms,ISY_CYC_P1_A1,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_017.xms,ISY_CYC_P1_A2,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_018.xms,ISY_CYC_P1_A3,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_019.xms,ISY_CYC_P1_A4,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_020.xms,ISY_CYC_P1_A5,2.206,Loganic acid,Failed,901,N/A,---,---,Analysis,P1
+201026_MIA_021.xms,ISY_CYC_P1_A6,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_022.xms,ISY_CYC_P1_A7,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_023.xms,ISY_CYC_P1_A8,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_024.xms,ISY_CYC_P1_A9,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_025.xms,ISY_CYC_P1_A10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_026.xms,ISY_CYC_P1_A11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_027.xms,ISY_CYC_P1_A12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_028.xms,QC_mix_01,2.199,Loganic acid,Failed,49412,2637.443,1000,163.744,Verification,P1
+201026_MIA_029.xms,ISY_CYC_P1_B1,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_030.xms,ISY_CYC_P1_B2,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_031.xms,ISY_CYC_P1_B3,2.217,Loganic acid,Failed,607,N/A,---,---,Analysis,P1
+201026_MIA_032.xms,ISY_CYC_P1_B4,2.198,Loganic acid,Failed,734,N/A,---,---,Analysis,P1
+201026_MIA_033.xms,ISY_CYC_P1_B5,2.204,Loganic acid,Failed,959,N/A,---,---,Analysis,P1
+201026_MIA_034.xms,ISY_CYC_P1_B6,2.198,Loganic acid,Failed,554,N/A,---,---,Analysis,P1
+201026_MIA_035.xms,ISY_CYC_P1_B7,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_036.xms,ISY_CYC_P1_B8,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_037.xms,ISY_CYC_P1_B9,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_038.xms,ISY_CYC_P1_B10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_039.xms,ISY_CYC_P1_B11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_040.xms,ISY_CYC_P1_B12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_041.xms,QC_mix_02,2.195,Loganic acid,Failed,49213,2657.513,1000,165.751,Verification,P1
+201026_MIA_042.xms,ISY_CYC_P1_C1,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_043.xms,ISY_CYC_P1_C2,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_044.xms,ISY_CYC_P1_C3,2.189,Loganic acid,Failed,675,N/A,---,---,Analysis,P1
+201026_MIA_045.xms,ISY_CYC_P1_C4,2.179,Loganic acid,Failed,1173,N/A,---,---,Analysis,P1
+201026_MIA_046.xms,ISY_CYC_P1_C5,2.174,Loganic acid,Failed,890,N/A,---,---,Analysis,P1
+201026_MIA_047.xms,ISY_CYC_P1_C6,2.178,Loganic acid,Failed,1474,N/A,---,---,Analysis,P1
+201026_MIA_048.xms,ISY_CYC_P1_C7,2.209,Loganic acid,Failed,2027,36.429,---,---,Analysis,P1
+201026_MIA_049.xms,ISY_CYC_P1_C8,2.205,Loganic acid,Identified,2647,82.753,---,---,Analysis,P1
+201026_MIA_050.xms,ISY_CYC_P1_C9,2.183,Loganic acid,Failed,1302,13.925,---,---,Analysis,P1
+201026_MIA_051.xms,ISY_CYC_P1_C10,2.18,Loganic acid,Failed,1537,26.191,---,---,Analysis,P1
+201026_MIA_052.xms,ISY_CYC_P1_C11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_053.xms,ISY_CYC_P1_C12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_054.xms,QC_mix_03,2.196,Loganic acid,Failed,51525,2619.262,1000,161.926,Verification,P1
+201026_MIA_055.xms,ISY_CYC_P1_D1,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_056.xms,ISY_CYC_P1_D2,2.218,Loganic acid,Failed,1665,13.215,---,---,Analysis,P1
+201026_MIA_057.xms,ISY_CYC_P1_D3,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_058.xms,ISY_CYC_P1_D4,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_059.xms,ISY_CYC_P1_D5,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_060.xms,ISY_CYC_P1_D6,2.198,Loganic acid,Failed,2388,36.042,---,---,Analysis,P1
+201026_MIA_061.xms,ISY_CYC_P1_D7,2.19,Loganic acid,Failed,2259,37.853,---,---,Analysis,P1
+201026_MIA_062.xms,ISY_CYC_P1_D8,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_063.xms,ISY_CYC_P1_D9,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_064.xms,ISY_CYC_P1_D10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_065.xms,ISY_CYC_P1_D11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_066.xms,ISY_CYC_P1_D12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_067.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_067001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_068.xms,Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_069.xms,0.05 mg/L stric_v13#1,2.221,Loganic acid,Failed,703,42.013,50,-15.974,Calibration,P1
+201026_MIA_070.xms,0.1 mg/L stric_v13#2,2.221,Loganic acid,Failed,1668,90.604,100,-9.396,Calibration,P1
+201026_MIA_071.xms,0.25 mg/L stric_v13#3,2.22,Loganic acid,Failed,3779,236.384,250,-5.446,Calibration,P1
+201026_MIA_072.xms,0.5 mg/L stric_v13#4,2.214,Loganic acid,Failed,7146,461.816,500,-7.637,Calibration,P1
+201026_MIA_073.xms,1 mg/L stric_v13#5,2.212,Loganic acid,Failed,12968,903.596,1000,-9.64,Calibration,P1
+201026_MIA_074.xms,2.5 mg/L stric_v13#6,2.21,Loganic acid,Failed,34165,2469.255,2500,-1.23,Calibration,P1
+201026_MIA_075.xms,5 mg/L stric_v13#7,2.235,Loganic acid,Failed,63419,4419.982,5000,-11.6,Calibration,P1
+201026_MIA_076.xms,10 mg/L stric_v13#8,2.205,Loganic acid,Failed,177538,9258.322,10000,-7.417,Calibration,P1
+201026_MIA_077.xms,25 mg/L stric_v13#9,2.194,Loganic acid,Failed,246069,17310.4,25000,-30.758,Calibration,P1
+201026_MIA_078.xms,50 mg/L stric_v13#10,2.185,Loganic acid,Failed,567254,19982.537,50000,-60.035,Calibration,P1
+201026_MIA_079.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_079001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_079002.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_080.xms,ISY_CYC_P1_E1,2.19,Loganic acid,Failed,1895,8.522,---,---,Analysis,P1
+201026_MIA_081.xms,ISY_CYC_P1_E2,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_082.xms,ISY_CYC_P1_E3,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_083.xms,ISY_CYC_P1_E4,2.202,Loganic acid,Identified,1195,N/A,---,---,Analysis,P1
+201026_MIA_084.xms,ISY_CYC_P1_E5,2.188,Loganic acid,Failed,623,N/A,---,---,Analysis,P1
+201026_MIA_085.xms,ISY_CYC_P1_E6,2.201,Loganic acid,Failed,1413,N/A,---,---,Analysis,P1
+201026_MIA_086.xms,ISY_CYC_P1_E7,2.205,Loganic acid,Failed,704,N/A,---,---,Analysis,P1
+201026_MIA_087.xms,ISY_CYC_P1_E8,2.196,Loganic acid,Failed,1294,N/A,---,---,Analysis,P1
+201026_MIA_088.xms,ISY_CYC_P1_E9,2.204,Loganic acid,Failed,1339,N/A,---,---,Analysis,P1
+201026_MIA_089.xms,ISY_CYC_P1_E10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_090.xms,ISY_CYC_P1_E11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_091.xms,ISY_CYC_P1_E12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_092.xms,QC_mix_04,2.207,Loganic acid,Failed,57157,2617.401,1000,161.74,Verification,P1
+201026_MIA_093.xms,ISY_CYC_P1_F1,2.204,Loganic acid,Failed,1255,N/A,---,---,Analysis,P1
+201026_MIA_094.xms,ISY_CYC_P1_F2,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_095.xms,ISY_CYC_P1_F3,2.231,Loganic acid,Failed,1240,N/A,---,---,Analysis,P1
+201026_MIA_096.xms,ISY_CYC_P1_F4,2.198,Loganic acid,Failed,1291,N/A,---,---,Analysis,P1
+201026_MIA_097.xms,ISY_CYC_P1_F5,2.236,Loganic acid,Failed,2508,54.559,---,---,Analysis,P1
+201026_MIA_098.xms,ISY_CYC_P1_F6,2.217,Loganic acid,Failed,1347,N/A,---,---,Analysis,P1
+201026_MIA_099.xms,ISY_CYC_P1_F7,2.207,Loganic acid,Failed,3288,119.694,---,---,Analysis,P1
+201026_MIA_100.xms,ISY_CYC_P1_F8,2.224,Loganic acid,Failed,1811,8.854,---,---,Analysis,P1
+201026_MIA_101.xms,ISY_CYC_P1_F9,2.223,Loganic acid,Failed,2072,29.503,---,---,Analysis,P1
+201026_MIA_102.xms,ISY_CYC_P1_F10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_103.xms,ISY_CYC_P1_F11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_104.xms,ISY_CYC_P1_F12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_105.xms,QC_mix_05,2.215,Loganic acid,Failed,59458,2728.272,1000,172.827,Verification,P1
+201026_MIA_106.xms,ISY_CYC_P1_G1,2.219,Loganic acid,Failed,2940,65.104,---,---,Analysis,P1
+201026_MIA_107.xms,ISY_CYC_P1_G2,2.207,Loganic acid,Failed,1863,1.279,---,---,Analysis,P1
+201026_MIA_108.xms,ISY_CYC_P1_G3,2.243,Loganic acid,Identified,938,N/A,---,---,Analysis,P1
+201026_MIA_109.xms,ISY_CYC_P1_G4,2.219,Loganic acid,Failed,518,N/A,---,---,Analysis,P1
+201026_MIA_110.xms,ISY_CYC_P1_G5,2.211,Loganic acid,Failed,3131,88.619,---,---,Analysis,P1
+201026_MIA_111.xms,ISY_CYC_P1_G6,2.19,Loganic acid,Failed,2683,59.269,---,---,Analysis,P1
+201026_MIA_112.xms,ISY_CYC_P1_G7,2.203,Loganic acid,Failed,1190,N/A,---,---,Analysis,P1
+201026_MIA_113.xms,ISY_CYC_P1_G8,2.195,Loganic acid,Failed,1610,N/A,---,---,Analysis,P1
+201026_MIA_114.xms,ISY_CYC_P1_G9,2.204,Loganic acid,Failed,1815,13.363,---,---,Analysis,P1
+201026_MIA_115.xms,ISY_CYC_P1_G10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_116.xms,ISY_CYC_P1_G11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_117.xms,ISY_CYC_P1_G12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_118.xms,QC_mix_06,2.221,Loganic acid,Failed,66052,2908.179,1000,190.818,Verification,P1
+201026_MIA_119.xms,ISY_CYC_P1_H1,2.22,Loganic acid,Failed,2920,72.402,---,---,Analysis,P1
+201026_MIA_120.xms,ISY_CYC_P1_H2,2.254,Loganic acid,Failed,3584,169.681,---,---,Analysis,P1
+201026_MIA_121.xms,ISY_CYC_P1_H3,2.238,Loganic acid,Failed,2700,85.897,---,---,Analysis,P1
+201026_MIA_122.xms,ISY_CYC_P1_H4,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_123.xms,ISY_CYC_P1_H5,2.22,Loganic acid,Failed,4115,219.594,---,---,Analysis,P1
+201026_MIA_124.xms,ISY_CYC_P1_H6,2.235,Loganic acid,Failed,2502,5.843,---,---,Analysis,P1
+201026_MIA_125.xms,ISY_CYC_P1_H7,2.219,Loganic acid,Failed,2894,61.275,---,---,Analysis,P1
+201026_MIA_126.xms,ISY_CYC_P1_H8,2.225,Loganic acid,Failed,2475,18.896,---,---,Analysis,P1
+201026_MIA_127.xms,ISY_CYC_P1_H9,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_128.xms,ISY_CYC_P1_H10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_129.xms,ISY_CYC_P1_H11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_130.xms,ISY_CYC_P1_H12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P1
+201026_MIA_131.xms,Solvent Blank,2.236,Loganic acid,Failed,637,2.884,---,---,Blank,P1
+201026_MIA_131001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_132.xms,Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P1
+201026_MIA_133.xms,0.05 mg/L stric_v13#1,2.207,Loganic acid,Failed,1053,51.312,50,2.624,Calibration,P1
+201026_MIA_134.xms,0.1 mg/L stric_v13#2,2.232,Loganic acid,Failed,2034,107.24,100,7.24,Calibration,P1
+201026_MIA_135.xms,0.25 mg/L stric_v13#3,2.213,Loganic acid,Failed,4772,265.379,250,6.152,Calibration,P1
+201026_MIA_136.xms,0.5 mg/L stric_v13#4,2.202,Loganic acid,Failed,8430,548.388,500,9.678,Calibration,P1
+201026_MIA_137.xms,1 mg/L stric_v13#5,2.229,Loganic acid,Failed,18141,1024.673,1000,2.467,Calibration,P1
+201026_MIA_138.xms,2.5 mg/L stric_v13#6,2.198,Loganic acid,Failed,51695,2403.804,2500,-3.848,Calibration,P1
+201026_MIA_139.xms,5 mg/L stric_v13#7,2.237,Loganic acid,Failed,92703,5565.593,5000,11.312,Calibration,P1
+201026_MIA_140.xms,10 mg/L stric_v13#8,2.253,Loganic acid,Identified,178516,8434.161,10000,-15.658,Calibration,P1
+201026_MIA_141.xms,25 mg/L stric_v13#9,2.233,Loganic acid,Failed,462939,20695.807,25000,-17.217,Calibration,P1
+201026_MIA_142.xms,50 mg/L stric_v13#10,2.211,Loganic acid,Failed,991,27.297,50000,-99.945,Calibration,P1
+201026_MIA_143.xms,Solvent Blank,2.226,Loganic acid,Failed,2432,399.145,---,---,Blank,P1
+201026_MIA_143001.xms,Solvent Blank,2.211,Loganic acid,Failed,3097,250.78,---,---,Blank,P1
+201026_MIA_143002.xms,Solvent Blank,2.233,Loganic acid,Failed,1241,225.304,---,---,Blank,P1
+201026_MIA_001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_001001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_002.xms,QC_mix_00,2.582,Loganin,Failed,53370,7128.803,---,---,Analysis,P1
+201026_MIA_003.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_003001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_004.xms,Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_005.xms,0.05 mg/L stric_v13#1,2.536,Loganin,Missing,0,---,50,N/A,Calibration,P1
+201026_MIA_006.xms,0.1 mg/L stric_v13#2,2.569,Loganin,Failed,1448,95.407,100,-4.593,Calibration,P1
+201026_MIA_007.xms,0.25 mg/L stric_v13#3,2.559,Loganin,Failed,2039,275.229,250,10.092,Calibration,P1
+201026_MIA_008.xms,0.5 mg/L stric_v13#4,2.549,Loganin,Failed,3893,538.685,500,7.737,Calibration,P1
+201026_MIA_009.xms,1 mg/L stric_v13#5,2.553,Loganin,Failed,6823,1012.066,1000,1.207,Calibration,P1
+201026_MIA_010.xms,2.5 mg/L stric_v13#6,2.541,Loganin,Failed,17131,2702.162,2500,8.086,Calibration,P1
+201026_MIA_011.xms,5 mg/L stric_v13#7,2.533,Loganin,Failed,31400,4721.937,5000,-5.561,Calibration,P1
+201026_MIA_012.xms,10 mg/L stric_v13#8,2.55,Loganin,Failed,64069,9514.401,10000,-4.856,Calibration,P1
+201026_MIA_013.xms,25 mg/L stric_v13#9,2.541,Loganin,Failed,158192,18569.707,25000,-25.721,Calibration,P1
+201026_MIA_014.xms,50 mg/L stric_v13#10,2.542,Loganin,Failed,327245,35841.68,50000,-28.317,Calibration,P1
+201026_MIA_015.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_015001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_015002.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_016.xms,ISY_CYC_P1_A1,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_017.xms,ISY_CYC_P1_A2,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_018.xms,ISY_CYC_P1_A3,2.561,Loganin,Failed,4318,357.686,---,---,Analysis,P1
+201026_MIA_019.xms,ISY_CYC_P1_A4,2.555,Loganin,Failed,12244,1717.251,---,---,Analysis,P1
+201026_MIA_020.xms,ISY_CYC_P1_A5,2.552,Loganin,Failed,16224,2815.404,---,---,Analysis,P1
+201026_MIA_021.xms,ISY_CYC_P1_A6,2.561,Loganin,Failed,2062,N/A,---,---,Analysis,P1
+201026_MIA_022.xms,ISY_CYC_P1_A7,2.552,Loganin,Failed,1791,N/A,---,---,Analysis,P1
+201026_MIA_023.xms,ISY_CYC_P1_A8,2.552,Loganin,Failed,1254,N/A,---,---,Analysis,P1
+201026_MIA_024.xms,ISY_CYC_P1_A9,2.55,Loganin,Failed,1110,N/A,---,---,Analysis,P1
+201026_MIA_025.xms,ISY_CYC_P1_A10,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_026.xms,ISY_CYC_P1_A11,2.549,Loganin,Failed,965,N/A,---,---,Analysis,P1
+201026_MIA_027.xms,ISY_CYC_P1_A12,2.552,Loganin,Failed,1471,N/A,---,---,Analysis,P1
+201026_MIA_028.xms,QC_mix_01,2.547,Loganin,Failed,32153,3012.782,1000,201.278,Verification,P1
+201026_MIA_029.xms,ISY_CYC_P1_B1,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_030.xms,ISY_CYC_P1_B2,2.566,Loganin,Failed,2596,13.565,---,---,Analysis,P1
+201026_MIA_031.xms,ISY_CYC_P1_B3,2.561,Loganin,Failed,14761,1965.658,---,---,Analysis,P1
+201026_MIA_032.xms,ISY_CYC_P1_B4,2.552,Loganin,Failed,15619,2210.895,---,---,Analysis,P1
+201026_MIA_033.xms,ISY_CYC_P1_B5,2.553,Loganin,Failed,18899,2433.969,---,---,Analysis,P1
+201026_MIA_034.xms,ISY_CYC_P1_B6,2.542,Loganin,Failed,19669,2592.511,---,---,Analysis,P1
+201026_MIA_035.xms,ISY_CYC_P1_B7,2.536,Loganin,Failed,1502,N/A,---,---,Analysis,P1
+201026_MIA_036.xms,ISY_CYC_P1_B8,2.534,Loganin,Failed,854,N/A,---,---,Analysis,P1
+201026_MIA_037.xms,ISY_CYC_P1_B9,2.549,Loganin,Failed,1154,N/A,---,---,Analysis,P1
+201026_MIA_038.xms,ISY_CYC_P1_B10,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_039.xms,ISY_CYC_P1_B11,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_040.xms,ISY_CYC_P1_B12,2.541,Loganin,Failed,778,N/A,---,---,Analysis,P1
+201026_MIA_041.xms,QC_mix_02,2.537,Loganin,Failed,36936,3504.096,1000,250.41,Verification,P1
+201026_MIA_042.xms,ISY_CYC_P1_C1,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_043.xms,ISY_CYC_P1_C2,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_044.xms,ISY_CYC_P1_C3,2.524,Loganin,Failed,17425,2242.288,---,---,Analysis,P1
+201026_MIA_045.xms,ISY_CYC_P1_C4,2.523,Loganin,Failed,19314,2568.851,---,---,Analysis,P1
+201026_MIA_046.xms,ISY_CYC_P1_C5,2.53,Loganin,Failed,17273,2050.121,---,---,Analysis,P1
+201026_MIA_047.xms,ISY_CYC_P1_C6,2.516,Loganin,Failed,26162,3854.98,---,---,Analysis,P1
+201026_MIA_048.xms,ISY_CYC_P1_C7,2.533,Loganin,Failed,56989,8510.112,---,---,Analysis,P1
+201026_MIA_049.xms,ISY_CYC_P1_C8,2.529,Loganin,Failed,41632,5851.351,---,---,Analysis,P1
+201026_MIA_050.xms,ISY_CYC_P1_C9,2.522,Loganin,Failed,26273,5184.402,---,---,Analysis,P1
+201026_MIA_051.xms,ISY_CYC_P1_C10,2.524,Loganin,Failed,26449,4729.246,---,---,Analysis,P1
+201026_MIA_052.xms,ISY_CYC_P1_C11,2.542,Loganin,Failed,5690,744.956,---,---,Analysis,P1
+201026_MIA_053.xms,ISY_CYC_P1_C12,2.535,Loganin,Failed,9276,1475.725,---,---,Analysis,P1
+201026_MIA_054.xms,QC_mix_03,2.539,Loganin,Failed,36247,3236,1000,223.6,Verification,P1
+201026_MIA_055.xms,ISY_CYC_P1_D1,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_056.xms,ISY_CYC_P1_D2,2.565,Loganin,Failed,30962,4719.998,---,---,Analysis,P1
+201026_MIA_057.xms,ISY_CYC_P1_D3,2.546,Loganin,Failed,12739,1592.016,---,---,Analysis,P1
+201026_MIA_058.xms,ISY_CYC_P1_D4,2.556,Loganin,Failed,15506,1507.745,---,---,Analysis,P1
+201026_MIA_059.xms,ISY_CYC_P1_D5,2.537,Loganin,Failed,10326,1148.276,---,---,Analysis,P1
+201026_MIA_060.xms,ISY_CYC_P1_D6,2.541,Loganin,Failed,37495,4549.071,---,---,Analysis,P1
+201026_MIA_061.xms,ISY_CYC_P1_D7,2.531,Loganin,Failed,34797,4503.335,---,---,Analysis,P1
+201026_MIA_062.xms,ISY_CYC_P1_D8,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_063.xms,ISY_CYC_P1_D9,2.546,Loganin,Failed,2034,N/A,---,---,Analysis,P1
+201026_MIA_064.xms,ISY_CYC_P1_D10,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_065.xms,ISY_CYC_P1_D11,2.557,Loganin,Failed,11983,1428.239,---,---,Analysis,P1
+201026_MIA_066.xms,ISY_CYC_P1_D12,2.558,Loganin,Failed,9392,1019.302,---,---,Analysis,P1
+201026_MIA_067.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_067001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_068.xms,Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_069.xms,0.05 mg/L stric_v13#1,2.536,Loganin,Missing,0,---,50,N/A,Calibration,P1
+201026_MIA_070.xms,0.1 mg/L stric_v13#2,2.546,Loganin,Failed,1024,86.809,100,-13.191,Calibration,P1
+201026_MIA_071.xms,0.25 mg/L stric_v13#3,2.545,Loganin,Failed,2280,240.013,250,-3.995,Calibration,P1
+201026_MIA_072.xms,0.5 mg/L stric_v13#4,2.552,Loganin,Failed,4112,456.566,500,-8.687,Calibration,P1
+201026_MIA_073.xms,1 mg/L stric_v13#5,2.544,Loganin,Failed,8401,1020.41,1000,2.041,Calibration,P1
+201026_MIA_074.xms,2.5 mg/L stric_v13#6,2.549,Loganin,Failed,20656,2618.924,2500,4.757,Calibration,P1
+201026_MIA_075.xms,5 mg/L stric_v13#7,2.521,Loganin,Failed,35463,4342.635,5000,-13.147,Calibration,P1
+201026_MIA_076.xms,10 mg/L stric_v13#8,2.551,Loganin,Failed,107556,9870.221,10000,-1.298,Calibration,P1
+201026_MIA_077.xms,25 mg/L stric_v13#9,2.534,Loganin,Failed,188298,23327.244,25000,-6.691,Calibration,P1
+201026_MIA_078.xms,50 mg/L stric_v13#10,2.537,Loganin,Failed,588089,36490.492,50000,-27.019,Calibration,P1
+201026_MIA_079.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_079001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_079002.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_080.xms,ISY_CYC_P1_E1,2.545,Loganin,Failed,31490,4033.883,---,---,Analysis,P1
+201026_MIA_081.xms,ISY_CYC_P1_E2,2.533,Loganin,Failed,847,N/A,---,---,Analysis,P1
+201026_MIA_082.xms,ISY_CYC_P1_E3,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_083.xms,ISY_CYC_P1_E4,2.551,Loganin,Failed,19950,2929.937,---,---,Analysis,P1
+201026_MIA_084.xms,ISY_CYC_P1_E5,2.53,Loganin,Failed,15641,2112.38,---,---,Analysis,P1
+201026_MIA_085.xms,ISY_CYC_P1_E6,2.559,Loganin,Failed,33073,5469.612,---,---,Analysis,P1
+201026_MIA_086.xms,ISY_CYC_P1_E7,2.546,Loganin,Failed,15190,2365.629,---,---,Analysis,P1
+201026_MIA_087.xms,ISY_CYC_P1_E8,2.542,Loganin,Failed,28213,5007.065,---,---,Analysis,P1
+201026_MIA_088.xms,ISY_CYC_P1_E9,2.544,Loganin,Failed,36154,5775.71,---,---,Analysis,P1
+201026_MIA_089.xms,ISY_CYC_P1_E10,2.551,Loganin,Failed,2950,27.568,---,---,Analysis,P1
+201026_MIA_090.xms,ISY_CYC_P1_E11,2.531,Loganin,Failed,11239,1522.115,---,---,Analysis,P1
+201026_MIA_091.xms,ISY_CYC_P1_E12,2.549,Loganin,Failed,15736,1946.508,---,---,Analysis,P1
+201026_MIA_092.xms,QC_mix_04,2.543,Loganin,Failed,42367,3408.147,1000,240.815,Verification,P1
+201026_MIA_093.xms,ISY_CYC_P1_F1,2.548,Loganin,Failed,22944,2818.989,---,---,Analysis,P1
+201026_MIA_094.xms,ISY_CYC_P1_F2,2.553,Loganin,Failed,7925,776.406,---,---,Analysis,P1
+201026_MIA_095.xms,ISY_CYC_P1_F3,2.56,Loganin,Failed,30450,4380.604,---,---,Analysis,P1
+201026_MIA_096.xms,ISY_CYC_P1_F4,2.546,Loganin,Failed,25275,3341.66,---,---,Analysis,P1
+201026_MIA_097.xms,ISY_CYC_P1_F5,2.566,Loganin,Failed,35676,4545.103,---,---,Analysis,P1
+201026_MIA_098.xms,ISY_CYC_P1_F6,2.557,Loganin,Failed,25137,3147.074,---,---,Analysis,P1
+201026_MIA_099.xms,ISY_CYC_P1_F7,2.552,Loganin,Failed,40946,5353.724,---,---,Analysis,P1
+201026_MIA_100.xms,ISY_CYC_P1_F8,2.571,Loganin,Failed,30889,4162.18,---,---,Analysis,P1
+201026_MIA_101.xms,ISY_CYC_P1_F9,2.556,Loganin,Failed,41020,5622.603,---,---,Analysis,P1
+201026_MIA_102.xms,ISY_CYC_P1_F10,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_103.xms,ISY_CYC_P1_F11,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_104.xms,ISY_CYC_P1_F12,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_105.xms,QC_mix_05,2.575,Loganin,Failed,45264,3649.407,1000,264.941,Verification,P1
+201026_MIA_106.xms,ISY_CYC_P1_G1,2.564,Loganin,Failed,37728,4295.455,---,---,Analysis,P1
+201026_MIA_107.xms,ISY_CYC_P1_G2,2.547,Loganin,Failed,29191,3579.427,---,---,Analysis,P1
+201026_MIA_108.xms,ISY_CYC_P1_G3,2.572,Loganin,Failed,25362,3381.361,---,---,Analysis,P1
+201026_MIA_109.xms,ISY_CYC_P1_G4,2.562,Loganin,Failed,17613,1724.018,---,---,Analysis,P1
+201026_MIA_110.xms,ISY_CYC_P1_G5,2.542,Loganin,Failed,42726,5160.506,---,---,Analysis,P1
+201026_MIA_111.xms,ISY_CYC_P1_G6,2.541,Loganin,Failed,47007,5844.422,---,---,Analysis,P1
+201026_MIA_112.xms,ISY_CYC_P1_G7,2.553,Loganin,Failed,33129,3813.098,---,---,Analysis,P1
+201026_MIA_113.xms,ISY_CYC_P1_G8,2.539,Loganin,Failed,49341,7282.003,---,---,Analysis,P1
+201026_MIA_114.xms,ISY_CYC_P1_G9,2.543,Loganin,Failed,34898,4900.765,---,---,Analysis,P1
+201026_MIA_115.xms,ISY_CYC_P1_G10,2.542,Loganin,Failed,21065,2431.415,---,---,Analysis,P1
+201026_MIA_116.xms,ISY_CYC_P1_G11,2.551,Loganin,Failed,22485,2488.197,---,---,Analysis,P1
+201026_MIA_117.xms,ISY_CYC_P1_G12,2.54,Loganin,Failed,17660,2522.538,---,---,Analysis,P1
+201026_MIA_118.xms,QC_mix_06,2.562,Loganin,Failed,44818,3465.915,1000,246.592,Verification,P1
+201026_MIA_119.xms,ISY_CYC_P1_H1,2.562,Loganin,Failed,30705,3576.579,---,---,Analysis,P1
+201026_MIA_120.xms,ISY_CYC_P1_H2,2.579,Loganin,Failed,47983,6967.01,---,---,Analysis,P1
+201026_MIA_121.xms,ISY_CYC_P1_H3,2.57,Loganin,Failed,39972,5565.325,---,---,Analysis,P1
+201026_MIA_122.xms,ISY_CYC_P1_H4,2.578,Loganin,Failed,19052,2512.964,---,---,Analysis,P1
+201026_MIA_123.xms,ISY_CYC_P1_H5,2.569,Loganin,Failed,73863,11068.69,---,---,Analysis,P1
+201026_MIA_124.xms,ISY_CYC_P1_H6,2.566,Loganin,Failed,43038,4111.396,---,---,Analysis,P1
+201026_MIA_125.xms,ISY_CYC_P1_H7,2.563,Loganin,Failed,48501,5631.242,---,---,Analysis,P1
+201026_MIA_126.xms,ISY_CYC_P1_H8,2.564,Loganin,Failed,39929,4200.14,---,---,Analysis,P1
+201026_MIA_127.xms,ISY_CYC_P1_H9,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_128.xms,ISY_CYC_P1_H10,2.542,Loganin,Failed,4239,105.011,---,---,Analysis,P1
+201026_MIA_129.xms,ISY_CYC_P1_H11,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_130.xms,ISY_CYC_P1_H12,2.536,Loganin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_131.xms,Solvent Blank,2.565,Loganin,Failed,4843,98.365,---,---,Blank,P1
+201026_MIA_131001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_132.xms,Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P1
+201026_MIA_133.xms,0.05 mg/L stric_v13#1,2.536,Loganin,Missing,0,---,50,N/A,Calibration,P1
+201026_MIA_134.xms,0.1 mg/L stric_v13#2,2.561,Loganin,Failed,1140,94.131,100,-5.869,Calibration,P1
+201026_MIA_135.xms,0.25 mg/L stric_v13#3,2.553,Loganin,Failed,2808,263.671,250,5.469,Calibration,P1
+201026_MIA_136.xms,0.5 mg/L stric_v13#4,2.547,Loganin,Failed,4417,494.104,500,-1.179,Calibration,P1
+201026_MIA_137.xms,1 mg/L stric_v13#5,2.559,Loganin,Failed,10445,1027.85,1000,2.785,Calibration,P1
+201026_MIA_138.xms,2.5 mg/L stric_v13#6,2.537,Loganin,Failed,29923,2439.846,2500,-2.406,Calibration,P1
+201026_MIA_139.xms,5 mg/L stric_v13#7,2.575,Loganin,Failed,57077,6025.952,5000,20.519,Calibration,P1
+201026_MIA_140.xms,10 mg/L stric_v13#8,2.588,Loganin,Failed,122777,10208.98,10000,2.09,Calibration,P1
+201026_MIA_141.xms,25 mg/L stric_v13#9,2.523,Loganin,Failed,758,42.321,25000,-99.831,Calibration,P1
+201026_MIA_142.xms,50 mg/L stric_v13#10,2.528,Loganin,Failed,2156,109.268,50000,-99.781,Calibration,P1
+201026_MIA_143.xms,Solvent Blank,2.57,Loganin,Failed,1648,465.968,---,---,Blank,P1
+201026_MIA_143001.xms,Solvent Blank,2.545,Loganin,Failed,2410,334.242,---,---,Blank,P1
+201026_MIA_143002.xms,Solvent Blank,2.565,Loganin,Failed,1031,320.944,---,---,Blank,P1
+201026_MIA_001.xms,Solvent Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P1
+201026_MIA_001001.xms,Solvent Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P1
+201026_MIA_002.xms,QC_mix_00,2.867,Secologanin,Failed,17920,133.061,---,---,Analysis,P1
+201026_MIA_003.xms,Solvent Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P1
+201026_MIA_003001.xms,Solvent Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P1
+201026_MIA_004.xms,Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P1
+201026_MIA_005.xms,0.05 mg/L stric_v13#1,2.864,Secologanin,Identified,5909,51.471,50,2.941,Calibration,P1
+201026_MIA_006.xms,0.1 mg/L stric_v13#2,2.858,Secologanin,Failed,20530,83.954,100,-16.046,Calibration,P1
+201026_MIA_007.xms,0.25 mg/L stric_v13#3,2.854,Secologanin,Failed,31154,210.101,250,-15.959,Calibration,P1
+201026_MIA_008.xms,0.5 mg/L stric_v13#4,2.832,Secologanin,Failed,67306,436.175,500,-12.765,Calibration,P1
+201026_MIA_009.xms,1 mg/L stric_v13#5,2.835,Secologanin,Failed,141029,948.633,1000,-5.137,Calibration,P1
+201026_MIA_010.xms,2.5 mg/L stric_v13#6,2.835,Secologanin,Failed,437649,3066.6,2500,22.664,Calibration,P1
+201026_MIA_011.xms,5 mg/L stric_v13#7,2.823,Secologanin,Failed,1.22E+06,8131.341,5000,62.627,Calibration,P1
+201026_MIA_012.xms,10 mg/L stric_v13#8,2.835,Secologanin,Failed,2.33E+06,15262.471,10000,52.625,Calibration,P1
+201026_MIA_013.xms,25 mg/L stric_v13#9,2.827,Secologanin,Failed,5.69E+06,29413.934,25000,17.656,Calibration,P1
+201026_MIA_014.xms,50 mg/L stric_v13#10,2.83,Secologanin,Failed,1.21E+07,58176.242,50000,16.352,Calibration,P1
+201026_MIA_015.xms,Solvent Blank,2.832,Secologanin,Failed,5129,12676.084,---,---,Blank,P1
+201026_MIA_015001.xms,Solvent Blank,2.844,Secologanin,Identified,1949,2417.297,---,---,Blank,P1
+201026_MIA_015002.xms,Solvent Blank,2.841,Secologanin,Failed,840,2403.255,---,---,Blank,P1
+201026_MIA_016.xms,ISY_CYC_P1_A1,2.828,Secologanin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_017.xms,ISY_CYC_P1_A2,2.828,Secologanin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_018.xms,ISY_CYC_P1_A3,2.845,Secologanin,Failed,46097,713.928,---,---,Analysis,P1
+201026_MIA_019.xms,ISY_CYC_P1_A4,2.841,Secologanin,Failed,131116,1354.804,---,---,Analysis,P1
+201026_MIA_020.xms,ISY_CYC_P1_A5,2.844,Secologanin,Failed,91153,1144.529,---,---,Analysis,P1
+201026_MIA_021.xms,ISY_CYC_P1_A6,2.846,Secologanin,Failed,28320,570.202,---,---,Analysis,P1
+201026_MIA_022.xms,ISY_CYC_P1_A7,2.845,Secologanin,Failed,20807,506.58,---,---,Analysis,P1
+201026_MIA_023.xms,ISY_CYC_P1_A8,2.84,Secologanin,Failed,37835,672.265,---,---,Analysis,P1
+201026_MIA_024.xms,ISY_CYC_P1_A9,2.843,Secologanin,Failed,8611,409.284,---,---,Analysis,P1
+201026_MIA_025.xms,ISY_CYC_P1_A10,2.828,Secologanin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_026.xms,ISY_CYC_P1_A11,2.84,Secologanin,Failed,13122,445.794,---,---,Analysis,P1
+201026_MIA_027.xms,ISY_CYC_P1_A12,2.836,Secologanin,Failed,16211,456.448,---,---,Analysis,P1
+201026_MIA_028.xms,QC_mix_01,2.834,Secologanin,Failed,12607,65.892,1000,-93.411,Verification,P1
+201026_MIA_029.xms,ISY_CYC_P1_B1,2.836,Secologanin,Identified,993,349.233,---,---,Analysis,P1
+201026_MIA_030.xms,ISY_CYC_P1_B2,2.845,Secologanin,Failed,26752,545.221,---,---,Analysis,P1
+201026_MIA_031.xms,ISY_CYC_P1_B3,2.845,Secologanin,Failed,136216,1315.544,---,---,Analysis,P1
+201026_MIA_032.xms,ISY_CYC_P1_B4,2.833,Secologanin,Failed,148185,1445.146,---,---,Analysis,P1
+201026_MIA_033.xms,ISY_CYC_P1_B5,2.83,Secologanin,Failed,148414,1332.068,---,---,Analysis,P1
+201026_MIA_034.xms,ISY_CYC_P1_B6,2.831,Secologanin,Failed,113102,1107.072,---,---,Analysis,P1
+201026_MIA_035.xms,ISY_CYC_P1_B7,2.829,Secologanin,Failed,18487,470.236,---,---,Analysis,P1
+201026_MIA_036.xms,ISY_CYC_P1_B8,2.832,Secologanin,Failed,8413,409.424,---,---,Analysis,P1
+201026_MIA_037.xms,ISY_CYC_P1_B9,2.832,Secologanin,Failed,14709,439.563,---,---,Analysis,P1
+201026_MIA_038.xms,ISY_CYC_P1_B10,2.847,Secologanin,Failed,628,346.298,---,---,Analysis,P1
+201026_MIA_039.xms,ISY_CYC_P1_B11,2.828,Secologanin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_040.xms,ISY_CYC_P1_B12,2.829,Secologanin,Failed,4514,373.528,---,---,Analysis,P1
+201026_MIA_041.xms,QC_mix_02,2.83,Secologanin,Failed,14828,75.806,1000,-92.419,Verification,P1
+201026_MIA_042.xms,ISY_CYC_P1_C1,2.825,Secologanin,Failed,1329,352.221,---,---,Analysis,P1
+201026_MIA_043.xms,ISY_CYC_P1_C2,2.819,Secologanin,Failed,1092,350.25,---,---,Analysis,P1
+201026_MIA_044.xms,ISY_CYC_P1_C3,2.825,Secologanin,Failed,114715,1116.559,---,---,Analysis,P1
+201026_MIA_045.xms,ISY_CYC_P1_C4,2.805,Secologanin,Failed,152336,1383.138,---,---,Analysis,P1
+201026_MIA_046.xms,ISY_CYC_P1_C5,2.811,Secologanin,Failed,132823,1181.768,---,---,Analysis,P1
+201026_MIA_047.xms,ISY_CYC_P1_C6,2.813,Secologanin,Failed,155025,1459.083,---,---,Analysis,P1
+201026_MIA_048.xms,ISY_CYC_P1_C7,2.816,Secologanin,Failed,404060,3128.947,---,---,Analysis,P1
+201026_MIA_049.xms,ISY_CYC_P1_C8,2.819,Secologanin,Failed,459428,3390.4,---,---,Analysis,P1
+201026_MIA_050.xms,ISY_CYC_P1_C9,2.812,Secologanin,Failed,187299,2102.375,---,---,Analysis,P1
+201026_MIA_051.xms,ISY_CYC_P1_C10,2.816,Secologanin,Failed,190446,1976.077,---,---,Analysis,P1
+201026_MIA_052.xms,ISY_CYC_P1_C11,2.83,Secologanin,Failed,12903,459.664,---,---,Analysis,P1
+201026_MIA_053.xms,ISY_CYC_P1_C12,2.828,Secologanin,Failed,20157,524.536,---,---,Analysis,P1
+201026_MIA_054.xms,QC_mix_03,2.829,Secologanin,Failed,15929,76.506,1000,-92.349,Verification,P1
+201026_MIA_055.xms,ISY_CYC_P1_D1,2.841,Secologanin,Failed,596,347.275,---,---,Analysis,P1
+201026_MIA_056.xms,ISY_CYC_P1_D2,2.853,Secologanin,Failed,282887,2411.656,---,---,Analysis,P1
+201026_MIA_057.xms,ISY_CYC_P1_D3,2.842,Secologanin,Failed,176535,1576.343,---,---,Analysis,P1
+201026_MIA_058.xms,ISY_CYC_P1_D4,2.837,Secologanin,Failed,180468,1335.601,---,---,Analysis,P1
+201026_MIA_059.xms,ISY_CYC_P1_D5,2.83,Secologanin,Failed,190808,1627.688,---,---,Analysis,P1
+201026_MIA_060.xms,ISY_CYC_P1_D6,2.832,Secologanin,Failed,303419,2114.351,---,---,Analysis,P1
+201026_MIA_061.xms,ISY_CYC_P1_D7,2.826,Secologanin,Failed,311534,2284.843,---,---,Analysis,P1
+201026_MIA_062.xms,ISY_CYC_P1_D8,2.842,Secologanin,Failed,686,346.473,---,---,Analysis,P1
+201026_MIA_063.xms,ISY_CYC_P1_D9,2.84,Secologanin,Failed,47473,696.193,---,---,Analysis,P1
+201026_MIA_064.xms,ISY_CYC_P1_D10,2.843,Secologanin,Failed,851,348,---,---,Analysis,P1
+201026_MIA_065.xms,ISY_CYC_P1_D11,2.842,Secologanin,Failed,103332,1048.072,---,---,Analysis,P1
+201026_MIA_066.xms,ISY_CYC_P1_D12,2.837,Secologanin,Failed,137200,1275.6,---,---,Analysis,P1
+201026_MIA_067.xms,Solvent Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P1
+201026_MIA_067001.xms,Solvent Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P1
+201026_MIA_068.xms,Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P1
+201026_MIA_069.xms,0.05 mg/L stric_v13#1,2.843,Secologanin,Failed,6850,49.726,50,-0.549,Calibration,P1
+201026_MIA_070.xms,0.1 mg/L stric_v13#2,2.828,Secologanin,Failed,16842,89.004,100,-10.996,Calibration,P1
+201026_MIA_071.xms,0.25 mg/L stric_v13#3,2.829,Secologanin,Failed,41465,219.375,250,-12.25,Calibration,P1
+201026_MIA_072.xms,0.5 mg/L stric_v13#4,2.835,Secologanin,Failed,84107,439.712,500,-12.058,Calibration,P1
+201026_MIA_073.xms,1 mg/L stric_v13#5,2.834,Secologanin,Failed,179263,986.806,1000,-1.319,Calibration,P1
+201026_MIA_074.xms,2.5 mg/L stric_v13#6,2.835,Secologanin,Failed,534938,3013.697,2500,20.548,Calibration,P1
+201026_MIA_075.xms,5 mg/L stric_v13#7,2.81,Secologanin,Failed,1.48E+06,8023.522,5000,60.47,Calibration,P1
+201026_MIA_076.xms,10 mg/L stric_v13#8,2.833,Secologanin,Failed,3.87E+06,15641.283,10000,56.413,Calibration,P1
+201026_MIA_077.xms,25 mg/L stric_v13#9,2.826,Secologanin,Failed,7.65E+06,41691,25000,66.764,Calibration,P1
+201026_MIA_078.xms,50 mg/L stric_v13#10,2.826,Secologanin,Failed,2.20E+07,59930.574,50000,19.861,Calibration,P1
+201026_MIA_079.xms,Solvent Blank,2.832,Secologanin,Failed,11901,7917.937,---,---,Blank,P1
+201026_MIA_079001.xms,Solvent Blank,2.827,Secologanin,Failed,8010,5557.335,---,---,Blank,P1
+201026_MIA_079002.xms,Solvent Blank,2.829,Secologanin,Failed,4905,6353.966,---,---,Blank,P1
+201026_MIA_080.xms,ISY_CYC_P1_E1,2.828,Secologanin,Failed,258931,1956.745,---,---,Analysis,P1
+201026_MIA_081.xms,ISY_CYC_P1_E2,2.819,Secologanin,Failed,17810,456.452,---,---,Analysis,P1
+201026_MIA_082.xms,ISY_CYC_P1_E3,2.824,Secologanin,Failed,3571,366.923,---,---,Analysis,P1
+201026_MIA_083.xms,ISY_CYC_P1_E4,2.84,Secologanin,Failed,179531,1672.688,---,---,Analysis,P1
+201026_MIA_084.xms,ISY_CYC_P1_E5,2.818,Secologanin,Failed,129778,1270.864,---,---,Analysis,P1
+201026_MIA_085.xms,ISY_CYC_P1_E6,2.84,Secologanin,Failed,205119,1951.259,---,---,Analysis,P1
+201026_MIA_086.xms,ISY_CYC_P1_E7,2.838,Secologanin,Failed,118825,1304.732,---,---,Analysis,P1
+201026_MIA_087.xms,ISY_CYC_P1_E8,2.837,Secologanin,Failed,208984,2113.448,---,---,Analysis,P1
+201026_MIA_088.xms,ISY_CYC_P1_E9,2.837,Secologanin,Failed,207439,1907.94,---,---,Analysis,P1
+201026_MIA_089.xms,ISY_CYC_P1_E10,2.832,Secologanin,Failed,1273,350.855,---,---,Analysis,P1
+201026_MIA_090.xms,ISY_CYC_P1_E11,2.824,Secologanin,Failed,98279,1094.115,---,---,Analysis,P1
+201026_MIA_091.xms,ISY_CYC_P1_E12,2.838,Secologanin,Failed,76808,852.868,---,---,Analysis,P1
+201026_MIA_092.xms,QC_mix_04,2.833,Secologanin,Failed,18896,80.82,1000,-91.918,Verification,P1
+201026_MIA_093.xms,ISY_CYC_P1_F1,2.843,Secologanin,Failed,218600,1704.351,---,---,Analysis,P1
+201026_MIA_094.xms,ISY_CYC_P1_F2,2.842,Secologanin,Failed,104729,1045.506,---,---,Analysis,P1
+201026_MIA_095.xms,ISY_CYC_P1_F3,2.853,Secologanin,Failed,240148,2010.954,---,---,Analysis,P1
+201026_MIA_096.xms,ISY_CYC_P1_F4,2.84,Secologanin,Failed,190603,1593.541,---,---,Analysis,P1
+201026_MIA_097.xms,ISY_CYC_P1_F5,2.858,Secologanin,Failed,332592,2382.154,---,---,Analysis,P1
+201026_MIA_098.xms,ISY_CYC_P1_F6,2.847,Secologanin,Failed,181011,1475.523,---,---,Analysis,P1
+201026_MIA_099.xms,ISY_CYC_P1_F7,2.841,Secologanin,Failed,449598,3135.043,---,---,Analysis,P1
+201026_MIA_100.xms,ISY_CYC_P1_F8,2.846,Secologanin,Failed,297954,2290.644,---,---,Analysis,P1
+201026_MIA_101.xms,ISY_CYC_P1_F9,2.848,Secologanin,Failed,342654,2565.57,---,---,Analysis,P1
+201026_MIA_102.xms,ISY_CYC_P1_F10,2.839,Secologanin,Failed,925,348.393,---,---,Analysis,P1
+201026_MIA_103.xms,ISY_CYC_P1_F11,2.854,Secologanin,Failed,1051,348.634,---,---,Analysis,P1
+201026_MIA_104.xms,ISY_CYC_P1_F12,2.845,Secologanin,Failed,3076,361.505,---,---,Analysis,P1
+201026_MIA_105.xms,QC_mix_05,2.855,Secologanin,Failed,21126,88.886,1000,-91.111,Verification,P1
+201026_MIA_106.xms,ISY_CYC_P1_G1,2.845,Secologanin,Failed,347634,2257.396,---,---,Analysis,P1
+201026_MIA_107.xms,ISY_CYC_P1_G2,2.84,Secologanin,Failed,313298,2235.301,---,---,Analysis,P1
+201026_MIA_108.xms,ISY_CYC_P1_G3,2.855,Secologanin,Failed,206668,1708.595,---,---,Analysis,P1
+201026_MIA_109.xms,ISY_CYC_P1_G4,2.851,Secologanin,Failed,156091,1182.821,---,---,Analysis,P1
+201026_MIA_110.xms,ISY_CYC_P1_G5,2.835,Secologanin,Failed,383189,2547.216,---,---,Analysis,P1
+201026_MIA_111.xms,ISY_CYC_P1_G6,2.826,Secologanin,Failed,463284,3061.494,---,---,Analysis,P1
+201026_MIA_112.xms,ISY_CYC_P1_G7,2.846,Secologanin,Failed,257278,1791.713,---,---,Analysis,P1
+201026_MIA_113.xms,ISY_CYC_P1_G8,2.832,Secologanin,Failed,346622,2724.254,---,---,Analysis,P1
+201026_MIA_114.xms,ISY_CYC_P1_G9,2.842,Secologanin,Failed,255297,2057.27,---,---,Analysis,P1
+201026_MIA_115.xms,ISY_CYC_P1_G10,2.837,Secologanin,Failed,81160,827.371,---,---,Analysis,P1
+201026_MIA_116.xms,ISY_CYC_P1_G11,2.841,Secologanin,Failed,70478,744.694,---,---,Analysis,P1
+201026_MIA_117.xms,ISY_CYC_P1_G12,2.831,Secologanin,Failed,61210,792.517,---,---,Analysis,P1
+201026_MIA_118.xms,QC_mix_06,2.855,Secologanin,Failed,21028,85.498,1000,-91.45,Verification,P1
+201026_MIA_119.xms,ISY_CYC_P1_H1,2.857,Secologanin,Failed,276229,1927.867,---,---,Analysis,P1
+201026_MIA_120.xms,ISY_CYC_P1_H2,2.864,Secologanin,Failed,494411,3693.504,---,---,Analysis,P1
+201026_MIA_121.xms,ISY_CYC_P1_H3,2.858,Secologanin,Failed,356948,2696.605,---,---,Analysis,P1
+201026_MIA_122.xms,ISY_CYC_P1_H4,2.853,Secologanin,Failed,265109,2144.57,---,---,Analysis,P1
+201026_MIA_123.xms,ISY_CYC_P1_H5,2.865,Secologanin,Failed,750893,5480.935,---,---,Analysis,P1
+201026_MIA_124.xms,ISY_CYC_P1_H6,2.859,Secologanin,Failed,377263,2093.289,---,---,Analysis,P1
+201026_MIA_125.xms,ISY_CYC_P1_H7,2.858,Secologanin,Failed,467742,2912.783,---,---,Analysis,P1
+201026_MIA_126.xms,ISY_CYC_P1_H8,2.86,Secologanin,Failed,313185,1939.604,---,---,Analysis,P1
+201026_MIA_127.xms,ISY_CYC_P1_H9,2.811,Secologanin,Failed,1004,346.858,---,---,Analysis,P1
+201026_MIA_128.xms,ISY_CYC_P1_H10,2.836,Secologanin,Failed,27909,498.292,---,---,Analysis,P1
+201026_MIA_129.xms,ISY_CYC_P1_H11,2.828,Secologanin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_130.xms,ISY_CYC_P1_H12,2.828,Secologanin,Missing,0,---,---,---,Analysis,P1
+201026_MIA_131.xms,Solvent Blank,2.866,Secologanin,Failed,17248,31.802,---,---,Blank,P1
+201026_MIA_131001.xms,Solvent Blank,2.84,Secologanin,Failed,881,34.878,---,---,Blank,P1
+201026_MIA_132.xms,Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P1
+201026_MIA_133.xms,0.05 mg/L stric_v13#1,2.841,Secologanin,Failed,10883,59.344,50,18.689,Calibration,P1
+201026_MIA_134.xms,0.1 mg/L stric_v13#2,2.843,Secologanin,Failed,20384,101.334,100,1.334,Calibration,P1
+201026_MIA_135.xms,0.25 mg/L stric_v13#3,2.843,Secologanin,Failed,50894,237.566,250,-4.974,Calibration,P1
+201026_MIA_136.xms,0.5 mg/L stric_v13#4,2.837,Secologanin,Failed,91452,479.056,500,-4.189,Calibration,P1
+201026_MIA_137.xms,1 mg/L stric_v13#5,2.841,Secologanin,Failed,236993,1055.777,1000,5.578,Calibration,P1
+201026_MIA_138.xms,2.5 mg/L stric_v13#6,2.822,Secologanin,Failed,858689,3112.162,2500,24.486,Calibration,P1
+201026_MIA_139.xms,5 mg/L stric_v13#7,2.867,Secologanin,Failed,2.36E+06,10981.98,5000,119.64,Calibration,P1
+201026_MIA_140.xms,10 mg/L stric_v13#8,2.865,Secologanin,Failed,4.64E+06,16994.779,10000,69.948,Calibration,P1
+201026_MIA_141.xms,25 mg/L stric_v13#9,2.863,Secologanin,Failed,1.15E+07,39704.746,25000,58.819,Calibration,P1
+201026_MIA_142.xms,50 mg/L stric_v13#10,2.865,Secologanin,Failed,2.20E+07,56700.398,50000,13.401,Calibration,P1
+201026_MIA_143.xms,Solvent Blank,2.845,Secologanin,Failed,58108,762.491,---,---,Blank,P1
+201026_MIA_143001.xms,Solvent Blank,2.839,Secologanin,Failed,73250,483.412,---,---,Blank,P1
+201026_MIA_143002.xms,Solvent Blank,2.851,Secologanin,Failed,31505,467.925,---,---,Blank,P1
+201026_MIA_001.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P1
+201026_MIA_001001.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P1
+201026_MIA_002.xms,QC_mix_00,3.104,Strictosidine,Failed,4033,36.592,---,---,Analysis,P1
+201026_MIA_003.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P1
+201026_MIA_003001.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P1
+201026_MIA_004.xms,Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P1
+201026_MIA_005.xms,0.05 mg/L stric_v13#1,3.077,Strictosidine,Failed,5165,53.279,50,6.557,Calibration,P1
+201026_MIA_006.xms,0.1 mg/L stric_v13#2,3.088,Strictosidine,Failed,19887,111.26,100,11.26,Calibration,P1
+201026_MIA_007.xms,0.25 mg/L stric_v13#3,3.085,Strictosidine,Failed,25576,265.461,250,6.184,Calibration,P1
+201026_MIA_008.xms,0.5 mg/L stric_v13#4,3.072,Strictosidine,Failed,45852,474.917,500,-5.017,Calibration,P1
+201026_MIA_009.xms,1 mg/L stric_v13#5,3.068,Strictosidine,Failed,106873,1171.108,1000,17.111,Calibration,P1
+201026_MIA_010.xms,2.5 mg/L stric_v13#6,3.06,Strictosidine,Failed,233266,2691.409,2500,7.656,Calibration,P1
+201026_MIA_011.xms,5 mg/L stric_v13#7,3.065,Strictosidine,Failed,377253,4139.188,5000,-17.216,Calibration,P1
+201026_MIA_012.xms,10 mg/L stric_v13#8,3.064,Strictosidine,Failed,908814,9830.566,10000,-1.694,Calibration,P1
+201026_MIA_013.xms,25 mg/L stric_v13#9,3.061,Strictosidine,Failed,2.08E+06,17757.234,25000,-28.971,Calibration,P1
+201026_MIA_014.xms,50 mg/L stric_v13#10,3.065,Strictosidine,Failed,4.10E+06,32643.816,50000,-34.712,Calibration,P1
+201026_MIA_015.xms,Solvent Blank,3.061,Strictosidine,Failed,1153,4709.078,---,---,Blank,P1
+201026_MIA_015001.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P1
+201026_MIA_015002.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P1
+201026_MIA_016.xms,ISY_CYC_P1_A1,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P1
+201026_MIA_017.xms,ISY_CYC_P1_A2,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P1
+201026_MIA_018.xms,ISY_CYC_P1_A3,3.083,Strictosidine,Failed,22549,266.351,---,---,Analysis,P1
+201026_MIA_019.xms,ISY_CYC_P1_A4,3.079,Strictosidine,Failed,45440,546.147,---,---,Analysis,P1
+201026_MIA_020.xms,ISY_CYC_P1_A5,3.072,Strictosidine,Failed,53807,749.215,---,---,Analysis,P1
+201026_MIA_021.xms,ISY_CYC_P1_A6,3.08,Strictosidine,Failed,11293,115.871,---,---,Analysis,P1
+201026_MIA_022.xms,ISY_CYC_P1_A7,3.073,Strictosidine,Failed,14319,152.672,---,---,Analysis,P1
+201026_MIA_023.xms,ISY_CYC_P1_A8,3.078,Strictosidine,Failed,24025,312.292,---,---,Analysis,P1
+201026_MIA_024.xms,ISY_CYC_P1_A9,3.091,Strictosidine,Failed,7913,67.523,---,---,Analysis,P1
+201026_MIA_025.xms,ISY_CYC_P1_A10,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P1
+201026_MIA_026.xms,ISY_CYC_P1_A11,3.081,Strictosidine,Failed,9358,87.722,---,---,Analysis,P1
+201026_MIA_027.xms,ISY_CYC_P1_A12,3.082,Strictosidine,Failed,12564,112.01,---,---,Analysis,P1
+201026_MIA_028.xms,QC_mix_01,3.07,Strictosidine,Failed,3194,20.499,1000,-97.95,Verification,P1
+201026_MIA_029.xms,ISY_CYC_P1_B1,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P1
+201026_MIA_030.xms,ISY_CYC_P1_B2,3.09,Strictosidine,Failed,17306,182.797,---,---,Analysis,P1
+201026_MIA_031.xms,ISY_CYC_P1_B3,3.08,Strictosidine,Failed,58844,661.256,---,---,Analysis,P1
+201026_MIA_032.xms,ISY_CYC_P1_B4,3.072,Strictosidine,Failed,53363,622.691,---,---,Analysis,P1
+201026_MIA_033.xms,ISY_CYC_P1_B5,3.078,Strictosidine,Failed,64152,673.486,---,---,Analysis,P1
+201026_MIA_034.xms,ISY_CYC_P1_B6,3.071,Strictosidine,Failed,78648,845.647,---,---,Analysis,P1
+201026_MIA_035.xms,ISY_CYC_P1_B7,3.07,Strictosidine,Failed,9960,79.595,---,---,Analysis,P1
+201026_MIA_036.xms,ISY_CYC_P1_B8,3.076,Strictosidine,Failed,3503,11.74,---,---,Analysis,P1
+201026_MIA_037.xms,ISY_CYC_P1_B9,3.077,Strictosidine,Failed,10686,82.531,---,---,Analysis,P1
+201026_MIA_038.xms,ISY_CYC_P1_B10,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P1
+201026_MIA_039.xms,ISY_CYC_P1_B11,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P1
+201026_MIA_040.xms,ISY_CYC_P1_B12,3.066,Strictosidine,Failed,11602,99.066,---,---,Analysis,P1
+201026_MIA_041.xms,QC_mix_02,3.069,Strictosidine,Failed,3211,20.878,1000,-97.912,Verification,P1
+201026_MIA_042.xms,ISY_CYC_P1_C1,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P1
+201026_MIA_043.xms,ISY_CYC_P1_C2,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P1
+201026_MIA_044.xms,ISY_CYC_P1_C3,3.06,Strictosidine,Failed,47527,496.326,---,---,Analysis,P1
+201026_MIA_045.xms,ISY_CYC_P1_C4,3.05,Strictosidine,Failed,56115,599.951,---,---,Analysis,P1
+201026_MIA_046.xms,ISY_CYC_P1_C5,3.056,Strictosidine,Failed,59781,590.757,---,---,Analysis,P1
+201026_MIA_047.xms,ISY_CYC_P1_C6,3.048,Strictosidine,Failed,131230,1530.089,---,---,Analysis,P1
+201026_MIA_048.xms,ISY_CYC_P1_C7,3.06,Strictosidine,Failed,410788,4654.013,---,---,Analysis,P1
+201026_MIA_049.xms,ISY_CYC_P1_C8,3.05,Strictosidine,Failed,117840,1259.227,---,---,Analysis,P1
+201026_MIA_050.xms,ISY_CYC_P1_C9,3.061,Strictosidine,Failed,64557,969.382,---,---,Analysis,P1
+201026_MIA_051.xms,ISY_CYC_P1_C10,3.055,Strictosidine,Failed,117608,1635.179,---,---,Analysis,P1
+201026_MIA_052.xms,ISY_CYC_P1_C11,3.075,Strictosidine,Failed,192198,2863.592,---,---,Analysis,P1
+201026_MIA_053.xms,ISY_CYC_P1_C12,3.075,Strictosidine,Failed,192952,2855.554,---,---,Analysis,P1
+201026_MIA_054.xms,QC_mix_03,3.072,Strictosidine,Failed,4108,25.427,1000,-97.457,Verification,P1
+201026_MIA_055.xms,ISY_CYC_P1_D1,3.089,Strictosidine,Failed,535,N/A,---,---,Analysis,P1
+201026_MIA_056.xms,ISY_CYC_P1_D2,3.085,Strictosidine,Failed,82197,960.477,---,---,Analysis,P1
+201026_MIA_057.xms,ISY_CYC_P1_D3,3.093,Strictosidine,Failed,57922,635.497,---,---,Analysis,P1
+201026_MIA_058.xms,ISY_CYC_P1_D4,3.083,Strictosidine,Failed,72882,629.317,---,---,Analysis,P1
+201026_MIA_059.xms,ISY_CYC_P1_D5,3.073,Strictosidine,Failed,60200,636.569,---,---,Analysis,P1
+201026_MIA_060.xms,ISY_CYC_P1_D6,3.079,Strictosidine,Failed,130358,1225.381,---,---,Analysis,P1
+201026_MIA_061.xms,ISY_CYC_P1_D7,3.064,Strictosidine,Failed,81371,805.083,---,---,Analysis,P1
+201026_MIA_062.xms,ISY_CYC_P1_D8,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P1
+201026_MIA_063.xms,ISY_CYC_P1_D9,3.086,Strictosidine,Failed,24116,263.022,---,---,Analysis,P1
+201026_MIA_064.xms,ISY_CYC_P1_D10,3.087,Strictosidine,Failed,1346,N/A,---,---,Analysis,P1
+201026_MIA_065.xms,ISY_CYC_P1_D11,3.078,Strictosidine,Failed,296010,3312.135,---,---,Analysis,P1
+201026_MIA_066.xms,ISY_CYC_P1_D12,3.082,Strictosidine,Failed,444584,4971.245,---,---,Analysis,P1
+201026_MIA_067.xms,Solvent Blank,3.079,Strictosidine,Failed,757,70.123,---,---,Blank,P1
+201026_MIA_067001.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P1
+201026_MIA_068.xms,Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P1
+201026_MIA_069.xms,0.05 mg/L stric_v13#1,3.072,Strictosidine,Failed,5100,43.019,50,-13.962,Calibration,P1
+201026_MIA_070.xms,0.1 mg/L stric_v13#2,3.071,Strictosidine,Failed,14336,104.711,100,4.711,Calibration,P1
+201026_MIA_071.xms,0.25 mg/L stric_v13#3,3.069,Strictosidine,Failed,33358,272.454,250,8.982,Calibration,P1
+201026_MIA_072.xms,0.5 mg/L stric_v13#4,3.078,Strictosidine,Failed,54819,458.13,500,-8.374,Calibration,P1
+201026_MIA_073.xms,1 mg/L stric_v13#5,3.071,Strictosidine,Failed,112426,1008.579,1000,0.858,Calibration,P1
+201026_MIA_074.xms,2.5 mg/L stric_v13#6,3.079,Strictosidine,Failed,264615,2454.436,2500,-1.823,Calibration,P1
+201026_MIA_075.xms,5 mg/L stric_v13#7,3.053,Strictosidine,Failed,515032,4603.139,5000,-7.937,Calibration,P1
+201026_MIA_076.xms,10 mg/L stric_v13#8,3.073,Strictosidine,Failed,1.43E+06,9566.372,10000,-4.336,Calibration,P1
+201026_MIA_077.xms,25 mg/L stric_v13#9,3.054,Strictosidine,Failed,2.34E+06,21096.918,25000,-15.612,Calibration,P1
+201026_MIA_078.xms,50 mg/L stric_v13#10,3.07,Strictosidine,Failed,7.78E+06,35131.887,50000,-29.736,Calibration,P1
+201026_MIA_079.xms,Solvent Blank,3.069,Strictosidine,Failed,4263,4684.23,---,---,Blank,P1
+201026_MIA_079001.xms,Solvent Blank,3.06,Strictosidine,Failed,2278,2607.291,---,---,Blank,P1
+201026_MIA_079002.xms,Solvent Blank,3.082,Strictosidine,Failed,1267,2708.775,---,---,Blank,P1
+201026_MIA_080.xms,ISY_CYC_P1_E1,3.072,Strictosidine,Failed,67961,666.667,---,---,Analysis,P1
+201026_MIA_081.xms,ISY_CYC_P1_E2,3.062,Strictosidine,Failed,7096,40.739,---,---,Analysis,P1
+201026_MIA_082.xms,ISY_CYC_P1_E3,3.074,Strictosidine,Failed,1536,N/A,---,---,Analysis,P1
+201026_MIA_083.xms,ISY_CYC_P1_E4,3.075,Strictosidine,Failed,45305,521.012,---,---,Analysis,P1
+201026_MIA_084.xms,ISY_CYC_P1_E5,3.064,Strictosidine,Failed,39137,428.848,---,---,Analysis,P1
+201026_MIA_085.xms,ISY_CYC_P1_E6,3.078,Strictosidine,Failed,87696,1103.845,---,---,Analysis,P1
+201026_MIA_086.xms,ISY_CYC_P1_E7,3.075,Strictosidine,Failed,44636,563.76,---,---,Analysis,P1
+201026_MIA_087.xms,ISY_CYC_P1_E8,3.082,Strictosidine,Failed,65699,886.882,---,---,Analysis,P1
+201026_MIA_088.xms,ISY_CYC_P1_E9,3.072,Strictosidine,Failed,89888,1088.191,---,---,Analysis,P1
+201026_MIA_089.xms,ISY_CYC_P1_E10,3.076,Strictosidine,Failed,173890,1948.077,---,---,Analysis,P1
+201026_MIA_090.xms,ISY_CYC_P1_E11,3.067,Strictosidine,Failed,341524,4290.038,---,---,Analysis,P1
+201026_MIA_091.xms,ISY_CYC_P1_E12,3.069,Strictosidine,Failed,433636,4737.489,---,---,Analysis,P1
+201026_MIA_092.xms,QC_mix_04,3.067,Strictosidine,Failed,4019,22.243,1000,-97.776,Verification,P1
+201026_MIA_093.xms,ISY_CYC_P1_F1,3.09,Strictosidine,Failed,48593,466.464,---,---,Analysis,P1
+201026_MIA_094.xms,ISY_CYC_P1_F2,3.08,Strictosidine,Failed,34191,345.371,---,---,Analysis,P1
+201026_MIA_095.xms,ISY_CYC_P1_F3,3.08,Strictosidine,Failed,86744,962.915,---,---,Analysis,P1
+201026_MIA_096.xms,ISY_CYC_P1_F4,3.078,Strictosidine,Failed,66711,690.182,---,---,Analysis,P1
+201026_MIA_097.xms,ISY_CYC_P1_F5,3.082,Strictosidine,Failed,90642,885.416,---,---,Analysis,P1
+201026_MIA_098.xms,ISY_CYC_P1_F6,3.081,Strictosidine,Failed,66544,654.887,---,---,Analysis,P1
+201026_MIA_099.xms,ISY_CYC_P1_F7,3.09,Strictosidine,Failed,120954,1208.771,---,---,Analysis,P1
+201026_MIA_100.xms,ISY_CYC_P1_F8,3.086,Strictosidine,Failed,67476,695.599,---,---,Analysis,P1
+201026_MIA_101.xms,ISY_CYC_P1_F9,3.084,Strictosidine,Failed,132509,1388.277,---,---,Analysis,P1
+201026_MIA_102.xms,ISY_CYC_P1_F10,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P1
+201026_MIA_103.xms,ISY_CYC_P1_F11,3.091,Strictosidine,Failed,3287,N/A,---,---,Analysis,P1
+201026_MIA_104.xms,ISY_CYC_P1_F12,3.086,Strictosidine,Failed,10091,70.77,---,---,Analysis,P1
+201026_MIA_105.xms,QC_mix_05,3.1,Strictosidine,Failed,3921,21.712,1000,-97.829,Verification,P1
+201026_MIA_106.xms,ISY_CYC_P1_G1,3.089,Strictosidine,Failed,60653,518.349,---,---,Analysis,P1
+201026_MIA_107.xms,ISY_CYC_P1_G2,3.086,Strictosidine,Failed,75827,723.617,---,---,Analysis,P1
+201026_MIA_108.xms,ISY_CYC_P1_G3,3.092,Strictosidine,Failed,68616,716.142,---,---,Analysis,P1
+201026_MIA_109.xms,ISY_CYC_P1_G4,3.087,Strictosidine,Failed,55436,459.462,---,---,Analysis,P1
+201026_MIA_110.xms,ISY_CYC_P1_G5,3.063,Strictosidine,Failed,112008,1032.014,---,---,Analysis,P1
+201026_MIA_111.xms,ISY_CYC_P1_G6,3.068,Strictosidine,Failed,112024,1053.521,---,---,Analysis,P1
+201026_MIA_112.xms,ISY_CYC_P1_G7,3.081,Strictosidine,Failed,86533,772.195,---,---,Analysis,P1
+201026_MIA_113.xms,ISY_CYC_P1_G8,3.069,Strictosidine,Failed,112279,1242.296,---,---,Analysis,P1
+201026_MIA_114.xms,ISY_CYC_P1_G9,3.076,Strictosidine,Failed,122458,1326.825,---,---,Analysis,P1
+201026_MIA_115.xms,ISY_CYC_P1_G10,3.084,Strictosidine,Failed,469810,4614.125,---,---,Analysis,P1
+201026_MIA_116.xms,ISY_CYC_P1_G11,3.066,Strictosidine,Failed,412194,3862,---,---,Analysis,P1
+201026_MIA_117.xms,ISY_CYC_P1_G12,3.061,Strictosidine,Failed,351349,4243.964,---,---,Analysis,P1
+201026_MIA_118.xms,QC_mix_06,3.088,Strictosidine,Failed,4557,24.369,1000,-97.563,Verification,P1
+201026_MIA_119.xms,ISY_CYC_P1_H1,3.078,Strictosidine,Failed,50932,449.205,---,---,Analysis,P1
+201026_MIA_120.xms,ISY_CYC_P1_H2,3.092,Strictosidine,Failed,79684,859.208,---,---,Analysis,P1
+201026_MIA_121.xms,ISY_CYC_P1_H3,3.092,Strictosidine,Failed,60202,622.493,---,---,Analysis,P1
+201026_MIA_122.xms,ISY_CYC_P1_H4,3.09,Strictosidine,Failed,21444,206.609,---,---,Analysis,P1
+201026_MIA_123.xms,ISY_CYC_P1_H5,3.106,Strictosidine,Failed,211210,2357.355,---,---,Analysis,P1
+201026_MIA_124.xms,ISY_CYC_P1_H6,3.084,Strictosidine,Failed,115384,851.677,---,---,Analysis,P1
+201026_MIA_125.xms,ISY_CYC_P1_H7,3.093,Strictosidine,Failed,111041,975.261,---,---,Analysis,P1
+201026_MIA_126.xms,ISY_CYC_P1_H8,3.1,Strictosidine,Failed,104913,850.933,---,---,Analysis,P1
+201026_MIA_127.xms,ISY_CYC_P1_H9,3.057,Strictosidine,Failed,722,N/A,---,---,Analysis,P1
+201026_MIA_128.xms,ISY_CYC_P1_H10,3.069,Strictosidine,Failed,155123,1402.136,---,---,Analysis,P1
+201026_MIA_129.xms,ISY_CYC_P1_H11,3.084,Strictosidine,Failed,2825,N/A,---,---,Analysis,P1
+201026_MIA_130.xms,ISY_CYC_P1_H12,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P1
+201026_MIA_131.xms,Solvent Blank,3.088,Strictosidine,Failed,15914,26.278,---,---,Blank,P1
+201026_MIA_131001.xms,Solvent Blank,3.089,Strictosidine,Failed,563,21.007,---,---,Blank,P1
+201026_MIA_132.xms,Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P1
+201026_MIA_133.xms,0.05 mg/L stric_v13#1,3.08,Strictosidine,Failed,6782,45.699,50,-8.601,Calibration,P1
+201026_MIA_134.xms,0.1 mg/L stric_v13#2,3.077,Strictosidine,Failed,14658,102.92,100,2.92,Calibration,P1
+201026_MIA_135.xms,0.25 mg/L stric_v13#3,3.08,Strictosidine,Failed,41588,301.364,250,20.546,Calibration,P1
+201026_MIA_136.xms,0.5 mg/L stric_v13#4,3.075,Strictosidine,Failed,62428,524.324,500,4.865,Calibration,P1
+201026_MIA_137.xms,1 mg/L stric_v13#5,3.087,Strictosidine,Failed,129577,941.506,1000,-5.849,Calibration,P1
+201026_MIA_138.xms,2.5 mg/L stric_v13#6,3.07,Strictosidine,Failed,406311,2424.851,2500,-3.006,Calibration,P1
+201026_MIA_139.xms,5 mg/L stric_v13#7,3.091,Strictosidine,Failed,597035,4595.368,5000,-8.093,Calibration,P1
+201026_MIA_140.xms,10 mg/L stric_v13#8,3.11,Strictosidine,Failed,1.56E+06,9425.941,10000,-5.741,Calibration,P1
+201026_MIA_141.xms,25 mg/L stric_v13#9,3.095,Strictosidine,Failed,3.71E+06,21266.313,25000,-14.935,Calibration,P1
+201026_MIA_142.xms,50 mg/L stric_v13#10,3.096,Strictosidine,Failed,7.73E+06,33003.137,50000,-33.994,Calibration,P1
+201026_MIA_143.xms,Solvent Blank,3.096,Strictosidine,Failed,15059,319.754,---,---,Blank,P1
+201026_MIA_143001.xms,Solvent Blank,3.078,Strictosidine,Failed,20018,211.045,---,---,Blank,P1
+201026_MIA_143002.xms,Solvent Blank,3.079,Strictosidine,Failed,9501,225.303,---,---,Blank,P1
+201026_MIA_001.xms,Solvent Blank,2.302,Tryptamine,Failed,572,572,---,---,Blank,P1
+201026_MIA_001001.xms,Solvent Blank,2.404,Tryptamine,Missing,0,---,---,---,Blank,P1
+201026_MIA_002.xms,QC_mix_00,2.374,Tryptamine,Failed,551,551,---,---,Analysis,P1
+201026_MIA_003.xms,Solvent Blank,2.404,Tryptamine,Missing,0,---,---,---,Blank,P1
+201026_MIA_003001.xms,Solvent Blank,2.383,Tryptamine,Failed,633,633,---,---,Blank,P1
+201026_MIA_004.xms,Blank,2.239,Tryptamine,Failed,597,597,---,---,Blank,P1
+201026_MIA_005.xms,0.05 mg/L stric_v13#1,2.407,Tryptamine,Failed,704,---,50,N/A,Calibration,P1
+201026_MIA_006.xms,0.1 mg/L stric_v13#2,2.431,Tryptamine,Identified,50430,---,100,N/A,Calibration,P1
+201026_MIA_007.xms,0.25 mg/L stric_v13#3,2.433,Tryptamine,Identified,66319,353.347,250,41.339,Calibration,P1
+201026_MIA_008.xms,0.5 mg/L stric_v13#4,2.414,Tryptamine,Identified,126253,1025.289,500,105.058,Calibration,P1
+201026_MIA_009.xms,1 mg/L stric_v13#5,2.409,Tryptamine,Identified,236226,2413.627,1000,141.363,Calibration,P1
+201026_MIA_010.xms,2.5 mg/L stric_v13#6,2.391,Tryptamine,Identified,576,---,2500,N/A,Calibration,P1
+201026_MIA_011.xms,5 mg/L stric_v13#7,2.397,Tryptamine,Identified,876544,10036.851,5000,100.737,Calibration,P1
+201026_MIA_012.xms,10 mg/L stric_v13#8,2.395,Tryptamine,Identified,1.73E+06,19919.695,10000,99.197,Calibration,P1
+201026_MIA_013.xms,25 mg/L stric_v13#9,2.411,Tryptamine,Identified,3.76E+06,34466.652,25000,37.867,Calibration,P1
+201026_MIA_014.xms,50 mg/L stric_v13#10,2.403,Tryptamine,Identified,7.76E+06,66643.203,50000,33.286,Calibration,P1
+201026_MIA_015.xms,Solvent Blank,2.407,Tryptamine,Identified,1729,5207.567,---,---,Blank,P1
+201026_MIA_015001.xms,Solvent Blank,2.403,Tryptamine,Identified,1085,1578.332,---,---,Blank,P1
+201026_MIA_015002.xms,Solvent Blank,2.424,Tryptamine,Identified,1229,4250.314,---,---,Blank,P1
+201026_MIA_016.xms,ISY_CYC_P1_A1,2.398,Tryptamine,Identified,8.26E+06,88155.094,---,---,Analysis,P1
+201026_MIA_017.xms,ISY_CYC_P1_A2,2.394,Tryptamine,Identified,7.25E+06,66950.344,---,---,Analysis,P1
+201026_MIA_018.xms,ISY_CYC_P1_A3,2.416,Tryptamine,Identified,7.68E+06,74730.195,---,---,Analysis,P1
+201026_MIA_019.xms,ISY_CYC_P1_A4,2.414,Tryptamine,Identified,8.74E+06,81644.359,---,---,Analysis,P1
+201026_MIA_020.xms,ISY_CYC_P1_A5,2.417,Tryptamine,Identified,1.27E+07,136399.219,---,---,Analysis,P1
+201026_MIA_021.xms,ISY_CYC_P1_A6,2.399,Tryptamine,Identified,1.97E+07,194788.094,---,---,Analysis,P1
+201026_MIA_022.xms,ISY_CYC_P1_A7,2.413,Tryptamine,Identified,9.70E+06,93034.563,---,---,Analysis,P1
+201026_MIA_023.xms,ISY_CYC_P1_A8,2.415,Tryptamine,Identified,9.85E+06,104454.477,---,---,Analysis,P1
+201026_MIA_024.xms,ISY_CYC_P1_A9,2.41,Tryptamine,Identified,1.06E+07,100831.016,---,---,Analysis,P1
+201026_MIA_025.xms,ISY_CYC_P1_A10,2.406,Tryptamine,Identified,2.25E+07,232110.813,---,---,Analysis,P1
+201026_MIA_026.xms,ISY_CYC_P1_A11,2.4,Tryptamine,Identified,1.23E+07,118347.898,---,---,Analysis,P1
+201026_MIA_027.xms,ISY_CYC_P1_A12,2.413,Tryptamine,Identified,1.15E+07,98741.336,---,---,Analysis,P1
+201026_MIA_028.xms,QC_mix_01,2.413,Tryptamine,Identified,87346,369.701,1000,-63.03,Verification,P1
+201026_MIA_029.xms,ISY_CYC_P1_B1,2.393,Tryptamine,Identified,1.08E+07,94155.031,---,---,Analysis,P1
+201026_MIA_030.xms,ISY_CYC_P1_B2,2.414,Tryptamine,Identified,5.02E+06,45228.809,---,---,Analysis,P1
+201026_MIA_031.xms,ISY_CYC_P1_B3,2.399,Tryptamine,Identified,3191,N/A,---,---,Analysis,P1
+201026_MIA_032.xms,ISY_CYC_P1_B4,2.41,Tryptamine,Identified,6.90E+06,61624.176,---,---,Analysis,P1
+201026_MIA_033.xms,ISY_CYC_P1_B5,2.409,Tryptamine,Identified,8.61E+06,69132.492,---,---,Analysis,P1
+201026_MIA_034.xms,ISY_CYC_P1_B6,2.402,Tryptamine,Identified,9.13E+06,74498.602,---,---,Analysis,P1
+201026_MIA_035.xms,ISY_CYC_P1_B7,2.408,Tryptamine,Identified,7.29E+06,60571.57,---,---,Analysis,P1
+201026_MIA_036.xms,ISY_CYC_P1_B8,2.399,Tryptamine,Identified,7.64E+06,73706.547,---,---,Analysis,P1
+201026_MIA_037.xms,ISY_CYC_P1_B9,2.402,Tryptamine,Identified,1.23E+07,98984.07,---,---,Analysis,P1
+201026_MIA_038.xms,ISY_CYC_P1_B10,2.399,Tryptamine,Identified,2.30E+07,188762.25,---,---,Analysis,P1
+201026_MIA_039.xms,ISY_CYC_P1_B11,2.401,Tryptamine,Identified,2.90E+07,256779.094,---,---,Analysis,P1
+201026_MIA_040.xms,ISY_CYC_P1_B12,2.389,Tryptamine,Identified,2.31E+07,196913.563,---,---,Analysis,P1
+201026_MIA_041.xms,QC_mix_02,2.405,Tryptamine,Identified,64226,254.995,1000,-74.501,Verification,P1
+201026_MIA_042.xms,ISY_CYC_P1_C1,2.392,Tryptamine,Identified,7.62E+06,70055.047,---,---,Analysis,P1
+201026_MIA_043.xms,ISY_CYC_P1_C2,2.38,Tryptamine,Identified,9.38E+06,84896.023,---,---,Analysis,P1
+201026_MIA_044.xms,ISY_CYC_P1_C3,2.389,Tryptamine,Identified,9.08E+06,73908.117,---,---,Analysis,P1
+201026_MIA_045.xms,ISY_CYC_P1_C4,2.376,Tryptamine,Identified,9.42E+06,77771.813,---,---,Analysis,P1
+201026_MIA_046.xms,ISY_CYC_P1_C5,2.389,Tryptamine,Identified,8.70E+06,66123.789,---,---,Analysis,P1
+201026_MIA_047.xms,ISY_CYC_P1_C6,2.384,Tryptamine,Identified,1.16E+07,101082.953,---,---,Analysis,P1
+201026_MIA_048.xms,ISY_CYC_P1_C7,2.374,Tryptamine,Identified,1.15E+07,95904.031,---,---,Analysis,P1
+201026_MIA_049.xms,ISY_CYC_P1_C8,2.378,Tryptamine,Identified,1.13E+07,90467.563,---,---,Analysis,P1
+201026_MIA_050.xms,ISY_CYC_P1_C9,2.383,Tryptamine,Identified,1.46E+07,167543.844,---,---,Analysis,P1
+201026_MIA_051.xms,ISY_CYC_P1_C10,2.388,Tryptamine,Identified,1.04E+07,108095.508,---,---,Analysis,P1
+201026_MIA_052.xms,ISY_CYC_P1_C11,2.378,Tryptamine,Identified,5.36E+07,602410.438,---,---,Analysis,P1
+201026_MIA_053.xms,ISY_CYC_P1_C12,2.396,Tryptamine,Identified,1.71E+07,189957.844,---,---,Analysis,P1
+201026_MIA_054.xms,QC_mix_03,2.404,Tryptamine,Identified,208692,940.978,1000,-5.902,Verification,P1
+201026_MIA_055.xms,ISY_CYC_P1_D1,2.407,Tryptamine,Identified,1.43E+07,151830.5,---,---,Analysis,P1
+201026_MIA_056.xms,ISY_CYC_P1_D2,2.414,Tryptamine,Identified,6.40E+06,56035.516,---,---,Analysis,P1
+201026_MIA_057.xms,ISY_CYC_P1_D3,2.414,Tryptamine,Identified,7.19E+06,60307.82,---,---,Analysis,P1
+201026_MIA_058.xms,ISY_CYC_P1_D4,2.402,Tryptamine,Identified,8.46E+06,55744.801,---,---,Analysis,P1
+201026_MIA_059.xms,ISY_CYC_P1_D5,2.404,Tryptamine,Identified,6.21E+06,49860.086,---,---,Analysis,P1
+201026_MIA_060.xms,ISY_CYC_P1_D6,2.41,Tryptamine,Identified,1.10E+07,77697.484,---,---,Analysis,P1
+201026_MIA_061.xms,ISY_CYC_P1_D7,2.401,Tryptamine,Identified,9.14E+06,68596.914,---,---,Analysis,P1
+201026_MIA_062.xms,ISY_CYC_P1_D8,2.399,Tryptamine,Identified,2.58E+07,202185.469,---,---,Analysis,P1
+201026_MIA_063.xms,ISY_CYC_P1_D9,2.413,Tryptamine,Identified,7.02E+06,62884.539,---,---,Analysis,P1
+201026_MIA_064.xms,ISY_CYC_P1_D10,2.402,Tryptamine,Identified,2.77E+07,236407.719,---,---,Analysis,P1
+201026_MIA_065.xms,ISY_CYC_P1_D11,2.38,Tryptamine,Identified,4.96E+07,417256.313,---,---,Analysis,P1
+201026_MIA_066.xms,ISY_CYC_P1_D12,2.38,Tryptamine,Identified,5.83E+07,488920.25,---,---,Analysis,P1
+201026_MIA_067.xms,Solvent Blank,2.407,Tryptamine,Identified,299639,21107.264,---,---,Blank,P1
+201026_MIA_067001.xms,Solvent Blank,2.404,Tryptamine,Identified,226261,18269.582,---,---,Blank,P1
+201026_MIA_068.xms,Blank,2.416,Tryptamine,Identified,97495,18357.672,---,---,Blank,P1
+201026_MIA_069.xms,0.05 mg/L stric_v13#1,2.4,Tryptamine,Identified,88761,441.121,50,782.242,Calibration,P1
+201026_MIA_070.xms,0.1 mg/L stric_v13#2,2.4,Tryptamine,Identified,92326,343.953,100,243.953,Calibration,P1
+201026_MIA_071.xms,0.25 mg/L stric_v13#3,2.406,Tryptamine,Identified,87011,377.571,250,51.029,Calibration,P1
+201026_MIA_072.xms,0.5 mg/L stric_v13#4,2.409,Tryptamine,Identified,140503,880.226,500,76.045,Calibration,P1
+201026_MIA_073.xms,1 mg/L stric_v13#5,2.419,Tryptamine,Identified,215316,1700.697,1000,70.07,Calibration,P1
+201026_MIA_074.xms,2.5 mg/L stric_v13#6,2.421,Tryptamine,Identified,500517,4640.787,2500,85.631,Calibration,P1
+201026_MIA_075.xms,5 mg/L stric_v13#7,2.415,Tryptamine,Identified,1.05E+06,9740.569,5000,94.811,Calibration,P1
+201026_MIA_076.xms,10 mg/L stric_v13#8,2.414,Tryptamine,Identified,2.60E+06,18477.744,10000,84.777,Calibration,P1
+201026_MIA_077.xms,25 mg/L stric_v13#9,2.386,Tryptamine,Identified,4.38E+06,42441.801,25000,69.767,Calibration,P1
+201026_MIA_078.xms,50 mg/L stric_v13#10,2.391,Tryptamine,Identified,1.33E+07,64727.367,50000,29.455,Calibration,P1
+201026_MIA_079.xms,Solvent Blank,2.399,Tryptamine,Identified,22421,17898.127,---,---,Blank,P1
+201026_MIA_079001.xms,Solvent Blank,2.405,Tryptamine,Identified,13160,10841.48,---,---,Blank,P1
+201026_MIA_079002.xms,Solvent Blank,2.407,Tryptamine,Identified,10380,16100.062,---,---,Blank,P1
+201026_MIA_080.xms,ISY_CYC_P1_E1,2.403,Tryptamine,Identified,1.07E+07,74203.336,---,---,Analysis,P1
+201026_MIA_081.xms,ISY_CYC_P1_E2,2.401,Tryptamine,Identified,4.78E+06,30682.758,---,---,Analysis,P1
+201026_MIA_082.xms,ISY_CYC_P1_E3,2.399,Tryptamine,Identified,7.23E+06,54583.434,---,---,Analysis,P1
+201026_MIA_083.xms,ISY_CYC_P1_E4,2.41,Tryptamine,Identified,6.94E+06,55981.707,---,---,Analysis,P1
+201026_MIA_084.xms,ISY_CYC_P1_E5,2.396,Tryptamine,Identified,8.02E+06,63256,---,---,Analysis,P1
+201026_MIA_085.xms,ISY_CYC_P1_E6,2.407,Tryptamine,Identified,1.78E+07,163285.859,---,---,Analysis,P1
+201026_MIA_086.xms,ISY_CYC_P1_E7,2.414,Tryptamine,Identified,8.18E+06,74033.859,---,---,Analysis,P1
+201026_MIA_087.xms,ISY_CYC_P1_E8,2.402,Tryptamine,Identified,3.22E+06,26464.377,---,---,Analysis,P1
+201026_MIA_088.xms,ISY_CYC_P1_E9,2.408,Tryptamine,Identified,2.06E+07,182653.313,---,---,Analysis,P1
+201026_MIA_089.xms,ISY_CYC_P1_E10,2.391,Tryptamine,Identified,3.85E+07,316658.406,---,---,Analysis,P1
+201026_MIA_090.xms,ISY_CYC_P1_E11,2.391,Tryptamine,Identified,1.64E+07,146391.328,---,---,Analysis,P1
+201026_MIA_091.xms,ISY_CYC_P1_E12,2.399,Tryptamine,Identified,3.03E+07,238960.234,---,---,Analysis,P1
+201026_MIA_092.xms,QC_mix_04,2.412,Tryptamine,Identified,254746,832.26,1000,-16.774,Verification,P1
+201026_MIA_093.xms,ISY_CYC_P1_F1,2.415,Tryptamine,Identified,1.04E+07,72092.141,---,---,Analysis,P1
+201026_MIA_094.xms,ISY_CYC_P1_F2,2.391,Tryptamine,Identified,12624,N/A,---,---,Analysis,P1
+201026_MIA_095.xms,ISY_CYC_P1_F3,2.406,Tryptamine,Identified,1.71E+07,138270.172,---,---,Analysis,P1
+201026_MIA_096.xms,ISY_CYC_P1_F4,2.412,Tryptamine,Identified,1.42E+07,106569.703,---,---,Analysis,P1
+201026_MIA_097.xms,ISY_CYC_P1_F5,2.414,Tryptamine,Identified,1.03E+07,70518.305,---,---,Analysis,P1
+201026_MIA_098.xms,ISY_CYC_P1_F6,2.397,Tryptamine,Identified,17404,N/A,---,---,Analysis,P1
+201026_MIA_099.xms,ISY_CYC_P1_F7,2.393,Tryptamine,Identified,8499,N/A,---,---,Analysis,P1
+201026_MIA_100.xms,ISY_CYC_P1_F8,2.392,Tryptamine,Identified,4898,N/A,---,---,Analysis,P1
+201026_MIA_101.xms,ISY_CYC_P1_F9,2.388,Tryptamine,Identified,6362,N/A,---,---,Analysis,P1
+201026_MIA_102.xms,ISY_CYC_P1_F10,2.373,Tryptamine,Identified,5.75E+07,471561.219,---,---,Analysis,P1
+201026_MIA_103.xms,ISY_CYC_P1_F11,2.38,Tryptamine,Identified,6.34E+07,474683.406,---,---,Analysis,P1
+201026_MIA_104.xms,ISY_CYC_P1_F12,2.396,Tryptamine,Identified,4.57E+07,345419.813,---,---,Analysis,P1
+201026_MIA_105.xms,QC_mix_05,2.402,Tryptamine,Failed,876,N/A,1000,-100.1,Verification,P1
+201026_MIA_106.xms,ISY_CYC_P1_G1,2.393,Tryptamine,Identified,8246,N/A,---,---,Analysis,P1
+201026_MIA_107.xms,ISY_CYC_P1_G2,2.413,Tryptamine,Identified,8.65E+06,56947.473,---,---,Analysis,P1
+201026_MIA_108.xms,ISY_CYC_P1_G3,2.417,Tryptamine,Identified,1.53E+07,116907.117,---,---,Analysis,P1
+201026_MIA_109.xms,ISY_CYC_P1_G4,2.401,Tryptamine,Identified,7246,N/A,---,---,Analysis,P1
+201026_MIA_110.xms,ISY_CYC_P1_G5,2.401,Tryptamine,Identified,5.74E+06,33505.336,---,---,Analysis,P1
+201026_MIA_111.xms,ISY_CYC_P1_G6,2.405,Tryptamine,Identified,8.19E+06,51825.457,---,---,Analysis,P1
+201026_MIA_112.xms,ISY_CYC_P1_G7,2.405,Tryptamine,Identified,1.06E+07,66354.82,---,---,Analysis,P1
+201026_MIA_113.xms,ISY_CYC_P1_G8,2.4,Tryptamine,Identified,2.16E+07,174288.328,---,---,Analysis,P1
+201026_MIA_114.xms,ISY_CYC_P1_G9,2.409,Tryptamine,Identified,1.77E+07,138031.906,---,---,Analysis,P1
+201026_MIA_115.xms,ISY_CYC_P1_G10,2.395,Tryptamine,Identified,2.42E+07,169722.688,---,---,Analysis,P1
+201026_MIA_116.xms,ISY_CYC_P1_G11,2.389,Tryptamine,Identified,2.74E+07,184181.813,---,---,Analysis,P1
+201026_MIA_117.xms,ISY_CYC_P1_G12,2.399,Tryptamine,Identified,2.69E+07,234301.141,---,---,Analysis,P1
+201026_MIA_118.xms,QC_mix_06,2.409,Tryptamine,Failed,801,N/A,1000,-100.1,Verification,P1
+201026_MIA_119.xms,ISY_CYC_P1_H1,2.397,Tryptamine,Identified,4900,N/A,---,---,Analysis,P1
+201026_MIA_120.xms,ISY_CYC_P1_H2,2.407,Tryptamine,Identified,5765,N/A,---,---,Analysis,P1
+201026_MIA_121.xms,ISY_CYC_P1_H3,2.415,Tryptamine,Identified,17475,N/A,---,---,Analysis,P1
+201026_MIA_122.xms,ISY_CYC_P1_H4,2.405,Tryptamine,Failed,736,N/A,---,---,Analysis,P1
+201026_MIA_123.xms,ISY_CYC_P1_H5,2.43,Tryptamine,Identified,4.96E+06,34596.82,---,---,Analysis,P1
+201026_MIA_124.xms,ISY_CYC_P1_H6,2.387,Tryptamine,Failed,724,N/A,---,---,Analysis,P1
+201026_MIA_125.xms,ISY_CYC_P1_H7,2.406,Tryptamine,Identified,1527,N/A,---,---,Analysis,P1
+201026_MIA_126.xms,ISY_CYC_P1_H8,2.388,Tryptamine,Identified,6930,N/A,---,---,Analysis,P1
+201026_MIA_127.xms,ISY_CYC_P1_H9,2.374,Tryptamine,Identified,1.09E+07,56664.875,---,---,Analysis,P1
+201026_MIA_128.xms,ISY_CYC_P1_H10,2.393,Tryptamine,Identified,2.94E+07,194070.172,---,---,Analysis,P1
+201026_MIA_129.xms,ISY_CYC_P1_H11,2.401,Tryptamine,Identified,5.19E+07,434126.219,---,---,Analysis,P1
+201026_MIA_130.xms,ISY_CYC_P1_H12,2.396,Tryptamine,Identified,2.54E+07,145844.891,---,---,Analysis,P1
+201026_MIA_131.xms,Solvent Blank,2.429,Tryptamine,Identified,7.44E+06,9267.896,---,---,Blank,P1
+201026_MIA_131001.xms,Solvent Blank,2.396,Tryptamine,Identified,1740,N/A,---,---,Blank,P1
+201026_MIA_132.xms,Blank,2.41,Tryptamine,Identified,7004,5050.294,---,---,Blank,P1
+201026_MIA_133.xms,0.05 mg/L stric_v13#1,2.421,Tryptamine,Identified,23796,---,50,N/A,Calibration,P1
+201026_MIA_134.xms,0.1 mg/L stric_v13#2,2.415,Tryptamine,Identified,34521,---,100,N/A,Calibration,P1
+201026_MIA_135.xms,0.25 mg/L stric_v13#3,2.416,Tryptamine,Identified,81469,246.116,250,-1.554,Calibration,P1
+201026_MIA_136.xms,0.5 mg/L stric_v13#4,2.416,Tryptamine,Identified,130654,796.174,500,59.235,Calibration,P1
+201026_MIA_137.xms,1 mg/L stric_v13#5,2.411,Tryptamine,Identified,276789,1787.29,1000,78.729,Calibration,P1
+201026_MIA_138.xms,2.5 mg/L stric_v13#6,2.409,Tryptamine,Identified,749069,4454.043,2500,78.162,Calibration,P1
+201026_MIA_139.xms,5 mg/L stric_v13#7,2.424,Tryptamine,Identified,1080,---,5000,N/A,Calibration,P1
+201026_MIA_140.xms,10 mg/L stric_v13#8,2.412,Tryptamine,Identified,2597,---,10000,N/A,Calibration,P1
+201026_MIA_141.xms,25 mg/L stric_v13#9,2.414,Tryptamine,Identified,4411,---,25000,N/A,Calibration,P1
+201026_MIA_142.xms,50 mg/L stric_v13#10,2.4,Tryptamine,Identified,7679,---,50000,N/A,Calibration,P1
+201026_MIA_143.xms,Solvent Blank,2.422,Tryptamine,Identified,576867,12944.937,---,---,Blank,P1
+201026_MIA_143001.xms,Solvent Blank,2.398,Tryptamine,Identified,1582,N/A,---,---,Blank,P1
+201026_MIA_143002.xms,Solvent Blank,2.436,Tryptamine,Identified,401466,9991.585,---,---,Blank,P1
+201026_MIA_001.xms,Solvent Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P1
+201026_MIA_001001.xms,Solvent Blank,2.134,Tryptophan,Failed,533,533,---,---,Blank,P1
+201026_MIA_002.xms,QC_mix_00,2.221,Tryptophan,Missing,0,---,---,---,Analysis,P1
+201026_MIA_003.xms,Solvent Blank,2.224,Tryptophan,Failed,822,822,---,---,Blank,P1
+201026_MIA_003001.xms,Solvent Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P1
+201026_MIA_004.xms,Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P1
+201026_MIA_005.xms,0.05 mg/L stric_v13#1,2.256,Tryptophan,Failed,40887,78.188,50,56.376,Calibration,P1
+201026_MIA_006.xms,0.1 mg/L stric_v13#2,2.256,Tryptophan,Failed,81867,112.277,100,12.277,Calibration,P1
+201026_MIA_007.xms,0.25 mg/L stric_v13#3,2.242,Tryptophan,Failed,69264,396.885,250,58.754,Calibration,P1
+201026_MIA_008.xms,0.5 mg/L stric_v13#4,2.228,Tryptophan,Failed,101971,766.851,500,53.37,Calibration,P1
+201026_MIA_009.xms,1 mg/L stric_v13#5,2.238,Tryptophan,Failed,163346,1572.281,1000,57.228,Calibration,P1
+201026_MIA_010.xms,2.5 mg/L stric_v13#6,2.221,Tryptophan,Failed,378151,4400.615,2500,76.025,Calibration,P1
+201026_MIA_011.xms,5 mg/L stric_v13#7,2.209,Tryptophan,Failed,822554,9525.457,5000,90.509,Calibration,P1
+201026_MIA_012.xms,10 mg/L stric_v13#8,2.228,Tryptophan,Failed,1.44E+06,16777.236,10000,67.772,Calibration,P1
+201026_MIA_013.xms,25 mg/L stric_v13#9,2.216,Tryptophan,Failed,3.73E+06,34608.375,25000,38.433,Calibration,P1
+201026_MIA_014.xms,50 mg/L stric_v13#10,2.216,Tryptophan,Failed,8.00E+06,69662.734,50000,39.325,Calibration,P1
+201026_MIA_015.xms,Solvent Blank,2.229,Tryptophan,Failed,2372,7013.729,---,---,Blank,P1
+201026_MIA_015001.xms,Solvent Blank,2.232,Tryptophan,Failed,1168,1507.458,---,---,Blank,P1
+201026_MIA_015002.xms,Solvent Blank,2.233,Tryptophan,Failed,543,1635.339,---,---,Blank,P1
+201026_MIA_016.xms,ISY_CYC_P1_A1,2.233,Tryptophan,Failed,12203,N/A,---,---,Analysis,P1
+201026_MIA_017.xms,ISY_CYC_P1_A2,2.215,Tryptophan,Identified,16330,N/A,---,---,Analysis,P1
+201026_MIA_018.xms,ISY_CYC_P1_A3,2.206,Tryptophan,Failed,1684,N/A,---,---,Analysis,P1
+201026_MIA_019.xms,ISY_CYC_P1_A4,2.239,Tryptophan,Failed,4240,N/A,---,---,Analysis,P1
+201026_MIA_020.xms,ISY_CYC_P1_A5,2.227,Tryptophan,Failed,79941,N/A,---,---,Analysis,P1
+201026_MIA_021.xms,ISY_CYC_P1_A6,2.205,Tryptophan,Failed,2083,N/A,---,---,Analysis,P1
+201026_MIA_022.xms,ISY_CYC_P1_A7,2.224,Tryptophan,Failed,20169,N/A,---,---,Analysis,P1
+201026_MIA_023.xms,ISY_CYC_P1_A8,2.228,Tryptophan,Failed,5836,N/A,---,---,Analysis,P1
+201026_MIA_024.xms,ISY_CYC_P1_A9,2.239,Tryptophan,Failed,20393,N/A,---,---,Analysis,P1
+201026_MIA_025.xms,ISY_CYC_P1_A10,2.222,Tryptophan,Failed,3.30E+06,27279.432,---,---,Analysis,P1
+201026_MIA_026.xms,ISY_CYC_P1_A11,2.233,Tryptophan,Failed,22650,N/A,---,---,Analysis,P1
+201026_MIA_027.xms,ISY_CYC_P1_A12,2.232,Tryptophan,Identified,15392,N/A,---,---,Analysis,P1
+201026_MIA_028.xms,QC_mix_01,2.214,Tryptophan,Failed,1495,N/A,1000,-100.1,Verification,P1
+201026_MIA_029.xms,ISY_CYC_P1_B1,2.235,Tryptophan,Failed,28369,N/A,---,---,Analysis,P1
+201026_MIA_030.xms,ISY_CYC_P1_B2,2.241,Tryptophan,Failed,5231,N/A,---,---,Analysis,P1
+201026_MIA_031.xms,ISY_CYC_P1_B3,2.236,Tryptophan,Failed,5636,N/A,---,---,Analysis,P1
+201026_MIA_032.xms,ISY_CYC_P1_B4,2.22,Tryptophan,Failed,7937,N/A,---,---,Analysis,P1
+201026_MIA_033.xms,ISY_CYC_P1_B5,2.231,Tryptophan,Failed,11403,N/A,---,---,Analysis,P1
+201026_MIA_034.xms,ISY_CYC_P1_B6,2.22,Tryptophan,Failed,7994,N/A,---,---,Analysis,P1
+201026_MIA_035.xms,ISY_CYC_P1_B7,2.226,Tryptophan,Failed,5532,N/A,---,---,Analysis,P1
+201026_MIA_036.xms,ISY_CYC_P1_B8,2.212,Tryptophan,Failed,832618,1082.023,---,---,Analysis,P1
+201026_MIA_037.xms,ISY_CYC_P1_B9,2.218,Tryptophan,Failed,24156,N/A,---,---,Analysis,P1
+201026_MIA_038.xms,ISY_CYC_P1_B10,2.226,Tryptophan,Failed,615746,N/A,---,---,Analysis,P1
+201026_MIA_039.xms,ISY_CYC_P1_B11,2.238,Tryptophan,Failed,3.34E+06,22740.453,---,---,Analysis,P1
+201026_MIA_040.xms,ISY_CYC_P1_B12,2.223,Tryptophan,Failed,493371,N/A,---,---,Analysis,P1
+201026_MIA_041.xms,QC_mix_02,2.212,Tryptophan,Failed,2355,N/A,1000,-100.1,Verification,P1
+201026_MIA_042.xms,ISY_CYC_P1_C1,2.232,Tryptophan,Failed,5360,N/A,---,---,Analysis,P1
+201026_MIA_043.xms,ISY_CYC_P1_C2,2.208,Tryptophan,Failed,26302,N/A,---,---,Analysis,P1
+201026_MIA_044.xms,ISY_CYC_P1_C3,2.202,Tryptophan,Identified,18311,N/A,---,---,Analysis,P1
+201026_MIA_045.xms,ISY_CYC_P1_C4,2.209,Tryptophan,Identified,13344,N/A,---,---,Analysis,P1
+201026_MIA_046.xms,ISY_CYC_P1_C5,2.193,Tryptophan,Failed,15256,N/A,---,---,Analysis,P1
+201026_MIA_047.xms,ISY_CYC_P1_C6,2.191,Tryptophan,Failed,2927,N/A,---,---,Analysis,P1
+201026_MIA_048.xms,ISY_CYC_P1_C7,2.215,Tryptophan,Failed,4619,N/A,---,---,Analysis,P1
+201026_MIA_049.xms,ISY_CYC_P1_C8,2.21,Tryptophan,Failed,7258,N/A,---,---,Analysis,P1
+201026_MIA_050.xms,ISY_CYC_P1_C9,2.198,Tryptophan,Failed,284364,N/A,---,---,Analysis,P1
+201026_MIA_051.xms,ISY_CYC_P1_C10,2.198,Tryptophan,Failed,35967,N/A,---,---,Analysis,P1
+201026_MIA_052.xms,ISY_CYC_P1_C11,2.211,Tryptophan,Failed,581077,N/A,---,---,Analysis,P1
+201026_MIA_053.xms,ISY_CYC_P1_C12,2.206,Tryptophan,Failed,319601,N/A,---,---,Analysis,P1
+201026_MIA_054.xms,QC_mix_03,2.236,Tryptophan,Failed,735,N/A,1000,-100.1,Verification,P1
+201026_MIA_055.xms,ISY_CYC_P1_D1,2.225,Tryptophan,Failed,750832,923.231,---,---,Analysis,P1
+201026_MIA_056.xms,ISY_CYC_P1_D2,2.244,Tryptophan,Failed,10463,N/A,---,---,Analysis,P1
+201026_MIA_057.xms,ISY_CYC_P1_D3,2.22,Tryptophan,Failed,7564,N/A,---,---,Analysis,P1
+201026_MIA_058.xms,ISY_CYC_P1_D4,2.223,Tryptophan,Failed,7169,N/A,---,---,Analysis,P1
+201026_MIA_059.xms,ISY_CYC_P1_D5,2.212,Tryptophan,Failed,14495,N/A,---,---,Analysis,P1
+201026_MIA_060.xms,ISY_CYC_P1_D6,2.223,Tryptophan,Failed,9248,N/A,---,---,Analysis,P1
+201026_MIA_061.xms,ISY_CYC_P1_D7,2.209,Tryptophan,Failed,8401,N/A,---,---,Analysis,P1
+201026_MIA_062.xms,ISY_CYC_P1_D8,2.218,Tryptophan,Failed,3.61E+06,21589.77,---,---,Analysis,P1
+201026_MIA_063.xms,ISY_CYC_P1_D9,2.216,Tryptophan,Failed,13984,N/A,---,---,Analysis,P1
+201026_MIA_064.xms,ISY_CYC_P1_D10,2.216,Tryptophan,Failed,8454,N/A,---,---,Analysis,P1
+201026_MIA_065.xms,ISY_CYC_P1_D11,2.234,Tryptophan,Failed,5438,N/A,---,---,Analysis,P1
+201026_MIA_066.xms,ISY_CYC_P1_D12,2.233,Tryptophan,Failed,8609,N/A,---,---,Analysis,P1
+201026_MIA_067.xms,Solvent Blank,2.221,Tryptophan,Failed,2136,N/A,---,---,Blank,P1
+201026_MIA_067001.xms,Solvent Blank,2.234,Tryptophan,Failed,1580,N/A,---,---,Blank,P1
+201026_MIA_068.xms,Blank,2.216,Tryptophan,Failed,838,N/A,---,---,Blank,P1
+201026_MIA_069.xms,0.05 mg/L stric_v13#1,2.234,Tryptophan,Failed,36179,---,50,N/A,Calibration,P1
+201026_MIA_070.xms,0.1 mg/L stric_v13#2,2.231,Tryptophan,Failed,52067,26.118,100,-73.882,Calibration,P1
+201026_MIA_071.xms,0.25 mg/L stric_v13#3,2.229,Tryptophan,Failed,70277,236.678,250,-5.329,Calibration,P1
+201026_MIA_072.xms,0.5 mg/L stric_v13#4,2.222,Tryptophan,Failed,113229,645.8,500,29.16,Calibration,P1
+201026_MIA_073.xms,1 mg/L stric_v13#5,2.223,Tryptophan,Failed,185695,1436.097,1000,43.61,Calibration,P1
+201026_MIA_074.xms,2.5 mg/L stric_v13#6,2.227,Tryptophan,Failed,401699,3700.176,2500,48.007,Calibration,P1
+201026_MIA_075.xms,5 mg/L stric_v13#7,2.21,Tryptophan,Failed,1091,---,5000,N/A,Calibration,P1
+201026_MIA_076.xms,10 mg/L stric_v13#8,2.232,Tryptophan,Failed,2.24E+06,16071.781,10000,60.718,Calibration,P1
+201026_MIA_077.xms,25 mg/L stric_v13#9,2.211,Tryptophan,Failed,4.35E+06,42728.059,25000,70.912,Calibration,P1
+201026_MIA_078.xms,50 mg/L stric_v13#10,2.203,Tryptophan,Failed,1.38E+07,68121.75,50000,36.243,Calibration,P1
+201026_MIA_079.xms,Solvent Blank,2.228,Tryptophan,Failed,5974,4780.285,---,---,Blank,P1
+201026_MIA_079001.xms,Solvent Blank,2.211,Tryptophan,Failed,3993,3257.854,---,---,Blank,P1
+201026_MIA_079002.xms,Solvent Blank,2.21,Tryptophan,Failed,3880,6105.75,---,---,Blank,P1
+201026_MIA_080.xms,ISY_CYC_P1_E1,2.214,Tryptophan,Failed,47410,N/A,---,---,Analysis,P1
+201026_MIA_081.xms,ISY_CYC_P1_E2,2.23,Tryptophan,Failed,5697,N/A,---,---,Analysis,P1
+201026_MIA_082.xms,ISY_CYC_P1_E3,2.215,Tryptophan,Identified,15607,N/A,---,---,Analysis,P1
+201026_MIA_083.xms,ISY_CYC_P1_E4,2.223,Tryptophan,Failed,8120,N/A,---,---,Analysis,P1
+201026_MIA_084.xms,ISY_CYC_P1_E5,2.214,Tryptophan,Failed,11184,N/A,---,---,Analysis,P1
+201026_MIA_085.xms,ISY_CYC_P1_E6,2.235,Tryptophan,Failed,763178,1647.122,---,---,Analysis,P1
+201026_MIA_086.xms,ISY_CYC_P1_E7,2.233,Tryptophan,Failed,12736,N/A,---,---,Analysis,P1
+201026_MIA_087.xms,ISY_CYC_P1_E8,2.222,Tryptophan,Failed,21564,N/A,---,---,Analysis,P1
+201026_MIA_088.xms,ISY_CYC_P1_E9,2.224,Tryptophan,Failed,1.28E+06,6250.669,---,---,Analysis,P1
+201026_MIA_089.xms,ISY_CYC_P1_E10,2.225,Tryptophan,Failed,235191,N/A,---,---,Analysis,P1
+201026_MIA_090.xms,ISY_CYC_P1_E11,2.209,Tryptophan,Failed,4597,N/A,---,---,Analysis,P1
+201026_MIA_091.xms,ISY_CYC_P1_E12,2.225,Tryptophan,Failed,10581,N/A,---,---,Analysis,P1
+201026_MIA_092.xms,QC_mix_04,2.234,Tryptophan,Failed,615,N/A,1000,-100.1,Verification,P1
+201026_MIA_093.xms,ISY_CYC_P1_F1,2.225,Tryptophan,Failed,11676,N/A,---,---,Analysis,P1
+201026_MIA_094.xms,ISY_CYC_P1_F2,2.239,Tryptophan,Failed,9628,N/A,---,---,Analysis,P1
+201026_MIA_095.xms,ISY_CYC_P1_F3,2.208,Tryptophan,Failed,1477,N/A,---,---,Analysis,P1
+201026_MIA_096.xms,ISY_CYC_P1_F4,2.226,Tryptophan,Failed,61910,N/A,---,---,Analysis,P1
+201026_MIA_097.xms,ISY_CYC_P1_F5,2.206,Tryptophan,Failed,1781,N/A,---,---,Analysis,P1
+201026_MIA_098.xms,ISY_CYC_P1_F6,2.239,Tryptophan,Failed,25634,N/A,---,---,Analysis,P1
+201026_MIA_099.xms,ISY_CYC_P1_F7,2.228,Tryptophan,Failed,6149,N/A,---,---,Analysis,P1
+201026_MIA_100.xms,ISY_CYC_P1_F8,2.211,Tryptophan,Failed,576,N/A,---,---,Analysis,P1
+201026_MIA_101.xms,ISY_CYC_P1_F9,2.239,Tryptophan,Failed,7843,N/A,---,---,Analysis,P1
+201026_MIA_102.xms,ISY_CYC_P1_F10,2.221,Tryptophan,Failed,5041,N/A,---,---,Analysis,P1
+201026_MIA_103.xms,ISY_CYC_P1_F11,2.239,Tryptophan,Failed,17198,N/A,---,---,Analysis,P1
+201026_MIA_104.xms,ISY_CYC_P1_F12,2.235,Tryptophan,Failed,4848,N/A,---,---,Analysis,P1
+201026_MIA_105.xms,QC_mix_05,2.221,Tryptophan,Missing,0,---,1000,N/A,Verification,P1
+201026_MIA_106.xms,ISY_CYC_P1_G1,2.196,Tryptophan,Failed,2948,N/A,---,---,Analysis,P1
+201026_MIA_107.xms,ISY_CYC_P1_G2,2.229,Tryptophan,Failed,5725,N/A,---,---,Analysis,P1
+201026_MIA_108.xms,ISY_CYC_P1_G3,2.219,Tryptophan,Failed,1613,N/A,---,---,Analysis,P1
+201026_MIA_109.xms,ISY_CYC_P1_G4,2.201,Tryptophan,Failed,3368,N/A,---,---,Analysis,P1
+201026_MIA_110.xms,ISY_CYC_P1_G5,2.224,Tryptophan,Failed,11598,N/A,---,---,Analysis,P1
+201026_MIA_111.xms,ISY_CYC_P1_G6,2.231,Tryptophan,Failed,6250,N/A,---,---,Analysis,P1
+201026_MIA_112.xms,ISY_CYC_P1_G7,2.235,Tryptophan,Failed,6522,N/A,---,---,Analysis,P1
+201026_MIA_113.xms,ISY_CYC_P1_G8,2.218,Tryptophan,Failed,441296,N/A,---,---,Analysis,P1
+201026_MIA_114.xms,ISY_CYC_P1_G9,2.227,Tryptophan,Failed,208795,N/A,---,---,Analysis,P1
+201026_MIA_115.xms,ISY_CYC_P1_G10,2.225,Tryptophan,Failed,10402,N/A,---,---,Analysis,P1
+201026_MIA_116.xms,ISY_CYC_P1_G11,2.233,Tryptophan,Failed,8552,N/A,---,---,Analysis,P1
+201026_MIA_117.xms,ISY_CYC_P1_G12,2.222,Tryptophan,Failed,11919,N/A,---,---,Analysis,P1
+201026_MIA_118.xms,QC_mix_06,2.221,Tryptophan,Missing,0,---,1000,N/A,Verification,P1
+201026_MIA_119.xms,ISY_CYC_P1_H1,2.239,Tryptophan,Failed,42767,N/A,---,---,Analysis,P1
+201026_MIA_120.xms,ISY_CYC_P1_H2,2.209,Tryptophan,Failed,3100,N/A,---,---,Analysis,P1
+201026_MIA_121.xms,ISY_CYC_P1_H3,2.214,Tryptophan,Failed,2338,N/A,---,---,Analysis,P1
+201026_MIA_122.xms,ISY_CYC_P1_H4,2.215,Tryptophan,Failed,3977,N/A,---,---,Analysis,P1
+201026_MIA_123.xms,ISY_CYC_P1_H5,2.204,Tryptophan,Failed,5032,N/A,---,---,Analysis,P1
+201026_MIA_124.xms,ISY_CYC_P1_H6,2.214,Tryptophan,Failed,4625,N/A,---,---,Analysis,P1
+201026_MIA_125.xms,ISY_CYC_P1_H7,2.211,Tryptophan,Failed,1635,N/A,---,---,Analysis,P1
+201026_MIA_126.xms,ISY_CYC_P1_H8,2.209,Tryptophan,Failed,4128,N/A,---,---,Analysis,P1
+201026_MIA_127.xms,ISY_CYC_P1_H9,2.208,Tryptophan,Failed,5970,N/A,---,---,Analysis,P1
+201026_MIA_128.xms,ISY_CYC_P1_H10,2.215,Tryptophan,Failed,5307,N/A,---,---,Analysis,P1
+201026_MIA_129.xms,ISY_CYC_P1_H11,2.257,Tryptophan,Failed,29280,N/A,---,---,Analysis,P1
+201026_MIA_130.xms,ISY_CYC_P1_H12,2.239,Tryptophan,Failed,7754,N/A,---,---,Analysis,P1
+201026_MIA_131.xms,Solvent Blank,2.211,Tryptophan,Failed,600,N/A,---,---,Blank,P1
+201026_MIA_131001.xms,Solvent Blank,2.229,Tryptophan,Failed,1123,N/A,---,---,Blank,P1
+201026_MIA_132.xms,Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P1
+201026_MIA_133.xms,0.05 mg/L stric_v13#1,2.237,Tryptophan,Failed,51235,---,50,N/A,Calibration,P1
+201026_MIA_134.xms,0.1 mg/L stric_v13#2,2.242,Tryptophan,Failed,57300,50.75,100,-49.25,Calibration,P1
+201026_MIA_135.xms,0.25 mg/L stric_v13#3,2.238,Tryptophan,Failed,80414,246,250,-1.6,Calibration,P1
+201026_MIA_136.xms,0.5 mg/L stric_v13#4,2.226,Tryptophan,Failed,111659,636.086,500,27.217,Calibration,P1
+201026_MIA_137.xms,1 mg/L stric_v13#5,2.204,Tryptophan,Failed,609,---,1000,N/A,Calibration,P1
+201026_MIA_138.xms,2.5 mg/L stric_v13#6,2.214,Tryptophan,Failed,560427,3280.822,2500,31.233,Calibration,P1
+201026_MIA_139.xms,5 mg/L stric_v13#7,2.259,Tryptophan,Failed,1.24E+06,10050.813,5000,101.016,Calibration,P1
+201026_MIA_140.xms,10 mg/L stric_v13#8,2.233,Tryptophan,Failed,883,---,10000,N/A,Calibration,P1
+201026_MIA_141.xms,25 mg/L stric_v13#9,2.224,Tryptophan,Failed,11716,---,25000,N/A,Calibration,P1
+201026_MIA_142.xms,50 mg/L stric_v13#10,2.229,Tryptophan,Failed,3739,---,50000,N/A,Calibration,P1
+201026_MIA_143.xms,Solvent Blank,2.253,Tryptophan,Failed,32663,368.179,---,---,Blank,P1
+201026_MIA_143001.xms,Solvent Blank,2.237,Tryptophan,Failed,49796,183.411,---,---,Blank,P1
+201026_MIA_143002.xms,Solvent Blank,2.248,Tryptophan,Failed,21987,179.18,---,---,Blank,P1
+201026_MIA_001b.xms,Solvent Blank,2.482,Caffeine,Failed,3781,1,---,---,Blank,P2
+201026_MIA_001b001.xms,Solvent Blank,2.488,Caffeine,Failed,3441,1,---,---,Blank,P2
+201026_MIA_002b.xms,QC_mix_00,2.492,Caffeine,Failed,317167,1,---,---,Analysis,P2
+201026_MIA_131b.xms,Solvent Blank,2.486,Caffeine,Failed,1700,1,---,---,Blank,P2
+201026_MIA_132b.xms,Blank,2.469,Caffeine,Failed,1088,1,---,---,Blank,P2
+201026_MIA_133b.xms,0.05 mg/L stric_v13#1,2.484,Caffeine,Failed,262839,1,1,---,Calibration,P2
+201026_MIA_134b.xms,0.1 mg/L stric_v13#2,2.48,Caffeine,Failed,255973,1,1,---,Calibration,P2
+201026_MIA_135b.xms,0.25 mg/L stric_v13#3,2.484,Caffeine,Failed,259213,1,1,---,Calibration,P2
+201026_MIA_136b.xms,0.5 mg/L stric_v13#4,2.483,Caffeine,Failed,248872,1,1,---,Calibration,P2
+201026_MIA_137b.xms,1 mg/L stric_v13#5,2.483,Caffeine,Failed,295841,1,1,---,Calibration,P2
+201026_MIA_138b.xms,2.5 mg/L stric_v13#6,2.471,Caffeine,Failed,272367,1,1,---,Calibration,P2
+201026_MIA_139b.xms,5 mg/L stric_v13#7,2.478,Caffeine,Failed,266271,1,1,---,Calibration,P2
+201026_MIA_140b.xms,10 mg/L stric_v13#8,2.479,Caffeine,Failed,246995,1,1,---,Calibration,P2
+201026_MIA_141b.xms,25 mg/L stric_v13#9,2.478,Caffeine,Failed,257673,1,1,---,Calibration,P2
+201026_MIA_142b.xms,50 mg/L stric_v13#10,2.482,Caffeine,Failed,285229,1,1,---,Calibration,P2
+201026_MIA_143b.xms,Solvent Blank,2.486,Caffeine,Failed,861,1,---,---,Blank,P2
+201026_MIA_143b001.xms,Solvent Blank,2.473,Caffeine,Identified,1469,1,---,---,Blank,P2
+201026_MIA_143b002.xms,Solvent Blank,2.475,Caffeine,Failed,562,1,---,---,Blank,P2
+201026_MIA_144b.xms,ISY_CYC_P2_A1,2.478,Caffeine,Failed,5.78E+06,25,---,---,Analysis,P2
+201026_MIA_145b.xms,ISY_CYC_P2_A2,2.475,Caffeine,Failed,4.87E+06,25,---,---,Analysis,P2
+201026_MIA_146.xms,ISY_CYC_P2_A3,2.469,Caffeine,Failed,4.96E+06,25,---,---,Analysis,P2
+201026_MIA_147.xms,ISY_CYC_P2_A4,2.473,Caffeine,Failed,5.35E+06,25,---,---,Analysis,P2
+201026_MIA_148.xms,ISY_CYC_P2_A5,2.458,Caffeine,Failed,5.65E+06,25,---,---,Analysis,P2
+201026_MIA_149.xms,ISY_CYC_P2_A6,2.461,Caffeine,Failed,5.61E+06,25,---,---,Analysis,P2
+201026_MIA_150.xms,ISY_CYC_P2_A7,2.455,Caffeine,Failed,5.37E+06,25,---,---,Analysis,P2
+201026_MIA_151.xms,ISY_CYC_P2_A8,2.461,Caffeine,Failed,6.02E+06,25,---,---,Analysis,P2
+201026_MIA_152.xms,ISY_CYC_P2_A9,2.456,Caffeine,Failed,5.04E+06,25,---,---,Analysis,P2
+201026_MIA_153.xms,ISY_CYC_P2_A10,2.462,Caffeine,Failed,5.54E+06,25,---,---,Analysis,P2
+201026_MIA_154.xms,ISY_CYC_P2_A11,2.457,Caffeine,Failed,5.74E+06,25,---,---,Analysis,P2
+201026_MIA_155.xms,ISY_CYC_P2_A12,2.458,Caffeine,Failed,5.56E+06,25,---,---,Analysis,P2
+201026_MIA_156.xms,QC_mix_07,2.477,Caffeine,Failed,344013,1,1,---,Verification,P2
+201026_MIA_157.xms,ISY_CYC_P2_B1,2.48,Caffeine,Failed,3.65E+06,25,---,---,Analysis,P2
+201026_MIA_158.xms,ISY_CYC_P2_B2,2.476,Caffeine,Failed,3.98E+06,25,---,---,Analysis,P2
+201026_MIA_159.xms,ISY_CYC_P2_B3,2.471,Caffeine,Failed,3.92E+06,25,---,---,Analysis,P2
+201026_MIA_160.xms,ISY_CYC_P2_B4,2.468,Caffeine,Failed,3.57E+06,25,---,---,Analysis,P2
+201026_MIA_161.xms,ISY_CYC_P2_B5,2.472,Caffeine,Failed,3.92E+06,25,---,---,Analysis,P2
+201026_MIA_162.xms,ISY_CYC_P2_B6,2.472,Caffeine,Failed,3.79E+06,25,---,---,Analysis,P2
+201026_MIA_163.xms,ISY_CYC_P2_B7,2.472,Caffeine,Failed,5.63E+06,25,---,---,Analysis,P2
+201026_MIA_164.xms,ISY_CYC_P2_B8,2.472,Caffeine,Failed,5.47E+06,25,---,---,Analysis,P2
+201026_MIA_165.xms,ISY_CYC_P2_B9,2.485,Caffeine,Failed,6.02E+06,25,---,---,Analysis,P2
+201026_MIA_166.xms,ISY_CYC_P2_B10,2.487,Caffeine,Failed,5.58E+06,25,---,---,Analysis,P2
+201026_MIA_167.xms,ISY_CYC_P2_B11,2.478,Caffeine,Failed,5.30E+06,25,---,---,Analysis,P2
+201026_MIA_168.xms,ISY_CYC_P2_B12,2.477,Caffeine,Failed,5.42E+06,25,---,---,Analysis,P2
+201026_MIA_169.xms,QC_mix_08,2.481,Caffeine,Failed,331550,1,1,---,Verification,P2
+201026_MIA_170.xms,ISY_CYC_P2_C1,2.469,Caffeine,Failed,5.39E+06,25,---,---,Analysis,P2
+201026_MIA_171.xms,ISY_CYC_P2_C2,2.48,Caffeine,Failed,5.77E+06,25,---,---,Analysis,P2
+201026_MIA_172.xms,ISY_CYC_P2_C3,2.476,Caffeine,Failed,6.07E+06,25,---,---,Analysis,P2
+201026_MIA_173.xms,ISY_CYC_P2_C4,2.491,Caffeine,Failed,6.01E+06,25,---,---,Analysis,P2
+201026_MIA_174.xms,ISY_CYC_P2_C5,2.481,Caffeine,Failed,6.01E+06,25,---,---,Analysis,P2
+201026_MIA_175.xms,ISY_CYC_P2_C6,2.475,Caffeine,Failed,6.37E+06,25,---,---,Analysis,P2
+201026_MIA_176.xms,ISY_CYC_P2_C7,2.478,Caffeine,Failed,6.23E+06,25,---,---,Analysis,P2
+201026_MIA_177.xms,ISY_CYC_P2_C8,2.468,Caffeine,Failed,5.35E+06,25,---,---,Analysis,P2
+201026_MIA_178.xms,ISY_CYC_P2_C9,2.47,Caffeine,Failed,6.86E+06,25,---,---,Analysis,P2
+201026_MIA_179.xms,ISY_CYC_P2_C10,2.481,Caffeine,Failed,5.12E+06,25,---,---,Analysis,P2
+201026_MIA_180.xms,ISY_CYC_P2_C11,2.476,Caffeine,Failed,6.32E+06,25,---,---,Analysis,P2
+201026_MIA_181.xms,ISY_CYC_P2_C12,2.474,Caffeine,Failed,5.03E+06,25,---,---,Analysis,P2
+201026_MIA_182.xms,QC_mix_09,2.467,Caffeine,Failed,286803,1,1,---,Verification,P2
+201026_MIA_183.xms,ISY_CYC_P2_D1,2.472,Caffeine,Failed,5.00E+06,25,---,---,Analysis,P2
+201026_MIA_184.xms,ISY_CYC_P2_D2,2.484,Caffeine,Failed,5.47E+06,25,---,---,Analysis,P2
+201026_MIA_185.xms,ISY_CYC_P2_D3,2.452,Caffeine,Failed,5.00E+06,25,---,---,Analysis,P2
+201026_MIA_186.xms,ISY_CYC_P2_D4,2.46,Caffeine,Failed,5.71E+06,25,---,---,Analysis,P2
+201026_MIA_187.xms,ISY_CYC_P2_D5,2.464,Caffeine,Failed,5.18E+06,25,---,---,Analysis,P2
+201026_MIA_188.xms,ISY_CYC_P2_D6,2.461,Caffeine,Failed,5.54E+06,25,---,---,Analysis,P2
+201026_MIA_189.xms,ISY_CYC_P2_D7,2.468,Caffeine,Failed,5.57E+06,25,---,---,Analysis,P2
+201026_MIA_190.xms,ISY_CYC_P2_D8,2.465,Caffeine,Failed,5.72E+06,25,---,---,Analysis,P2
+201026_MIA_191.xms,ISY_CYC_P2_D9,2.483,Caffeine,Failed,6.92E+06,25,---,---,Analysis,P2
+201026_MIA_192.xms,ISY_CYC_P2_D10,2.48,Caffeine,Failed,5.11E+06,25,---,---,Analysis,P2
+201026_MIA_193.xms,ISY_CYC_P2_D11,2.462,Caffeine,Failed,4.23E+06,25,---,---,Analysis,P2
+201026_MIA_194.xms,ISY_CYC_P2_D12,2.474,Caffeine,Failed,7.81E+06,25,---,---,Analysis,P2
+201026_MIA_195.xms,Solvent Blank,2.479,Caffeine,Failed,50175,1,---,---,Blank,P2
+201026_MIA_195001.xms,Solvent Blank,2.477,Caffeine,Failed,6200,1,---,---,Blank,P2
+201026_MIA_196.xms,Blank,2.475,Caffeine,Failed,2204,1,---,---,Blank,P2
+201026_MIA_197.xms,0.05 mg/L stric_v13#1,2.485,Caffeine,Failed,347309,1,1,---,Calibration,P2
+201026_MIA_198.xms,0.1 mg/L stric_v13#2,2.47,Caffeine,Failed,427820,1,1,---,Calibration,P2
+201026_MIA_199.xms,0.25 mg/L stric_v13#3,2.479,Caffeine,Failed,310777,1,1,---,Calibration,P2
+201026_MIA_200.xms,0.5 mg/L stric_v13#4,2.476,Caffeine,Failed,251488,1,1,---,Calibration,P2
+201026_MIA_201.xms,1 mg/L stric_v13#5,2.473,Caffeine,Failed,241282,1,1,---,Calibration,P2
+201026_MIA_202.xms,2.5 mg/L stric_v13#6,2.475,Caffeine,Failed,209832,1,1,---,Calibration,P2
+201026_MIA_203.xms,5 mg/L stric_v13#7,2.471,Caffeine,Failed,220034,1,1,---,Calibration,P2
+201026_MIA_204.xms,10 mg/L stric_v13#8,2.471,Caffeine,Failed,245748,1,1,---,Calibration,P2
+201026_MIA_205.xms,25 mg/L stric_v13#9,2.477,Caffeine,Failed,230029,1,1,---,Calibration,P2
+201026_MIA_206.xms,50 mg/L stric_v13#10,2.475,Caffeine,Failed,214530,1,1,---,Calibration,P2
+201026_MIA_207.xms,Solvent Blank,2.473,Caffeine,Identified,1009,1,---,---,Blank,P2
+201026_MIA_207001.xms,Solvent Blank,2.479,Caffeine,Failed,1176,1,---,---,Blank,P2
+201026_MIA_207002.xms,Solvent Blank,2.474,Caffeine,Failed,900,1,---,---,Blank,P2
+201026_MIA_208.xms,ISY_CYC_P2_E1,2.48,Caffeine,Failed,4.96E+06,25,---,---,Analysis,P2
+201026_MIA_209.xms,ISY_CYC_P2_E2,2.472,Caffeine,Failed,4.43E+06,25,---,---,Analysis,P2
+201026_MIA_210.xms,ISY_CYC_P2_E3,2.475,Caffeine,Failed,5.48E+06,25,---,---,Analysis,P2
+201026_MIA_211.xms,ISY_CYC_P2_E4,2.475,Caffeine,Failed,5.21E+06,25,---,---,Analysis,P2
+201026_MIA_212.xms,ISY_CYC_P2_E5,2.482,Caffeine,Failed,4.93E+06,25,---,---,Analysis,P2
+201026_MIA_213.xms,ISY_CYC_P2_E6,2.475,Caffeine,Failed,5.17E+06,25,---,---,Analysis,P2
+201026_MIA_214.xms,ISY_CYC_P2_E7,2.478,Caffeine,Failed,4.86E+06,25,---,---,Analysis,P2
+201026_MIA_215.xms,ISY_CYC_P2_E8,2.475,Caffeine,Failed,4.90E+06,25,---,---,Analysis,P2
+201026_MIA_216.xms,ISY_CYC_P2_E9,2.472,Caffeine,Failed,4.95E+06,25,---,---,Analysis,P2
+201026_MIA_217.xms,ISY_CYC_P2_E10,2.459,Caffeine,Failed,4.81E+06,25,---,---,Analysis,P2
+201026_MIA_218.xms,ISY_CYC_P2_E11,2.457,Caffeine,Failed,4.93E+06,25,---,---,Analysis,P2
+201026_MIA_219.xms,ISY_CYC_P2_E12,2.463,Caffeine,Failed,4.82E+06,25,---,---,Analysis,P2
+201026_MIA_220.xms,QC_mix_10,2.46,Caffeine,Failed,344239,1,1,---,Verification,P2
+201026_MIA_221.xms,ISY_CYC_P2_F1,2.464,Caffeine,Failed,5.25E+06,25,---,---,Analysis,P2
+201026_MIA_222.xms,ISY_CYC_P2_F2,2.461,Caffeine,Failed,3.43E+06,25,---,---,Analysis,P2
+201026_MIA_223.xms,ISY_CYC_P2_F3,2.457,Caffeine,Failed,3.54E+06,25,---,---,Analysis,P2
+201026_MIA_224.xms,ISY_CYC_P2_F4,2.455,Caffeine,Failed,3.62E+06,25,---,---,Analysis,P2
+201026_MIA_225.xms,ISY_CYC_P2_F5,2.48,Caffeine,Failed,4.00E+06,25,---,---,Analysis,P2
+201026_MIA_226.xms,ISY_CYC_P2_F6,2.471,Caffeine,Failed,3.43E+06,25,---,---,Analysis,P2
+201026_MIA_227.xms,ISY_CYC_P2_F7,2.483,Caffeine,Failed,3.92E+06,25,---,---,Analysis,P2
+201026_MIA_228.xms,ISY_CYC_P2_F8,2.478,Caffeine,Failed,4.91E+06,25,---,---,Analysis,P2
+201026_MIA_229.xms,ISY_CYC_P2_F9,2.477,Caffeine,Failed,5.09E+06,25,---,---,Analysis,P2
+201026_MIA_230.xms,ISY_CYC_P2_F10,2.479,Caffeine,Failed,4.51E+06,25,---,---,Analysis,P2
+201026_MIA_231.xms,ISY_CYC_P2_F11,2.478,Caffeine,Failed,5.08E+06,25,---,---,Analysis,P2
+201026_MIA_232.xms,ISY_CYC_P2_F12,2.479,Caffeine,Failed,4.65E+06,25,---,---,Analysis,P2
+201026_MIA_233.xms,QC_mix_11,2.477,Caffeine,Failed,388256,1,1,---,Verification,P2
+201026_MIA_234.xms,ISY_CYC_P2_G1,2.472,Caffeine,Failed,4.78E+06,25,---,---,Analysis,P2
+201026_MIA_235.xms,ISY_CYC_P2_G2,2.474,Caffeine,Failed,4.58E+06,25,---,---,Analysis,P2
+201026_MIA_236.xms,ISY_CYC_P2_G3,2.482,Caffeine,Failed,4.60E+06,25,---,---,Analysis,P2
+201026_MIA_237.xms,ISY_CYC_P2_G4,2.467,Caffeine,Failed,4.61E+06,25,---,---,Analysis,P2
+201026_MIA_238.xms,ISY_CYC_P2_G5,2.472,Caffeine,Failed,4.64E+06,25,---,---,Analysis,P2
+201026_MIA_239.xms,ISY_CYC_P2_G6,2.481,Caffeine,Failed,4.00E+06,25,---,---,Analysis,P2
+201026_MIA_240.xms,ISY_CYC_P2_H1,2.473,Caffeine,Failed,4.14E+06,25,---,---,Analysis,P2
+201026_MIA_241.xms,ISY_CYC_P2_H2,2.471,Caffeine,Failed,4.00E+06,25,---,---,Analysis,P2
+201026_MIA_242.xms,ISY_CYC_P2_H3,2.471,Caffeine,Failed,7.05E+06,25,---,---,Analysis,P2
+201026_MIA_243.xms,ISY_CYC_P2_H4,2.467,Caffeine,Failed,5.06E+06,25,---,---,Analysis,P2
+201026_MIA_244.xms,ISY_CYC_P2_H5,2.467,Caffeine,Failed,5.10E+06,25,---,---,Analysis,P2
+201026_MIA_245.xms,ISY_CYC_P2_H6,2.473,Caffeine,Failed,4.56E+06,25,---,---,Analysis,P2
+201026_MIA_246.xms,Solvent Blank,2.48,Caffeine,Failed,30451,1,---,---,Blank,P2
+201026_MIA_246001.xms,Solvent Blank,2.48,Caffeine,Failed,2494,1,---,---,Blank,P2
+201026_MIA_247.xms,Blank,2.473,Caffeine,Identified,2531,1,---,---,Blank,P2
+201026_MIA_248.xms,0.05 mg/L stric_v13#1,2.471,Caffeine,Failed,209318,1,1,---,Calibration,P2
+201026_MIA_249.xms,0.1 mg/L stric_v13#2,2.456,Caffeine,Failed,244885,1,1,---,Calibration,P2
+201026_MIA_250.xms,0.25 mg/L stric_v13#3,2.459,Caffeine,Failed,235600,1,1,---,Calibration,P2
+201026_MIA_251.xms,0.5 mg/L stric_v13#4,2.451,Caffeine,Failed,229683,1,1,---,Calibration,P2
+201026_MIA_252.xms,1 mg/L stric_v13#5,2.458,Caffeine,Failed,232092,1,1,---,Calibration,P2
+201026_MIA_253.xms,2.5 mg/L stric_v13#6,2.46,Caffeine,Failed,206226,1,1,---,Calibration,P2
+201026_MIA_254.xms,5 mg/L stric_v13#7,2.466,Caffeine,Failed,235494,1,1,---,Calibration,P2
+201026_MIA_255.xms,10 mg/L stric_v13#8,2.453,Caffeine,Failed,229375,1,1,---,Calibration,P2
+201026_MIA_256.xms,25 mg/L stric_v13#9,2.458,Caffeine,Failed,222493,1,1,---,Calibration,P2
+201026_MIA_257.xms,50 mg/L stric_v13#10,2.456,Caffeine,Failed,171917,1,1,---,Calibration,P2
+201026_MIA_258.xms,Solvent Blank,2.379,Caffeine,Failed,607,1,---,---,Blank,P2
+201026_MIA_258001.xms,Solvent Blank,2.478,Caffeine,Identified,1004,1,---,---,Blank,P2
+201026_MIA_999.xms,Solvent Blank,2.506,Caffeine,Missing,0,---,---,---,Blank,P2
+201026_MIA_001b.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_001b001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_002b.xms,QC_mix_00,2.196,Loganic acid,Failed,56035,2999.121,---,---,Analysis,P2
+201026_MIA_131b.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_132b.xms,Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_133b.xms,0.05 mg/L stric_v13#1,2.181,Loganic acid,Failed,742,47.669,50,-4.663,Calibration,P2
+201026_MIA_134b.xms,0.1 mg/L stric_v13#2,2.214,Loganic acid,Failed,1451,95.99,100,-4.01,Calibration,P2
+201026_MIA_135b.xms,0.25 mg/L stric_v13#3,2.212,Loganic acid,Failed,3666,239.845,250,-4.062,Calibration,P2
+201026_MIA_136b.xms,0.5 mg/L stric_v13#4,2.199,Loganic acid,Failed,6855,467.318,500,-6.536,Calibration,P2
+201026_MIA_137b.xms,1 mg/L stric_v13#5,2.195,Loganic acid,Failed,15713,901.449,1000,-9.855,Calibration,P2
+201026_MIA_138b.xms,2.5 mg/L stric_v13#6,2.2,Loganic acid,Failed,33683,2099.253,2500,-16.03,Calibration,P2
+201026_MIA_139b.xms,5 mg/L stric_v13#7,2.191,Loganic acid,Failed,72927,4649.45,5000,-7.011,Calibration,P2
+201026_MIA_140b.xms,10 mg/L stric_v13#8,2.18,Loganic acid,Failed,129554,8904.485,10000,-10.955,Calibration,P2
+201026_MIA_141b.xms,25 mg/L stric_v13#9,2.2,Loganic acid,Failed,249173,16416.678,25000,-34.333,Calibration,P2
+201026_MIA_142b.xms,50 mg/L stric_v13#10,2.186,Loganic acid,Failed,506965,30174.531,50000,-39.651,Calibration,P2
+201026_MIA_143b.xms,Solvent Blank,2.191,Loganic acid,Failed,796,15685.819,---,---,Blank,P2
+201026_MIA_143b001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_143b002.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_144b.xms,ISY_CYC_P2_A1,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_145b.xms,ISY_CYC_P2_A2,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_146.xms,ISY_CYC_P2_A3,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_147.xms,ISY_CYC_P2_A4,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_148.xms,ISY_CYC_P2_A5,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_149.xms,ISY_CYC_P2_A6,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_150.xms,ISY_CYC_P2_A7,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_151.xms,ISY_CYC_P2_A8,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_152.xms,ISY_CYC_P2_A9,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_153.xms,ISY_CYC_P2_A10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_154.xms,ISY_CYC_P2_A11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_155.xms,ISY_CYC_P2_A12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_156.xms,QC_mix_07,2.195,Loganic acid,Failed,56518,2788.899,1000,178.89,Verification,P2
+201026_MIA_157.xms,ISY_CYC_P2_B1,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_158.xms,ISY_CYC_P2_B2,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_159.xms,ISY_CYC_P2_B3,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_160.xms,ISY_CYC_P2_B4,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_161.xms,ISY_CYC_P2_B5,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_162.xms,ISY_CYC_P2_B6,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_163.xms,ISY_CYC_P2_B7,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_164.xms,ISY_CYC_P2_B8,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_165.xms,ISY_CYC_P2_B9,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_166.xms,ISY_CYC_P2_B10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_167.xms,ISY_CYC_P2_B11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_168.xms,ISY_CYC_P2_B12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_169.xms,QC_mix_08,2.195,Loganic acid,Failed,65745,3366.184,1000,236.618,Verification,P2
+201026_MIA_170.xms,ISY_CYC_P2_C1,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_171.xms,ISY_CYC_P2_C2,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_172.xms,ISY_CYC_P2_C3,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_173.xms,ISY_CYC_P2_C4,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_174.xms,ISY_CYC_P2_C5,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_175.xms,ISY_CYC_P2_C6,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_176.xms,ISY_CYC_P2_C7,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_177.xms,ISY_CYC_P2_C8,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_178.xms,ISY_CYC_P2_C9,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_179.xms,ISY_CYC_P2_C10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_180.xms,ISY_CYC_P2_C11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_181.xms,ISY_CYC_P2_C12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_182.xms,QC_mix_09,2.169,Loganic acid,Failed,54958,3252.917,1000,225.292,Verification,P2
+201026_MIA_183.xms,ISY_CYC_P2_D1,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_184.xms,ISY_CYC_P2_D2,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_185.xms,ISY_CYC_P2_D3,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_186.xms,ISY_CYC_P2_D4,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_187.xms,ISY_CYC_P2_D5,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_188.xms,ISY_CYC_P2_D6,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_189.xms,ISY_CYC_P2_D7,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_190.xms,ISY_CYC_P2_D8,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_191.xms,ISY_CYC_P2_D9,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_192.xms,ISY_CYC_P2_D10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_193.xms,ISY_CYC_P2_D11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_194.xms,ISY_CYC_P2_D12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_195.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_195001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_196.xms,Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_197.xms,0.05 mg/L stric_v13#1,2.216,Loganic acid,Failed,1087,52.852,50,5.704,Calibration,P2
+201026_MIA_198.xms,0.1 mg/L stric_v13#2,2.198,Loganic acid,Failed,2561,101.368,100,1.368,Calibration,P2
+201026_MIA_199.xms,0.25 mg/L stric_v13#3,2.179,Loganic acid,Failed,4702,256.595,250,2.638,Calibration,P2
+201026_MIA_200.xms,0.5 mg/L stric_v13#4,2.183,Loganic acid,Failed,7837,528.771,500,5.754,Calibration,P2
+201026_MIA_201.xms,1 mg/L stric_v13#5,2.181,Loganic acid,Failed,15038,1057.842,1000,5.784,Calibration,P2
+201026_MIA_202.xms,2.5 mg/L stric_v13#6,2.173,Loganic acid,Failed,33274,2691.852,2500,7.674,Calibration,P2
+201026_MIA_203.xms,5 mg/L stric_v13#7,2.186,Loganic acid,Failed,70099,5408.321,5000,8.166,Calibration,P2
+201026_MIA_204.xms,10 mg/L stric_v13#8,2.201,Loganic acid,Failed,118838,8209.438,10000,-17.906,Calibration,P2
+201026_MIA_205.xms,25 mg/L stric_v13#9,2.19,Loganic acid,Failed,246727,18209.07,25000,-27.164,Calibration,P2
+201026_MIA_206.xms,50 mg/L stric_v13#10,2.171,Loganic acid,Failed,489904,38768.539,50000,-22.463,Calibration,P2
+201026_MIA_207.xms,Solvent Blank,2.218,Loganic acid,Failed,711,11965.9,---,---,Blank,P2
+201026_MIA_207001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_207002.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_208.xms,ISY_CYC_P2_E1,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_209.xms,ISY_CYC_P2_E2,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_210.xms,ISY_CYC_P2_E3,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_211.xms,ISY_CYC_P2_E4,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_212.xms,ISY_CYC_P2_E5,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_213.xms,ISY_CYC_P2_E6,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_214.xms,ISY_CYC_P2_E7,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_215.xms,ISY_CYC_P2_E8,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_216.xms,ISY_CYC_P2_E9,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_217.xms,ISY_CYC_P2_E10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_218.xms,ISY_CYC_P2_E11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_219.xms,ISY_CYC_P2_E12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_220.xms,QC_mix_10,2.176,Loganic acid,Failed,54725,2698.625,1000,169.863,Verification,P2
+201026_MIA_221.xms,ISY_CYC_P2_F1,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_222.xms,ISY_CYC_P2_F2,2.165,Loganic acid,Failed,1592,190.437,---,---,Analysis,P2
+201026_MIA_223.xms,ISY_CYC_P2_F3,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_224.xms,ISY_CYC_P2_F4,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_225.xms,ISY_CYC_P2_F5,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_226.xms,ISY_CYC_P2_F6,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_227.xms,ISY_CYC_P2_F7,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_228.xms,ISY_CYC_P2_F8,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_229.xms,ISY_CYC_P2_F9,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_230.xms,ISY_CYC_P2_F10,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_231.xms,ISY_CYC_P2_F11,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_232.xms,ISY_CYC_P2_F12,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_233.xms,QC_mix_11,2.204,Loganic acid,Failed,69896,3056.013,1000,205.601,Verification,P2
+201026_MIA_234.xms,ISY_CYC_P2_G1,2.195,Loganic acid,Failed,4347,379.15,---,---,Analysis,P2
+201026_MIA_235.xms,ISY_CYC_P2_G2,2.181,Loganic acid,Failed,7495,688.316,---,---,Analysis,P2
+201026_MIA_236.xms,ISY_CYC_P2_G3,2.179,Loganic acid,Failed,5112,464.973,---,---,Analysis,P2
+201026_MIA_237.xms,ISY_CYC_P2_G4,2.199,Loganic acid,Failed,589,47.467,---,---,Analysis,P2
+201026_MIA_238.xms,ISY_CYC_P2_G5,2.197,Loganic acid,Failed,1237,106.621,---,---,Analysis,P2
+201026_MIA_239.xms,ISY_CYC_P2_G6,2.185,Loganic acid,Failed,2772,287.679,---,---,Analysis,P2
+201026_MIA_240.xms,ISY_CYC_P2_H1,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_241.xms,ISY_CYC_P2_H2,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_242.xms,ISY_CYC_P2_H3,2.207,Loganic acid,Missing,0,---,---,---,Analysis,P2
+201026_MIA_243.xms,ISY_CYC_P2_H4,2.169,Loganic acid,Failed,4057,333.925,---,---,Analysis,P2
+201026_MIA_244.xms,ISY_CYC_P2_H5,2.189,Loganic acid,Failed,7157,588.776,---,---,Analysis,P2
+201026_MIA_245.xms,ISY_CYC_P2_H6,2.188,Loganic acid,Failed,3839,350.686,---,---,Analysis,P2
+201026_MIA_246.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_246001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_247.xms,Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_248.xms,0.05 mg/L stric_v13#1,2.207,Loganic acid,Missing,0,---,50,N/A,Calibration,P2
+201026_MIA_249.xms,0.1 mg/L stric_v13#2,2.186,Loganic acid,Failed,1431,98.95,100,-1.05,Calibration,P2
+201026_MIA_250.xms,0.25 mg/L stric_v13#3,2.166,Loganic acid,Failed,3704,266.66,250,6.664,Calibration,P2
+201026_MIA_251.xms,0.5 mg/L stric_v13#4,2.166,Loganic acid,Failed,6760,499.428,500,-0.114,Calibration,P2
+201026_MIA_252.xms,1 mg/L stric_v13#5,2.155,Loganic acid,Failed,14018,1025.133,1000,2.513,Calibration,P2
+201026_MIA_253.xms,2.5 mg/L stric_v13#6,2.193,Loganic acid,Failed,30655,2523.349,2500,0.934,Calibration,P2
+201026_MIA_254.xms,5 mg/L stric_v13#7,2.164,Loganic acid,Failed,73613,5306.58,5000,6.132,Calibration,P2
+201026_MIA_255.xms,10 mg/L stric_v13#8,2.183,Loganic acid,Failed,102985,7622.108,10000,-23.779,Calibration,P2
+201026_MIA_256.xms,25 mg/L stric_v13#9,2.188,Loganic acid,Failed,237812,18145.584,25000,-27.418,Calibration,P2
+201026_MIA_257.xms,50 mg/L stric_v13#10,2.154,Loganic acid,Failed,379328,37458.699,50000,-25.083,Calibration,P2
+201026_MIA_258.xms,Solvent Blank,2.112,Loganic acid,Failed,876,24508.959,---,---,Blank,P2
+201026_MIA_258001.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_999.xms,Solvent Blank,2.207,Loganic acid,Missing,0,---,---,---,Blank,P2
+201026_MIA_001b.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_001b001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_002b.xms,QC_mix_00,2.538,Loganin,Failed,37816,3603.548,---,---,Analysis,P2
+201026_MIA_131b.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_132b.xms,Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_133b.xms,0.05 mg/L stric_v13#1,2.536,Loganin,Missing,0,---,50,N/A,Calibration,P2
+201026_MIA_134b.xms,0.1 mg/L stric_v13#2,2.534,Loganin,Failed,818,98.902,100,-1.098,Calibration,P2
+201026_MIA_135b.xms,0.25 mg/L stric_v13#3,2.54,Loganin,Failed,2065,243.012,250,-2.795,Calibration,P2
+201026_MIA_136b.xms,0.5 mg/L stric_v13#4,2.533,Loganin,Failed,4105,500.507,500,0.101,Calibration,P2
+201026_MIA_137b.xms,1 mg/L stric_v13#5,2.528,Loganin,Failed,8382,858.154,1000,-14.185,Calibration,P2
+201026_MIA_138b.xms,2.5 mg/L stric_v13#6,2.529,Loganin,Failed,18360,2038.303,2500,-18.468,Calibration,P2
+201026_MIA_139b.xms,5 mg/L stric_v13#7,2.533,Loganin,Failed,44612,5062.677,5000,1.254,Calibration,P2
+201026_MIA_140b.xms,10 mg/L stric_v13#8,2.521,Loganin,Failed,74035,9055.511,10000,-9.445,Calibration,P2
+201026_MIA_141b.xms,25 mg/L stric_v13#9,2.535,Loganin,Failed,183161,21471.623,25000,-14.114,Calibration,P2
+201026_MIA_142b.xms,50 mg/L stric_v13#10,2.539,Loganin,Failed,377022,39925.512,50000,-20.149,Calibration,P2
+201026_MIA_143b.xms,Solvent Blank,2.534,Loganin,Failed,1427,50043.066,---,---,Blank,P2
+201026_MIA_143b001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_143b002.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_144b.xms,ISY_CYC_P2_A1,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_145b.xms,ISY_CYC_P2_A2,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_146.xms,ISY_CYC_P2_A3,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_147.xms,ISY_CYC_P2_A4,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_148.xms,ISY_CYC_P2_A5,2.508,Loganin,Failed,3321,503.204,---,---,Analysis,P2
+201026_MIA_149.xms,ISY_CYC_P2_A6,2.508,Loganin,Failed,4037,602.732,---,---,Analysis,P2
+201026_MIA_150.xms,ISY_CYC_P2_A7,2.508,Loganin,Failed,3861,602.303,---,---,Analysis,P2
+201026_MIA_151.xms,ISY_CYC_P2_A8,2.505,Loganin,Failed,5549,755.367,---,---,Analysis,P2
+201026_MIA_152.xms,ISY_CYC_P2_A9,2.506,Loganin,Failed,2916,496.793,---,---,Analysis,P2
+201026_MIA_153.xms,ISY_CYC_P2_A10,2.518,Loganin,Failed,4345,652.029,---,---,Analysis,P2
+201026_MIA_154.xms,ISY_CYC_P2_A11,2.498,Loganin,Failed,3999,585.309,---,---,Analysis,P2
+201026_MIA_155.xms,ISY_CYC_P2_A12,2.515,Loganin,Failed,2927,456.964,---,---,Analysis,P2
+201026_MIA_156.xms,QC_mix_07,2.531,Loganin,Failed,38259,3361.393,1000,236.139,Verification,P2
+201026_MIA_157.xms,ISY_CYC_P2_B1,2.522,Loganin,Failed,3661,816.195,---,---,Analysis,P2
+201026_MIA_158.xms,ISY_CYC_P2_B2,2.532,Loganin,Failed,2851,600.572,---,---,Analysis,P2
+201026_MIA_159.xms,ISY_CYC_P2_B3,2.528,Loganin,Failed,1844,414.791,---,---,Analysis,P2
+201026_MIA_160.xms,ISY_CYC_P2_B4,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_161.xms,ISY_CYC_P2_B5,2.529,Loganin,Failed,2241,491.751,---,---,Analysis,P2
+201026_MIA_162.xms,ISY_CYC_P2_B6,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_163.xms,ISY_CYC_P2_B7,2.53,Loganin,Failed,2784,432.738,---,---,Analysis,P2
+201026_MIA_164.xms,ISY_CYC_P2_B8,2.531,Loganin,Failed,3538,548.396,---,---,Analysis,P2
+201026_MIA_165.xms,ISY_CYC_P2_B9,2.528,Loganin,Failed,4221,589.436,---,---,Analysis,P2
+201026_MIA_166.xms,ISY_CYC_P2_B10,2.536,Loganin,Failed,1086,206.616,---,---,Analysis,P2
+201026_MIA_167.xms,ISY_CYC_P2_B11,2.53,Loganin,Failed,2201,373.332,---,---,Analysis,P2
+201026_MIA_168.xms,ISY_CYC_P2_B12,2.521,Loganin,Failed,4129,634.767,---,---,Analysis,P2
+201026_MIA_169.xms,QC_mix_08,2.531,Loganin,Failed,41059,3742.699,1000,274.27,Verification,P2
+201026_MIA_170.xms,ISY_CYC_P2_C1,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_171.xms,ISY_CYC_P2_C2,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_172.xms,ISY_CYC_P2_C3,2.539,Loganin,Failed,2053,314.889,---,---,Analysis,P2
+201026_MIA_173.xms,ISY_CYC_P2_C4,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_174.xms,ISY_CYC_P2_C5,2.538,Loganin,Failed,3615,513.653,---,---,Analysis,P2
+201026_MIA_175.xms,ISY_CYC_P2_C6,2.533,Loganin,Failed,3820,512.181,---,---,Analysis,P2
+201026_MIA_176.xms,ISY_CYC_P2_C7,2.534,Loganin,Failed,4509,605.774,---,---,Analysis,P2
+201026_MIA_177.xms,ISY_CYC_P2_C8,2.525,Loganin,Failed,2959,477.387,---,---,Analysis,P2
+201026_MIA_178.xms,ISY_CYC_P2_C9,2.519,Loganin,Failed,1788,256.349,---,---,Analysis,P2
+201026_MIA_179.xms,ISY_CYC_P2_C10,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_180.xms,ISY_CYC_P2_C11,2.531,Loganin,Failed,1726,266.011,---,---,Analysis,P2
+201026_MIA_181.xms,ISY_CYC_P2_C12,2.528,Loganin,Failed,2089,373.336,---,---,Analysis,P2
+201026_MIA_182.xms,QC_mix_09,2.511,Loganin,Failed,32212,3394.626,1000,239.463,Verification,P2
+201026_MIA_183.xms,ISY_CYC_P2_D1,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_184.xms,ISY_CYC_P2_D2,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_185.xms,ISY_CYC_P2_D3,2.508,Loganin,Failed,3854,641.621,---,---,Analysis,P2
+201026_MIA_186.xms,ISY_CYC_P2_D4,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_187.xms,ISY_CYC_P2_D5,2.509,Loganin,Failed,2152,373.631,---,---,Analysis,P2
+201026_MIA_188.xms,ISY_CYC_P2_D6,2.524,Loganin,Failed,2829,444.996,---,---,Analysis,P2
+201026_MIA_189.xms,ISY_CYC_P2_D7,2.514,Loganin,Failed,3445,527.009,---,---,Analysis,P2
+201026_MIA_190.xms,ISY_CYC_P2_D8,2.519,Loganin,Failed,2736,420.843,---,---,Analysis,P2
+201026_MIA_191.xms,ISY_CYC_P2_D9,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_192.xms,ISY_CYC_P2_D10,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_193.xms,ISY_CYC_P2_D11,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_194.xms,ISY_CYC_P2_D12,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_195.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_195001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_196.xms,Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_197.xms,0.05 mg/L stric_v13#1,2.626,Loganin,Identified,505,46.343,50,-7.315,Calibration,P2
+201026_MIA_198.xms,0.1 mg/L stric_v13#2,2.529,Loganin,Failed,1551,111.901,100,11.901,Calibration,P2
+201026_MIA_199.xms,0.25 mg/L stric_v13#3,2.532,Loganin,Failed,2573,252.409,250,0.964,Calibration,P2
+201026_MIA_200.xms,0.5 mg/L stric_v13#4,2.523,Loganin,Failed,4186,505.17,500,1.034,Calibration,P2
+201026_MIA_201.xms,1 mg/L stric_v13#5,2.525,Loganin,Failed,8477,1063.512,1000,6.351,Calibration,P2
+201026_MIA_202.xms,2.5 mg/L stric_v13#6,2.516,Loganin,Failed,18376,2647.393,2500,5.896,Calibration,P2
+201026_MIA_203.xms,5 mg/L stric_v13#7,2.522,Loganin,Failed,36713,5041.812,5000,0.836,Calibration,P2
+201026_MIA_204.xms,10 mg/L stric_v13#8,2.527,Loganin,Failed,73262,9006.475,10000,-9.935,Calibration,P2
+201026_MIA_205.xms,25 mg/L stric_v13#9,2.526,Loganin,Failed,174571,22923.871,25000,-8.305,Calibration,P2
+201026_MIA_206.xms,50 mg/L stric_v13#10,2.514,Loganin,Failed,360887,50810.578,50000,1.621,Calibration,P2
+201026_MIA_207.xms,Solvent Blank,2.528,Loganin,Failed,988,29565.664,---,---,Blank,P2
+201026_MIA_207001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_207002.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_208.xms,ISY_CYC_P2_E1,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_209.xms,ISY_CYC_P2_E2,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_210.xms,ISY_CYC_P2_E3,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_211.xms,ISY_CYC_P2_E4,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_212.xms,ISY_CYC_P2_E5,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_213.xms,ISY_CYC_P2_E6,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_214.xms,ISY_CYC_P2_E7,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_215.xms,ISY_CYC_P2_E8,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_216.xms,ISY_CYC_P2_E9,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_217.xms,ISY_CYC_P2_E10,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_218.xms,ISY_CYC_P2_E11,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_219.xms,ISY_CYC_P2_E12,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_220.xms,QC_mix_10,2.513,Loganin,Failed,38739,3401.272,1000,240.127,Verification,P2
+201026_MIA_221.xms,ISY_CYC_P2_F1,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_222.xms,ISY_CYC_P2_F2,2.501,Loganin,Failed,28965,6437.926,---,---,Analysis,P2
+201026_MIA_223.xms,ISY_CYC_P2_F3,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_224.xms,ISY_CYC_P2_F4,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_225.xms,ISY_CYC_P2_F5,2.536,Loganin,Failed,765,203.917,---,---,Analysis,P2
+201026_MIA_226.xms,ISY_CYC_P2_F6,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_227.xms,ISY_CYC_P2_F7,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_228.xms,ISY_CYC_P2_F8,2.53,Loganin,Failed,816,185.027,---,---,Analysis,P2
+201026_MIA_229.xms,ISY_CYC_P2_F9,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_230.xms,ISY_CYC_P2_F10,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_231.xms,ISY_CYC_P2_F11,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_232.xms,ISY_CYC_P2_F12,2.536,Loganin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_233.xms,QC_mix_11,2.531,Loganin,Failed,46294,3603.681,1000,260.368,Verification,P2
+201026_MIA_234.xms,ISY_CYC_P2_G1,2.528,Loganin,Failed,72499,11507.87,---,---,Analysis,P2
+201026_MIA_235.xms,ISY_CYC_P2_G2,2.524,Loganin,Failed,118978,19686.164,---,---,Analysis,P2
+201026_MIA_236.xms,ISY_CYC_P2_G3,2.527,Loganin,Failed,84134,13869.016,---,---,Analysis,P2
+201026_MIA_237.xms,ISY_CYC_P2_G4,2.525,Loganin,Failed,31849,5271.387,---,---,Analysis,P2
+201026_MIA_238.xms,ISY_CYC_P2_G5,2.528,Loganin,Failed,32449,5345.05,---,---,Analysis,P2
+201026_MIA_239.xms,ISY_CYC_P2_G6,2.524,Loganin,Failed,60611,11511.275,---,---,Analysis,P2
+201026_MIA_240.xms,ISY_CYC_P2_H1,2.52,Loganin,Failed,2818,573.287,---,---,Analysis,P2
+201026_MIA_241.xms,ISY_CYC_P2_H2,2.516,Loganin,Failed,2761,581.12,---,---,Analysis,P2
+201026_MIA_242.xms,ISY_CYC_P2_H3,2.53,Loganin,Failed,2591,337.164,---,---,Analysis,P2
+201026_MIA_243.xms,ISY_CYC_P2_H4,2.51,Loganin,Failed,55163,8297.749,---,---,Analysis,P2
+201026_MIA_244.xms,ISY_CYC_P2_H5,2.522,Loganin,Failed,86141,12809.624,---,---,Analysis,P2
+201026_MIA_245.xms,ISY_CYC_P2_H6,2.526,Loganin,Failed,54133,9023.797,---,---,Analysis,P2
+201026_MIA_246.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_246001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_247.xms,Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_248.xms,0.05 mg/L stric_v13#1,2.536,Loganin,Missing,0,---,50,N/A,Calibration,P2
+201026_MIA_249.xms,0.1 mg/L stric_v13#2,2.511,Loganin,Failed,764,96.552,100,-3.448,Calibration,P2
+201026_MIA_250.xms,0.25 mg/L stric_v13#3,2.51,Loganin,Failed,2259,291.942,250,16.777,Calibration,P2
+201026_MIA_251.xms,0.5 mg/L stric_v13#4,2.5,Loganin,Failed,4001,528.491,500,5.698,Calibration,P2
+201026_MIA_252.xms,1 mg/L stric_v13#5,2.501,Loganin,Failed,8475,1105.236,1000,10.524,Calibration,P2
+201026_MIA_253.xms,2.5 mg/L stric_v13#6,2.515,Loganin,Failed,18235,2673.077,2500,6.923,Calibration,P2
+201026_MIA_254.xms,5 mg/L stric_v13#7,2.519,Loganin,Failed,41060,5268.532,5000,5.371,Calibration,P2
+201026_MIA_255.xms,10 mg/L stric_v13#8,2.512,Loganin,Failed,70655,9305.912,10000,-6.941,Calibration,P2
+201026_MIA_256.xms,25 mg/L stric_v13#9,2.513,Loganin,Failed,180588,24516.959,25000,-1.932,Calibration,P2
+201026_MIA_257.xms,50 mg/L stric_v13#10,2.498,Loganin,Failed,278332,48900.875,50000,-2.198,Calibration,P2
+201026_MIA_258.xms,Solvent Blank,2.523,Loganin,Failed,1320,65670.383,---,---,Blank,P2
+201026_MIA_258001.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_999.xms,Solvent Blank,2.536,Loganin,Missing,0,---,---,---,Blank,P2
+201026_MIA_001b.xms,Solvent Blank,2.82,Secologanin,Failed,4649,1745.794,---,---,Blank,P2
+201026_MIA_001b001.xms,Solvent Blank,2.815,Secologanin,Failed,637,273.515,---,---,Blank,P2
+201026_MIA_002b.xms,QC_mix_00,2.826,Secologanin,Failed,17866,92.095,---,---,Analysis,P2
+201026_MIA_131b.xms,Solvent Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P2
+201026_MIA_132b.xms,Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P2
+201026_MIA_133b.xms,0.05 mg/L stric_v13#1,2.817,Secologanin,Failed,7337,52.047,50,4.094,Calibration,P2
+201026_MIA_134b.xms,0.1 mg/L stric_v13#2,2.833,Secologanin,Failed,15561,98.387,100,-1.613,Calibration,P2
+201026_MIA_135b.xms,0.25 mg/L stric_v13#3,2.809,Secologanin,Failed,38382,221.4,250,-11.44,Calibration,P2
+201026_MIA_136b.xms,0.5 mg/L stric_v13#4,2.812,Secologanin,Failed,74237,433.133,500,-13.373,Calibration,P2
+201026_MIA_137b.xms,1 mg/L stric_v13#5,2.82,Secologanin,Failed,178594,863.559,1000,-13.644,Calibration,P2
+201026_MIA_138b.xms,2.5 mg/L stric_v13#6,2.805,Secologanin,Failed,502631,2613.725,2500,4.549,Calibration,P2
+201026_MIA_139b.xms,5 mg/L stric_v13#7,2.818,Secologanin,Failed,1.86E+06,9858.077,5000,97.162,Calibration,P2
+201026_MIA_140b.xms,10 mg/L stric_v13#8,2.817,Secologanin,Failed,2.67E+06,15258.218,10000,52.582,Calibration,P2
+201026_MIA_141b.xms,25 mg/L stric_v13#9,2.816,Secologanin,Failed,7.50E+06,41058.613,25000,64.234,Calibration,P2
+201026_MIA_142b.xms,50 mg/L stric_v13#10,2.827,Secologanin,Failed,1.50E+07,74285.648,50000,48.571,Calibration,P2
+201026_MIA_143b.xms,Solvent Blank,2.818,Secologanin,Failed,57633,94357.344,---,---,Blank,P2
+201026_MIA_143b001.xms,Solvent Blank,2.806,Secologanin,Failed,11392,10942.164,---,---,Blank,P2
+201026_MIA_143b002.xms,Solvent Blank,2.805,Secologanin,Failed,3579,8986.128,---,---,Blank,P2
+201026_MIA_144b.xms,ISY_CYC_P2_A1,2.801,Secologanin,Identified,1474,326.546,---,---,Analysis,P2
+201026_MIA_145b.xms,ISY_CYC_P2_A2,2.828,Secologanin,Failed,1193,326.201,---,---,Analysis,P2
+201026_MIA_146.xms,ISY_CYC_P2_A3,2.799,Secologanin,Failed,657,322.23,---,---,Analysis,P2
+201026_MIA_147.xms,ISY_CYC_P2_A4,2.804,Secologanin,Failed,525,321.018,---,---,Analysis,P2
+201026_MIA_148.xms,ISY_CYC_P2_A5,2.805,Secologanin,Failed,41643,577.118,---,---,Analysis,P2
+201026_MIA_149.xms,ISY_CYC_P2_A6,2.799,Secologanin,Failed,75754,793.182,---,---,Analysis,P2
+201026_MIA_150.xms,ISY_CYC_P2_A7,2.804,Secologanin,Failed,67162,758.087,---,---,Analysis,P2
+201026_MIA_151.xms,ISY_CYC_P2_A8,2.793,Secologanin,Failed,88943,838.021,---,---,Analysis,P2
+201026_MIA_152.xms,ISY_CYC_P2_A9,2.803,Secologanin,Failed,45606,636.613,---,---,Analysis,P2
+201026_MIA_153.xms,ISY_CYC_P2_A10,2.794,Secologanin,Failed,30182,509.589,---,---,Analysis,P2
+201026_MIA_154.xms,ISY_CYC_P2_A11,2.797,Secologanin,Failed,28068,489.733,---,---,Analysis,P2
+201026_MIA_155.xms,ISY_CYC_P2_A12,2.798,Secologanin,Failed,44196,597.587,---,---,Analysis,P2
+201026_MIA_156.xms,QC_mix_07,2.812,Secologanin,Failed,19079,90.871,1000,-90.913,Verification,P2
+201026_MIA_157.xms,ISY_CYC_P2_B1,2.816,Secologanin,Failed,62690,922.163,---,---,Analysis,P2
+201026_MIA_158.xms,ISY_CYC_P2_B2,2.819,Secologanin,Failed,48751,749.269,---,---,Analysis,P2
+201026_MIA_159.xms,ISY_CYC_P2_B3,2.81,Secologanin,Failed,37933,658.525,---,---,Analysis,P2
+201026_MIA_160.xms,ISY_CYC_P2_B4,2.828,Secologanin,Failed,2717,344.415,---,---,Analysis,P2
+201026_MIA_161.xms,ISY_CYC_P2_B5,2.822,Secologanin,Failed,36145,642.836,---,---,Analysis,P2
+201026_MIA_162.xms,ISY_CYC_P2_B6,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_163.xms,ISY_CYC_P2_B7,2.808,Secologanin,Failed,36047,543.017,---,---,Analysis,P2
+201026_MIA_164.xms,ISY_CYC_P2_B8,2.813,Secologanin,Failed,44373,603.659,---,---,Analysis,P2
+201026_MIA_165.xms,ISY_CYC_P2_B9,2.819,Secologanin,Failed,78711,778.672,---,---,Analysis,P2
+201026_MIA_166.xms,ISY_CYC_P2_B10,2.821,Secologanin,Failed,23811,467.961,---,---,Analysis,P2
+201026_MIA_167.xms,ISY_CYC_P2_B11,2.811,Secologanin,Failed,38265,572.062,---,---,Analysis,P2
+201026_MIA_168.xms,ISY_CYC_P2_B12,2.81,Secologanin,Failed,71337,781.288,---,---,Analysis,P2
+201026_MIA_169.xms,QC_mix_08,2.816,Secologanin,Failed,21365,103.525,1000,-89.647,Verification,P2
+201026_MIA_170.xms,ISY_CYC_P2_C1,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_171.xms,ISY_CYC_P2_C2,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_172.xms,ISY_CYC_P2_C3,2.816,Secologanin,Failed,36563,529.78,---,---,Analysis,P2
+201026_MIA_173.xms,ISY_CYC_P2_C4,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_174.xms,ISY_CYC_P2_C5,2.819,Secologanin,Failed,52968,628.08,---,---,Analysis,P2
+201026_MIA_175.xms,ISY_CYC_P2_C6,2.818,Secologanin,Failed,61602,658.172,---,---,Analysis,P2
+201026_MIA_176.xms,ISY_CYC_P2_C7,2.819,Secologanin,Failed,79001,764.129,---,---,Analysis,P2
+201026_MIA_177.xms,ISY_CYC_P2_C8,2.818,Secologanin,Failed,35894,554.033,---,---,Analysis,P2
+201026_MIA_178.xms,ISY_CYC_P2_C9,2.804,Secologanin,Failed,23325,437.331,---,---,Analysis,P2
+201026_MIA_179.xms,ISY_CYC_P2_C10,2.813,Secologanin,Failed,929,323.956,---,---,Analysis,P2
+201026_MIA_180.xms,ISY_CYC_P2_C11,2.818,Secologanin,Failed,18825,422.602,---,---,Analysis,P2
+201026_MIA_181.xms,ISY_CYC_P2_C12,2.82,Secologanin,Failed,26852,505.746,---,---,Analysis,P2
+201026_MIA_182.xms,QC_mix_09,2.797,Secologanin,Failed,15783,90.266,1000,-90.973,Verification,P2
+201026_MIA_183.xms,ISY_CYC_P2_D1,2.812,Secologanin,Failed,561,321.521,---,---,Analysis,P2
+201026_MIA_184.xms,ISY_CYC_P2_D2,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_185.xms,ISY_CYC_P2_D3,2.8,Secologanin,Failed,62176,755.802,---,---,Analysis,P2
+201026_MIA_186.xms,ISY_CYC_P2_D4,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_187.xms,ISY_CYC_P2_D5,2.805,Secologanin,Failed,20547,457.46,---,---,Analysis,P2
+201026_MIA_188.xms,ISY_CYC_P2_D6,2.802,Secologanin,Failed,42905,590.378,---,---,Analysis,P2
+201026_MIA_189.xms,ISY_CYC_P2_D7,2.8,Secologanin,Failed,61559,707.303,---,---,Analysis,P2
+201026_MIA_190.xms,ISY_CYC_P2_D8,2.799,Secologanin,Failed,43516,585.683,---,---,Analysis,P2
+201026_MIA_191.xms,ISY_CYC_P2_D9,2.814,Secologanin,Identified,862,321.953,---,---,Analysis,P2
+201026_MIA_192.xms,ISY_CYC_P2_D10,2.812,Secologanin,Failed,649,322.041,---,---,Analysis,P2
+201026_MIA_193.xms,ISY_CYC_P2_D11,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_194.xms,ISY_CYC_P2_D12,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_195.xms,Solvent Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P2
+201026_MIA_195001.xms,Solvent Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P2
+201026_MIA_196.xms,Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P2
+201026_MIA_197.xms,0.05 mg/L stric_v13#1,2.835,Secologanin,Failed,10311,54.547,50,9.095,Calibration,P2
+201026_MIA_198.xms,0.1 mg/L stric_v13#2,2.808,Secologanin,Failed,22342,86.309,100,-13.691,Calibration,P2
+201026_MIA_199.xms,0.25 mg/L stric_v13#3,2.813,Secologanin,Failed,47694,229.007,250,-8.397,Calibration,P2
+201026_MIA_200.xms,0.5 mg/L stric_v13#4,2.818,Secologanin,Failed,71028,410.773,500,-17.845,Calibration,P2
+201026_MIA_201.xms,1 mg/L stric_v13#5,2.804,Secologanin,Failed,185385,1095.628,1000,9.563,Calibration,P2
+201026_MIA_202.xms,2.5 mg/L stric_v13#6,2.808,Secologanin,Failed,453850,3061.221,2500,22.449,Calibration,P2
+201026_MIA_203.xms,5 mg/L stric_v13#7,2.82,Secologanin,Failed,1.46E+06,9331.737,5000,86.635,Calibration,P2
+201026_MIA_204.xms,10 mg/L stric_v13#8,2.809,Secologanin,Failed,2.64E+06,15139.006,10000,51.39,Calibration,P2
+201026_MIA_205.xms,25 mg/L stric_v13#9,2.823,Secologanin,Failed,7.10E+06,43487.547,25000,73.95,Calibration,P2
+201026_MIA_206.xms,50 mg/L stric_v13#10,2.813,Secologanin,Failed,1.36E+07,89102.039,50000,78.204,Calibration,P2
+201026_MIA_207.xms,Solvent Blank,2.803,Secologanin,Failed,54155,75642.883,---,---,Blank,P2
+201026_MIA_207001.xms,Solvent Blank,2.81,Secologanin,Failed,11762,14112.416,---,---,Blank,P2
+201026_MIA_207002.xms,Solvent Blank,2.813,Secologanin,Failed,3762,5905.299,---,---,Blank,P2
+201026_MIA_208.xms,ISY_CYC_P2_E1,2.827,Secologanin,Failed,1519,328.361,---,---,Analysis,P2
+201026_MIA_209.xms,ISY_CYC_P2_E2,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_210.xms,ISY_CYC_P2_E3,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_211.xms,ISY_CYC_P2_E4,2.814,Secologanin,Failed,1330,326.55,---,---,Analysis,P2
+201026_MIA_212.xms,ISY_CYC_P2_E5,2.817,Secologanin,Identified,518,321.269,---,---,Analysis,P2
+201026_MIA_213.xms,ISY_CYC_P2_E6,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_214.xms,ISY_CYC_P2_E7,2.813,Secologanin,Failed,1353,327.383,---,---,Analysis,P2
+201026_MIA_215.xms,ISY_CYC_P2_E8,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_216.xms,ISY_CYC_P2_E9,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_217.xms,ISY_CYC_P2_E10,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_218.xms,ISY_CYC_P2_E11,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_219.xms,ISY_CYC_P2_E12,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_220.xms,QC_mix_10,2.794,Secologanin,Failed,18273,87.519,1000,-91.248,Verification,P2
+201026_MIA_221.xms,ISY_CYC_P2_F1,2.802,Secologanin,Failed,760,322.665,---,---,Analysis,P2
+201026_MIA_222.xms,ISY_CYC_P2_F2,2.799,Secologanin,Failed,344314,3855.819,---,---,Analysis,P2
+201026_MIA_223.xms,ISY_CYC_P2_F3,2.784,Secologanin,Failed,1990,337.392,---,---,Analysis,P2
+201026_MIA_224.xms,ISY_CYC_P2_F4,2.788,Secologanin,Failed,4000,356.533,---,---,Analysis,P2
+201026_MIA_225.xms,ISY_CYC_P2_F5,2.818,Secologanin,Failed,7058,379.678,---,---,Analysis,P2
+201026_MIA_226.xms,ISY_CYC_P2_F6,2.807,Secologanin,Failed,559,323.302,---,---,Analysis,P2
+201026_MIA_227.xms,ISY_CYC_P2_F7,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_228.xms,ISY_CYC_P2_F8,2.82,Secologanin,Failed,12374,406.365,---,---,Analysis,P2
+201026_MIA_229.xms,ISY_CYC_P2_F9,2.807,Secologanin,Failed,2882,337.498,---,---,Analysis,P2
+201026_MIA_230.xms,ISY_CYC_P2_F10,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_231.xms,ISY_CYC_P2_F11,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_232.xms,ISY_CYC_P2_F12,2.828,Secologanin,Missing,0,---,---,---,Analysis,P2
+201026_MIA_233.xms,QC_mix_11,2.816,Secologanin,Failed,22322,93.735,1000,-90.626,Verification,P2
+201026_MIA_234.xms,ISY_CYC_P2_G1,2.825,Secologanin,Failed,647263,5087.212,---,---,Analysis,P2
+201026_MIA_235.xms,ISY_CYC_P2_G2,2.807,Secologanin,Failed,1.47E+06,11618.703,---,---,Analysis,P2
+201026_MIA_236.xms,ISY_CYC_P2_G3,2.82,Secologanin,Failed,936084,7487.533,---,---,Analysis,P2
+201026_MIA_237.xms,ISY_CYC_P2_G4,2.818,Secologanin,Failed,187168,1746.847,---,---,Analysis,P2
+201026_MIA_238.xms,ISY_CYC_P2_G5,2.819,Secologanin,Failed,229718,2063.696,---,---,Analysis,P2
+201026_MIA_239.xms,ISY_CYC_P2_G6,2.816,Secologanin,Failed,523721,4935.176,---,---,Analysis,P2
+201026_MIA_240.xms,ISY_CYC_P2_H1,2.808,Secologanin,Failed,10915,410.399,---,---,Analysis,P2
+201026_MIA_241.xms,ISY_CYC_P2_H2,2.81,Secologanin,Failed,9717,403.211,---,---,Analysis,P2
+201026_MIA_242.xms,ISY_CYC_P2_H3,2.804,Secologanin,Failed,9353,364.325,---,---,Analysis,P2
+201026_MIA_243.xms,ISY_CYC_P2_H4,2.808,Secologanin,Failed,248237,2047.581,---,---,Analysis,P2
+201026_MIA_244.xms,ISY_CYC_P2_H5,2.819,Secologanin,Failed,381425,2952.116,---,---,Analysis,P2
+201026_MIA_245.xms,ISY_CYC_P2_H6,2.81,Secologanin,Failed,254491,2284.181,---,---,Analysis,P2
+201026_MIA_246.xms,Solvent Blank,2.815,Secologanin,Failed,2301,119.188,---,---,Blank,P2
+201026_MIA_246001.xms,Solvent Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P2
+201026_MIA_247.xms,Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P2
+201026_MIA_248.xms,0.05 mg/L stric_v13#1,2.83,Secologanin,Failed,6005,53.135,50,6.271,Calibration,P2
+201026_MIA_249.xms,0.1 mg/L stric_v13#2,2.793,Secologanin,Failed,13649,91.259,100,-8.741,Calibration,P2
+201026_MIA_250.xms,0.25 mg/L stric_v13#3,2.794,Secologanin,Failed,36494,231.024,250,-7.591,Calibration,P2
+201026_MIA_251.xms,0.5 mg/L stric_v13#4,2.792,Secologanin,Failed,77424,487.814,500,-2.437,Calibration,P2
+201026_MIA_252.xms,1 mg/L stric_v13#5,2.792,Secologanin,Failed,174791,1074.171,1000,7.417,Calibration,P2
+201026_MIA_253.xms,2.5 mg/L stric_v13#6,2.795,Secologanin,Failed,493184,3383.363,2500,35.335,Calibration,P2
+201026_MIA_254.xms,5 mg/L stric_v13#7,2.801,Secologanin,Failed,1.71E+06,10219.27,5000,104.385,Calibration,P2
+201026_MIA_255.xms,10 mg/L stric_v13#8,2.801,Secologanin,Failed,2.54E+06,15605.804,10000,56.058,Calibration,P2
+201026_MIA_256.xms,25 mg/L stric_v13#9,2.798,Secologanin,Failed,7.25E+06,45946.48,25000,83.786,Calibration,P2
+201026_MIA_257.xms,50 mg/L stric_v13#10,2.793,Secologanin,Failed,1.04E+07,85558.008,50000,71.116,Calibration,P2
+201026_MIA_258.xms,Solvent Blank,2.804,Secologanin,Failed,53020,123112.797,---,---,Blank,P2
+201026_MIA_258001.xms,Solvent Blank,2.809,Secologanin,Failed,10446,14678.893,---,---,Blank,P2
+201026_MIA_999.xms,Solvent Blank,2.828,Secologanin,Missing,0,---,---,---,Blank,P2
+201026_MIA_001b.xms,Solvent Blank,3.049,Strictosidine,Failed,841,586.833,---,---,Blank,P2
+201026_MIA_001b001.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P2
+201026_MIA_002b.xms,QC_mix_00,3.066,Strictosidine,Failed,2985,25.918,---,---,Analysis,P2
+201026_MIA_131b.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P2
+201026_MIA_132b.xms,Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P2
+201026_MIA_133b.xms,0.05 mg/L stric_v13#1,3.057,Strictosidine,Failed,4036,41.574,50,-16.852,Calibration,P2
+201026_MIA_134b.xms,0.1 mg/L stric_v13#2,3.06,Strictosidine,Failed,9407,97.93,100,-2.07,Calibration,P2
+201026_MIA_135b.xms,0.25 mg/L stric_v13#3,3.055,Strictosidine,Failed,26458,269.995,250,7.998,Calibration,P2
+201026_MIA_136b.xms,0.5 mg/L stric_v13#4,3.06,Strictosidine,Failed,46058,488.619,500,-2.276,Calibration,P2
+201026_MIA_137b.xms,1 mg/L stric_v13#5,3.055,Strictosidine,Failed,100636,897.164,1000,-10.284,Calibration,P2
+201026_MIA_138b.xms,2.5 mg/L stric_v13#6,3.06,Strictosidine,Failed,227765,2203.884,2500,-11.845,Calibration,P2
+201026_MIA_139b.xms,5 mg/L stric_v13#7,3.063,Strictosidine,Failed,489859,4847.107,5000,-3.058,Calibration,P2
+201026_MIA_140b.xms,10 mg/L stric_v13#8,3.053,Strictosidine,Failed,903842,9640.265,10000,-3.597,Calibration,P2
+201026_MIA_141b.xms,25 mg/L stric_v13#9,3.061,Strictosidine,Failed,2.37E+06,24223.965,25000,-3.104,Calibration,P2
+201026_MIA_142b.xms,50 mg/L stric_v13#10,3.064,Strictosidine,Failed,4.73E+06,43653.484,50000,-12.693,Calibration,P2
+201026_MIA_143b.xms,Solvent Blank,3.065,Strictosidine,Failed,13717,41967.547,---,---,Blank,P2
+201026_MIA_143b001.xms,Solvent Blank,3.058,Strictosidine,Failed,2736,4905.843,---,---,Blank,P2
+201026_MIA_143b002.xms,Solvent Blank,3.048,Strictosidine,Failed,553,2590.614,---,---,Blank,P2
+201026_MIA_144b.xms,ISY_CYC_P2_A1,3.059,Strictosidine,Failed,541,34.312,---,---,Analysis,P2
+201026_MIA_145b.xms,ISY_CYC_P2_A2,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_146.xms,ISY_CYC_P2_A3,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_147.xms,ISY_CYC_P2_A4,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_148.xms,ISY_CYC_P2_A5,3.055,Strictosidine,Failed,11146,157.995,---,---,Analysis,P2
+201026_MIA_149.xms,ISY_CYC_P2_A6,3.051,Strictosidine,Failed,14735,201.057,---,---,Analysis,P2
+201026_MIA_150.xms,ISY_CYC_P2_A7,3.053,Strictosidine,Failed,11946,174.598,---,---,Analysis,P2
+201026_MIA_151.xms,ISY_CYC_P2_A8,3.038,Strictosidine,Failed,10200,139.701,---,---,Analysis,P2
+201026_MIA_152.xms,ISY_CYC_P2_A9,3.038,Strictosidine,Failed,9965,158.443,---,---,Analysis,P2
+201026_MIA_153.xms,ISY_CYC_P2_A10,3.039,Strictosidine,Failed,21137,279.477,---,---,Analysis,P2
+201026_MIA_154.xms,ISY_CYC_P2_A11,3.042,Strictosidine,Failed,22338,284.24,---,---,Analysis,P2
+201026_MIA_155.xms,ISY_CYC_P2_A12,3.053,Strictosidine,Failed,11074,159.287,---,---,Analysis,P2
+201026_MIA_156.xms,QC_mix_07,3.065,Strictosidine,Failed,3449,27.538,1000,-97.246,Verification,P2
+201026_MIA_157.xms,ISY_CYC_P2_B1,3.068,Strictosidine,Failed,8831,187.335,---,---,Analysis,P2
+201026_MIA_158.xms,ISY_CYC_P2_B2,3.059,Strictosidine,Failed,7485,152.026,---,---,Analysis,P2
+201026_MIA_159.xms,ISY_CYC_P2_B3,3.06,Strictosidine,Failed,6030,129.457,---,---,Analysis,P2
+201026_MIA_160.xms,ISY_CYC_P2_B4,3.051,Strictosidine,Failed,12676,262.326,---,---,Analysis,P2
+201026_MIA_161.xms,ISY_CYC_P2_B5,3.054,Strictosidine,Failed,14917,279.041,---,---,Analysis,P2
+201026_MIA_162.xms,ISY_CYC_P2_B6,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_163.xms,ISY_CYC_P2_B7,3.061,Strictosidine,Failed,10501,150.904,---,---,Analysis,P2
+201026_MIA_164.xms,ISY_CYC_P2_B8,3.069,Strictosidine,Failed,10460,154.196,---,---,Analysis,P2
+201026_MIA_165.xms,ISY_CYC_P2_B9,3.073,Strictosidine,Failed,13619,177.263,---,---,Analysis,P2
+201026_MIA_166.xms,ISY_CYC_P2_B10,3.06,Strictosidine,Failed,5049,87.764,---,---,Analysis,P2
+201026_MIA_167.xms,ISY_CYC_P2_B11,3.06,Strictosidine,Failed,7018,115.39,---,---,Analysis,P2
+201026_MIA_168.xms,ISY_CYC_P2_B12,3.058,Strictosidine,Failed,9675,145.696,---,---,Analysis,P2
+201026_MIA_169.xms,QC_mix_08,3.061,Strictosidine,Failed,3225,26.748,1000,-97.325,Verification,P2
+201026_MIA_170.xms,ISY_CYC_P2_C1,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_171.xms,ISY_CYC_P2_C2,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_172.xms,ISY_CYC_P2_C3,3.067,Strictosidine,Failed,19380,238.374,---,---,Analysis,P2
+201026_MIA_173.xms,ISY_CYC_P2_C4,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_174.xms,ISY_CYC_P2_C5,3.079,Strictosidine,Failed,10157,139.435,---,---,Analysis,P2
+201026_MIA_175.xms,ISY_CYC_P2_C6,3.067,Strictosidine,Failed,9944,130.914,---,---,Analysis,P2
+201026_MIA_176.xms,ISY_CYC_P2_C7,3.073,Strictosidine,Failed,11826,153.094,---,---,Analysis,P2
+201026_MIA_177.xms,ISY_CYC_P2_C8,3.058,Strictosidine,Failed,10553,158.091,---,---,Analysis,P2
+201026_MIA_178.xms,ISY_CYC_P2_C9,3.059,Strictosidine,Failed,31997,335.211,---,---,Analysis,P2
+201026_MIA_179.xms,ISY_CYC_P2_C10,3.063,Strictosidine,Failed,620,36.127,---,---,Analysis,P2
+201026_MIA_180.xms,ISY_CYC_P2_C11,3.055,Strictosidine,Failed,8610,117.947,---,---,Analysis,P2
+201026_MIA_181.xms,ISY_CYC_P2_C12,3.062,Strictosidine,Failed,7744,129.584,---,---,Analysis,P2
+201026_MIA_182.xms,QC_mix_09,3.042,Strictosidine,Failed,2653,25.493,1000,-97.451,Verification,P2
+201026_MIA_183.xms,ISY_CYC_P2_D1,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_184.xms,ISY_CYC_P2_D2,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_185.xms,ISY_CYC_P2_D3,3.03,Strictosidine,Failed,8993,146.623,---,---,Analysis,P2
+201026_MIA_186.xms,ISY_CYC_P2_D4,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_187.xms,ISY_CYC_P2_D5,3.034,Strictosidine,Failed,9723,151.882,---,---,Analysis,P2
+201026_MIA_188.xms,ISY_CYC_P2_D6,3.049,Strictosidine,Failed,8409,128.092,---,---,Analysis,P2
+201026_MIA_189.xms,ISY_CYC_P2_D7,3.047,Strictosidine,Failed,8206,125.253,---,---,Analysis,P2
+201026_MIA_190.xms,ISY_CYC_P2_D8,3.051,Strictosidine,Failed,10238,146.047,---,---,Analysis,P2
+201026_MIA_191.xms,ISY_CYC_P2_D9,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_192.xms,ISY_CYC_P2_D10,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_193.xms,ISY_CYC_P2_D11,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_194.xms,ISY_CYC_P2_D12,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_195.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P2
+201026_MIA_195001.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P2
+201026_MIA_196.xms,Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P2
+201026_MIA_197.xms,0.05 mg/L stric_v13#1,3.057,Strictosidine,Failed,6710,52.018,50,4.036,Calibration,P2
+201026_MIA_198.xms,0.1 mg/L stric_v13#2,3.052,Strictosidine,Failed,15335,95.545,100,-4.455,Calibration,P2
+201026_MIA_199.xms,0.25 mg/L stric_v13#3,3.065,Strictosidine,Failed,35101,298.636,250,19.454,Calibration,P2
+201026_MIA_200.xms,0.5 mg/L stric_v13#4,3.077,Strictosidine,Failed,44551,467.754,500,-6.449,Calibration,P2
+201026_MIA_201.xms,1 mg/L stric_v13#5,3.057,Strictosidine,Failed,101809,1112.592,1000,11.259,Calibration,P2
+201026_MIA_202.xms,2.5 mg/L stric_v13#6,3.047,Strictosidine,Failed,196985,2473.955,2500,-1.042,Calibration,P2
+201026_MIA_203.xms,5 mg/L stric_v13#7,3.048,Strictosidine,Failed,399765,4786.856,5000,-4.263,Calibration,P2
+201026_MIA_204.xms,10 mg/L stric_v13#8,3.057,Strictosidine,Failed,860921,9229.127,10000,-7.709,Calibration,P2
+201026_MIA_205.xms,25 mg/L stric_v13#9,3.066,Strictosidine,Failed,2.33E+06,26655.549,25000,6.622,Calibration,P2
+201026_MIA_206.xms,50 mg/L stric_v13#10,3.056,Strictosidine,Failed,4.49E+06,55092.383,50000,10.185,Calibration,P2
+201026_MIA_207.xms,Solvent Blank,3.073,Strictosidine,Failed,12761,33306.301,---,---,Blank,P2
+201026_MIA_207001.xms,Solvent Blank,3.059,Strictosidine,Failed,3178,7120.906,---,---,Blank,P2
+201026_MIA_207002.xms,Solvent Blank,3.061,Strictosidine,Failed,716,2096.421,---,---,Blank,P2
+201026_MIA_208.xms,ISY_CYC_P2_E1,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_209.xms,ISY_CYC_P2_E2,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_210.xms,ISY_CYC_P2_E3,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_211.xms,ISY_CYC_P2_E4,3.055,Strictosidine,Failed,1774,50.561,---,---,Analysis,P2
+201026_MIA_212.xms,ISY_CYC_P2_E5,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_213.xms,ISY_CYC_P2_E6,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_214.xms,ISY_CYC_P2_E7,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_215.xms,ISY_CYC_P2_E8,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_216.xms,ISY_CYC_P2_E9,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_217.xms,ISY_CYC_P2_E10,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_218.xms,ISY_CYC_P2_E11,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_219.xms,ISY_CYC_P2_E12,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_220.xms,QC_mix_10,3.049,Strictosidine,Failed,3054,24.496,1000,-97.55,Verification,P2
+201026_MIA_221.xms,ISY_CYC_P2_F1,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_222.xms,ISY_CYC_P2_F2,3.037,Strictosidine,Failed,45490,901.804,---,---,Analysis,P2
+201026_MIA_223.xms,ISY_CYC_P2_F3,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_224.xms,ISY_CYC_P2_F4,3.04,Strictosidine,Failed,1789,60.733,---,---,Analysis,P2
+201026_MIA_225.xms,ISY_CYC_P2_F5,3.05,Strictosidine,Failed,5377,116.59,---,---,Analysis,P2
+201026_MIA_226.xms,ISY_CYC_P2_F6,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_227.xms,ISY_CYC_P2_F7,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_228.xms,ISY_CYC_P2_F8,3.069,Strictosidine,Failed,4260,85.285,---,---,Analysis,P2
+201026_MIA_229.xms,ISY_CYC_P2_F9,3.055,Strictosidine,Failed,1089,42.229,---,---,Analysis,P2
+201026_MIA_230.xms,ISY_CYC_P2_F10,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_231.xms,ISY_CYC_P2_F11,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_232.xms,ISY_CYC_P2_F12,3.072,Strictosidine,Missing,0,---,---,---,Analysis,P2
+201026_MIA_233.xms,QC_mix_11,3.052,Strictosidine,Failed,3324,23.675,1000,-97.632,Verification,P2
+201026_MIA_234.xms,ISY_CYC_P2_G1,3.06,Strictosidine,Failed,134260,1877.16,---,---,Analysis,P2
+201026_MIA_235.xms,ISY_CYC_P2_G2,3.055,Strictosidine,Failed,378435,5472.583,---,---,Analysis,P2
+201026_MIA_236.xms,ISY_CYC_P2_G3,3.059,Strictosidine,Failed,189711,2743.835,---,---,Analysis,P2
+201026_MIA_237.xms,ISY_CYC_P2_G4,3.05,Strictosidine,Failed,49621,736.332,---,---,Analysis,P2
+201026_MIA_238.xms,ISY_CYC_P2_G5,3.053,Strictosidine,Failed,46865,693.914,---,---,Analysis,P2
+201026_MIA_239.xms,ISY_CYC_P2_G6,3.062,Strictosidine,Failed,96180,1613,---,---,Analysis,P2
+201026_MIA_240.xms,ISY_CYC_P2_H1,3.057,Strictosidine,Failed,38414,638.784,---,---,Analysis,P2
+201026_MIA_241.xms,ISY_CYC_P2_H2,3.062,Strictosidine,Failed,34712,599.967,---,---,Analysis,P2
+201026_MIA_242.xms,ISY_CYC_P2_H3,3.058,Strictosidine,Failed,40978,411.04,---,---,Analysis,P2
+201026_MIA_243.xms,ISY_CYC_P2_H4,3.053,Strictosidine,Failed,115725,1535.445,---,---,Analysis,P2
+201026_MIA_244.xms,ISY_CYC_P2_H5,3.048,Strictosidine,Failed,155469,2035.057,---,---,Analysis,P2
+201026_MIA_245.xms,ISY_CYC_P2_H6,3.06,Strictosidine,Failed,111465,1637.944,---,---,Analysis,P2
+201026_MIA_246.xms,Solvent Blank,3.065,Strictosidine,Failed,1114,97.483,---,---,Blank,P2
+201026_MIA_246001.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P2
+201026_MIA_247.xms,Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P2
+201026_MIA_248.xms,0.05 mg/L stric_v13#1,3.053,Strictosidine,Failed,4266,54.807,50,9.614,Calibration,P2
+201026_MIA_249.xms,0.1 mg/L stric_v13#2,3.037,Strictosidine,Failed,8862,96.453,100,-3.547,Calibration,P2
+201026_MIA_250.xms,0.25 mg/L stric_v13#3,3.04,Strictosidine,Failed,26568,298.166,250,19.267,Calibration,P2
+201026_MIA_251.xms,0.5 mg/L stric_v13#4,3.054,Strictosidine,Failed,42427,487.702,500,-2.46,Calibration,P2
+201026_MIA_252.xms,1 mg/L stric_v13#5,3.035,Strictosidine,Failed,93646,1063.953,1000,6.395,Calibration,P2
+201026_MIA_253.xms,2.5 mg/L stric_v13#6,3.052,Strictosidine,Failed,196573,2511.935,2500,0.477,Calibration,P2
+201026_MIA_254.xms,5 mg/L stric_v13#7,3.049,Strictosidine,Failed,463048,5180.529,5000,3.611,Calibration,P2
+201026_MIA_255.xms,10 mg/L stric_v13#8,3.035,Strictosidine,Failed,843402,9686.654,10000,-3.133,Calibration,P2
+201026_MIA_256.xms,25 mg/L stric_v13#9,3.037,Strictosidine,Failed,2.06E+06,24352.574,25000,-2.59,Calibration,P2
+201026_MIA_257.xms,50 mg/L stric_v13#10,3.04,Strictosidine,Failed,3.35E+06,51282.047,50000,2.564,Calibration,P2
+201026_MIA_258.xms,Solvent Blank,3.064,Strictosidine,Failed,13982,60670.746,---,---,Blank,P2
+201026_MIA_258001.xms,Solvent Blank,3.061,Strictosidine,Failed,2618,6871.591,---,---,Blank,P2
+201026_MIA_999.xms,Solvent Blank,3.072,Strictosidine,Missing,0,---,---,---,Blank,P2
+201026_MIA_001b.xms,Solvent Blank,2.393,Tryptamine,Identified,27944,27944,---,---,Blank,P2
+201026_MIA_001b001.xms,Solvent Blank,2.389,Tryptamine,Identified,5010,5010,---,---,Blank,P2
+201026_MIA_002b.xms,QC_mix_00,2.4,Tryptamine,Identified,12183,12183,---,---,Analysis,P2
+201026_MIA_131b.xms,Solvent Blank,2.402,Tryptamine,Identified,3887,3887,---,---,Blank,P2
+201026_MIA_132b.xms,Blank,2.394,Tryptamine,Identified,2708,2708,---,---,Blank,P2
+201026_MIA_133b.xms,0.05 mg/L stric_v13#1,2.39,Tryptamine,Identified,15302,---,50,N/A,Calibration,P2
+201026_MIA_134b.xms,0.1 mg/L stric_v13#2,2.391,Tryptamine,Identified,24214,46.425,100,-53.575,Calibration,P2
+201026_MIA_135b.xms,0.25 mg/L stric_v13#3,2.393,Tryptamine,Identified,61718,376.776,250,50.711,Calibration,P2
+201026_MIA_136b.xms,0.5 mg/L stric_v13#4,2.39,Tryptamine,Identified,108561,832.859,500,66.572,Calibration,P2
+201026_MIA_137b.xms,1 mg/L stric_v13#5,2.401,Tryptamine,Identified,204265,1418.149,1000,41.815,Calibration,P2
+201026_MIA_138b.xms,2.5 mg/L stric_v13#6,2.376,Tryptamine,Identified,463466,3745.96,2500,49.838,Calibration,P2
+201026_MIA_139b.xms,5 mg/L stric_v13#7,2.385,Tryptamine,Identified,986020,8353.494,5000,67.07,Calibration,P2
+201026_MIA_140b.xms,10 mg/L stric_v13#8,2.388,Tryptamine,Identified,1.66E+06,15252.389,10000,52.524,Calibration,P2
+201026_MIA_141b.xms,25 mg/L stric_v13#9,2.379,Tryptamine,Identified,4.20E+06,37314.824,25000,49.259,Calibration,P2
+201026_MIA_142b.xms,50 mg/L stric_v13#10,2.385,Tryptamine,Identified,8.30E+06,66807.867,50000,33.616,Calibration,P2
+201026_MIA_143b.xms,Solvent Blank,2.402,Tryptamine,Identified,4920,9139.842,---,---,Blank,P2
+201026_MIA_143b001.xms,Solvent Blank,2.387,Tryptamine,Identified,4305,4650.734,---,---,Blank,P2
+201026_MIA_143b002.xms,Solvent Blank,2.385,Tryptamine,Identified,5270,15044.606,---,---,Blank,P2
+201026_MIA_144b.xms,ISY_CYC_P2_A1,2.381,Tryptamine,Identified,1.22E+07,83360.672,---,---,Analysis,P2
+201026_MIA_145b.xms,ISY_CYC_P2_A2,2.384,Tryptamine,Identified,4.58E+06,36084.066,---,---,Analysis,P2
+201026_MIA_146.xms,ISY_CYC_P2_A3,2.375,Tryptamine,Identified,5.27E+06,40966.637,---,---,Analysis,P2
+201026_MIA_147.xms,ISY_CYC_P2_A4,2.38,Tryptamine,Identified,6.99E+06,50802.828,---,---,Analysis,P2
+201026_MIA_148.xms,ISY_CYC_P2_A5,2.423,Tryptamine,Identified,7706,N/A,---,---,Analysis,P2
+201026_MIA_149.xms,ISY_CYC_P2_A6,2.434,Tryptamine,Failed,2212,N/A,---,---,Analysis,P2
+201026_MIA_150.xms,ISY_CYC_P2_A7,2.359,Tryptamine,Identified,7.61E+06,55209.633,---,---,Analysis,P2
+201026_MIA_151.xms,ISY_CYC_P2_A8,2.431,Tryptamine,Failed,535,N/A,---,---,Analysis,P2
+201026_MIA_152.xms,ISY_CYC_P2_A9,2.36,Tryptamine,Identified,1.31E+07,103278.578,---,---,Analysis,P2
+201026_MIA_153.xms,ISY_CYC_P2_A10,2.359,Tryptamine,Identified,1.61E+07,115498.008,---,---,Analysis,P2
+201026_MIA_154.xms,ISY_CYC_P2_A11,2.438,Tryptamine,Failed,3022,N/A,---,---,Analysis,P2
+201026_MIA_155.xms,ISY_CYC_P2_A12,2.419,Tryptamine,Failed,1745,N/A,---,---,Analysis,P2
+201026_MIA_156.xms,QC_mix_07,2.384,Tryptamine,Identified,10340,N/A,1000,-100.1,Verification,P2
+201026_MIA_157.xms,ISY_CYC_P2_B1,2.387,Tryptamine,Identified,3.53E+06,37055.504,---,---,Analysis,P2
+201026_MIA_158.xms,ISY_CYC_P2_B2,2.378,Tryptamine,Identified,5.58E+06,54679.43,---,---,Analysis,P2
+201026_MIA_159.xms,ISY_CYC_P2_B3,2.378,Tryptamine,Identified,5.99E+06,59727.406,---,---,Analysis,P2
+201026_MIA_160.xms,ISY_CYC_P2_B4,2.43,Tryptamine,Failed,781,N/A,---,---,Analysis,P2
+201026_MIA_161.xms,ISY_CYC_P2_B5,2.373,Tryptamine,Identified,1.22E+07,124031.813,---,---,Analysis,P2
+201026_MIA_162.xms,ISY_CYC_P2_B6,2.371,Tryptamine,Identified,1.48E+07,155740.625,---,---,Analysis,P2
+201026_MIA_163.xms,ISY_CYC_P2_B7,2.373,Tryptamine,Identified,1.18E+07,82616.984,---,---,Analysis,P2
+201026_MIA_164.xms,ISY_CYC_P2_B8,2.376,Tryptamine,Identified,1.07E+07,76984.789,---,---,Analysis,P2
+201026_MIA_165.xms,ISY_CYC_P2_B9,2.391,Tryptamine,Identified,5.26E+06,33357.035,---,---,Analysis,P2
+201026_MIA_166.xms,ISY_CYC_P2_B10,2.392,Tryptamine,Identified,1.01E+07,71107.055,---,---,Analysis,P2
+201026_MIA_167.xms,ISY_CYC_P2_B11,2.383,Tryptamine,Identified,8.05E+06,59379.121,---,---,Analysis,P2
+201026_MIA_168.xms,ISY_CYC_P2_B12,2.388,Tryptamine,Identified,2.60E+06,17484.984,---,---,Analysis,P2
+201026_MIA_169.xms,QC_mix_08,2.398,Tryptamine,Identified,2062,N/A,1000,-100.1,Verification,P2
+201026_MIA_170.xms,ISY_CYC_P2_C1,2.382,Tryptamine,Identified,6.74E+06,48557.688,---,---,Analysis,P2
+201026_MIA_171.xms,ISY_CYC_P2_C2,2.375,Tryptamine,Identified,2.24E+07,154643.406,---,---,Analysis,P2
+201026_MIA_172.xms,ISY_CYC_P2_C3,2.379,Tryptamine,Identified,8.23E+06,52755.492,---,---,Analysis,P2
+201026_MIA_173.xms,ISY_CYC_P2_C4,2.393,Tryptamine,Identified,1.65E+07,108726.258,---,---,Analysis,P2
+201026_MIA_174.xms,ISY_CYC_P2_C5,2.38,Tryptamine,Identified,9.21E+06,59883.234,---,---,Analysis,P2
+201026_MIA_175.xms,ISY_CYC_P2_C6,2.427,Tryptamine,Failed,857,N/A,---,---,Analysis,P2
+201026_MIA_176.xms,ISY_CYC_P2_C7,2.384,Tryptamine,Identified,4.01E+06,24073.74,---,---,Analysis,P2
+201026_MIA_177.xms,ISY_CYC_P2_C8,2.384,Tryptamine,Identified,2.11E+06,14061.612,---,---,Analysis,P2
+201026_MIA_178.xms,ISY_CYC_P2_C9,2.377,Tryptamine,Identified,6.12E+06,34089.672,---,---,Analysis,P2
+201026_MIA_179.xms,ISY_CYC_P2_C10,2.39,Tryptamine,Identified,8.29E+06,63409.633,---,---,Analysis,P2
+201026_MIA_180.xms,ISY_CYC_P2_C11,2.382,Tryptamine,Identified,7.91E+06,48633.852,---,---,Analysis,P2
+201026_MIA_181.xms,ISY_CYC_P2_C12,2.384,Tryptamine,Identified,4.88E+06,37265.086,---,---,Analysis,P2
+201026_MIA_182.xms,QC_mix_09,2.377,Tryptamine,Identified,9026,N/A,1000,-100.1,Verification,P2
+201026_MIA_183.xms,ISY_CYC_P2_D1,2.378,Tryptamine,Identified,7.64E+06,59764.387,---,---,Analysis,P2
+201026_MIA_184.xms,ISY_CYC_P2_D2,2.386,Tryptamine,Identified,1.82E+07,132512.844,---,---,Analysis,P2
+201026_MIA_185.xms,ISY_CYC_P2_D3,2.426,Tryptamine,Failed,2589,N/A,---,---,Analysis,P2
+201026_MIA_186.xms,ISY_CYC_P2_D4,2.434,Tryptamine,Failed,2455,N/A,---,---,Analysis,P2
+201026_MIA_187.xms,ISY_CYC_P2_D5,2.37,Tryptamine,Identified,1.29E+07,98435.883,---,---,Analysis,P2
+201026_MIA_188.xms,ISY_CYC_P2_D6,2.431,Tryptamine,Identified,47685,N/A,---,---,Analysis,P2
+201026_MIA_189.xms,ISY_CYC_P2_D7,2.378,Tryptamine,Identified,3.56E+06,23908.723,---,---,Analysis,P2
+201026_MIA_190.xms,ISY_CYC_P2_D8,2.371,Tryptamine,Identified,5.31E+06,35575.391,---,---,Analysis,P2
+201026_MIA_191.xms,ISY_CYC_P2_D9,2.394,Tryptamine,Identified,4.49E+06,24281.777,---,---,Analysis,P2
+201026_MIA_192.xms,ISY_CYC_P2_D10,2.383,Tryptamine,Identified,1.20E+07,93053.102,---,---,Analysis,P2
+201026_MIA_193.xms,ISY_CYC_P2_D11,2.373,Tryptamine,Identified,7.00E+06,64812.285,---,---,Analysis,P2
+201026_MIA_194.xms,ISY_CYC_P2_D12,2.37,Tryptamine,Identified,2.74E+07,139730.578,---,---,Analysis,P2
+201026_MIA_195.xms,Solvent Blank,2.392,Tryptamine,Identified,201251,6393.662,---,---,Blank,P2
+201026_MIA_195001.xms,Solvent Blank,2.384,Tryptamine,Identified,21838,5605.041,---,---,Blank,P2
+201026_MIA_196.xms,Blank,2.397,Tryptamine,Identified,1745,1202.06,---,---,Blank,P2
+201026_MIA_197.xms,0.05 mg/L stric_v13#1,2.392,Tryptamine,Identified,19599,---,50,N/A,Calibration,P2
+201026_MIA_198.xms,0.1 mg/L stric_v13#2,2.382,Tryptamine,Identified,41606,52.539,100,-47.461,Calibration,P2
+201026_MIA_199.xms,0.25 mg/L stric_v13#3,2.39,Tryptamine,Identified,72349,364.586,250,45.835,Calibration,P2
+201026_MIA_200.xms,0.5 mg/L stric_v13#4,2.394,Tryptamine,Identified,98688,732.037,500,46.407,Calibration,P2
+201026_MIA_201.xms,1 mg/L stric_v13#5,2.383,Tryptamine,Identified,197848,1716.34,1000,71.634,Calibration,P2
+201026_MIA_202.xms,2.5 mg/L stric_v13#6,2.385,Tryptamine,Identified,394406,4155.738,2500,66.23,Calibration,P2
+201026_MIA_203.xms,5 mg/L stric_v13#7,2.386,Tryptamine,Identified,754536,7722.946,5000,54.459,Calibration,P2
+201026_MIA_204.xms,10 mg/L stric_v13#8,2.381,Tryptamine,Identified,1.52E+06,14071.125,10000,40.711,Calibration,P2
+201026_MIA_205.xms,25 mg/L stric_v13#9,2.391,Tryptamine,Identified,3.73E+06,37127.059,25000,48.508,Calibration,P2
+201026_MIA_206.xms,50 mg/L stric_v13#10,2.384,Tryptamine,Identified,7.16E+06,76645.07,50000,53.29,Calibration,P2
+201026_MIA_207.xms,Solvent Blank,2.381,Tryptamine,Identified,3014,4600.691,---,---,Blank,P2
+201026_MIA_207001.xms,Solvent Blank,2.396,Tryptamine,Identified,2432,3166.893,---,---,Blank,P2
+201026_MIA_207002.xms,Solvent Blank,2.387,Tryptamine,Identified,2822,4834.13,---,---,Blank,P2
+201026_MIA_208.xms,ISY_CYC_P2_E1,2.382,Tryptamine,Identified,1.03E+07,79756.32,---,---,Analysis,P2
+201026_MIA_209.xms,ISY_CYC_P2_E2,2.369,Tryptamine,Identified,1.65E+07,143791.719,---,---,Analysis,P2
+201026_MIA_210.xms,ISY_CYC_P2_E3,2.372,Tryptamine,Identified,2.00E+07,140808,---,---,Analysis,P2
+201026_MIA_211.xms,ISY_CYC_P2_E4,2.381,Tryptamine,Identified,1.82E+07,134388.703,---,---,Analysis,P2
+201026_MIA_212.xms,ISY_CYC_P2_E5,2.385,Tryptamine,Identified,1.21E+07,94604.141,---,---,Analysis,P2
+201026_MIA_213.xms,ISY_CYC_P2_E6,2.383,Tryptamine,Identified,4.42E+06,31808.365,---,---,Analysis,P2
+201026_MIA_214.xms,ISY_CYC_P2_E7,2.387,Tryptamine,Identified,4.69E+06,36076.961,---,---,Analysis,P2
+201026_MIA_215.xms,ISY_CYC_P2_E8,2.38,Tryptamine,Identified,8.43E+06,65650.148,---,---,Analysis,P2
+201026_MIA_216.xms,ISY_CYC_P2_E9,2.378,Tryptamine,Identified,3.49E+06,25898.588,---,---,Analysis,P2
+201026_MIA_217.xms,ISY_CYC_P2_E10,2.369,Tryptamine,Identified,9.22E+06,73250.039,---,---,Analysis,P2
+201026_MIA_218.xms,ISY_CYC_P2_E11,2.437,Tryptamine,Failed,2336,N/A,---,---,Analysis,P2
+201026_MIA_219.xms,ISY_CYC_P2_E12,2.368,Tryptamine,Identified,1.73E+07,138314.266,---,---,Analysis,P2
+201026_MIA_220.xms,QC_mix_10,2.394,Tryptamine,Identified,811,N/A,1000,-100.1,Verification,P2
+201026_MIA_221.xms,ISY_CYC_P2_F1,2.369,Tryptamine,Identified,9.20E+06,66807.664,---,---,Analysis,P2
+201026_MIA_222.xms,ISY_CYC_P2_F2,2.373,Tryptamine,Identified,6.86E+06,76524.094,---,---,Analysis,P2
+201026_MIA_223.xms,ISY_CYC_P2_F3,2.427,Tryptamine,Identified,11609,N/A,---,---,Analysis,P2
+201026_MIA_224.xms,ISY_CYC_P2_F4,2.417,Tryptamine,Failed,12014,N/A,---,---,Analysis,P2
+201026_MIA_225.xms,ISY_CYC_P2_F5,2.382,Tryptamine,Identified,1.04E+07,99974.375,---,---,Analysis,P2
+201026_MIA_226.xms,ISY_CYC_P2_F6,2.431,Tryptamine,Identified,2434,N/A,---,---,Analysis,P2
+201026_MIA_227.xms,ISY_CYC_P2_F7,2.384,Tryptamine,Identified,1.49E+07,147439.609,---,---,Analysis,P2
+201026_MIA_228.xms,ISY_CYC_P2_F8,2.376,Tryptamine,Identified,7.08E+06,54697.273,---,---,Analysis,P2
+201026_MIA_229.xms,ISY_CYC_P2_F9,2.389,Tryptamine,Identified,4.19E+06,30517.645,---,---,Analysis,P2
+201026_MIA_230.xms,ISY_CYC_P2_F10,2.38,Tryptamine,Identified,1.24E+07,105871.109,---,---,Analysis,P2
+201026_MIA_231.xms,ISY_CYC_P2_F11,2.38,Tryptamine,Identified,1.21E+07,91095.016,---,---,Analysis,P2
+201026_MIA_232.xms,ISY_CYC_P2_F12,2.386,Tryptamine,Identified,7.54E+06,61664.746,---,---,Analysis,P2
+201026_MIA_233.xms,QC_mix_11,2.393,Tryptamine,Identified,6647,N/A,1000,-100.1,Verification,P2
+201026_MIA_234.xms,ISY_CYC_P2_G1,2.375,Tryptamine,Identified,8.44E+06,67311.219,---,---,Analysis,P2
+201026_MIA_235.xms,ISY_CYC_P2_G2,2.379,Tryptamine,Identified,8.83E+06,73736.313,---,---,Analysis,P2
+201026_MIA_236.xms,ISY_CYC_P2_G3,2.379,Tryptamine,Identified,1.51E+07,126596.5,---,---,Analysis,P2
+201026_MIA_237.xms,ISY_CYC_P2_G4,2.367,Tryptamine,Identified,1.71E+07,143404.891,---,---,Analysis,P2
+201026_MIA_238.xms,ISY_CYC_P2_G5,2.37,Tryptamine,Identified,1.76E+07,146907.094,---,---,Analysis,P2
+201026_MIA_239.xms,ISY_CYC_P2_G6,2.389,Tryptamine,Identified,9.26E+06,88861.703,---,---,Analysis,P2
+201026_MIA_240.xms,ISY_CYC_P2_H1,2.376,Tryptamine,Identified,1.61E+07,150298.406,---,---,Analysis,P2
+201026_MIA_241.xms,ISY_CYC_P2_H2,2.381,Tryptamine,Identified,9.88E+06,94931.602,---,---,Analysis,P2
+201026_MIA_242.xms,ISY_CYC_P2_H3,2.375,Tryptamine,Identified,1.54E+07,83497.203,---,---,Analysis,P2
+201026_MIA_243.xms,ISY_CYC_P2_H4,2.377,Tryptamine,Identified,1.24E+07,94299.906,---,---,Analysis,P2
+201026_MIA_244.xms,ISY_CYC_P2_H5,2.368,Tryptamine,Identified,8.41E+06,62743.383,---,---,Analysis,P2
+201026_MIA_245.xms,ISY_CYC_P2_H6,2.376,Tryptamine,Identified,1.08E+07,90429.063,---,---,Analysis,P2
+201026_MIA_246.xms,Solvent Blank,2.39,Tryptamine,Identified,82960,4191.67,---,---,Blank,P2
+201026_MIA_246001.xms,Solvent Blank,2.384,Tryptamine,Identified,4335,2650.71,---,---,Blank,P2
+201026_MIA_247.xms,Blank,2.402,Tryptamine,Identified,635,326.877,---,---,Blank,P2
+201026_MIA_248.xms,0.05 mg/L stric_v13#1,2.375,Tryptamine,Failed,13058,---,50,N/A,Calibration,P2
+201026_MIA_249.xms,0.1 mg/L stric_v13#2,2.364,Tryptamine,Identified,24157,55.747,100,-44.253,Calibration,P2
+201026_MIA_250.xms,0.25 mg/L stric_v13#3,2.361,Tryptamine,Identified,51061,327.587,250,31.035,Calibration,P2
+201026_MIA_251.xms,0.5 mg/L stric_v13#4,2.366,Tryptamine,Identified,93161,762.401,500,52.48,Calibration,P2
+201026_MIA_252.xms,1 mg/L stric_v13#5,2.366,Tryptamine,Identified,185957,1673.144,1000,67.314,Calibration,P2
+201026_MIA_253.xms,2.5 mg/L stric_v13#6,2.364,Tryptamine,Identified,406649,4368.071,2500,74.723,Calibration,P2
+201026_MIA_254.xms,5 mg/L stric_v13#7,2.435,Tryptamine,Failed,806,---,5000,N/A,Calibration,P2
+201026_MIA_255.xms,10 mg/L stric_v13#8,2.42,Tryptamine,Identified,810,---,10000,N/A,Calibration,P2
+201026_MIA_256.xms,25 mg/L stric_v13#9,2.426,Tryptamine,Failed,3244,---,25000,N/A,Calibration,P2
+201026_MIA_257.xms,50 mg/L stric_v13#10,2.43,Tryptamine,Failed,1430,---,50000,N/A,Calibration,P2
+201026_MIA_258.xms,Solvent Blank,2.385,Tryptamine,Identified,2658,9908.042,---,---,Blank,P2
+201026_MIA_258001.xms,Solvent Blank,2.387,Tryptamine,Identified,2122,4694.87,---,---,Blank,P2
+201026_MIA_999.xms,Solvent Blank,2.404,Tryptamine,Missing,0,---,---,---,Blank,P2
+201026_MIA_001b.xms,Solvent Blank,2.22,Tryptophan,Failed,726,726,---,---,Blank,P2
+201026_MIA_001b001.xms,Solvent Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P2
+201026_MIA_002b.xms,QC_mix_00,2.221,Tryptophan,Missing,0,---,---,---,Analysis,P2
+201026_MIA_131b.xms,Solvent Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P2
+201026_MIA_132b.xms,Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P2
+201026_MIA_133b.xms,0.05 mg/L stric_v13#1,2.198,Tryptophan,Failed,31987,18.459,50,-63.083,Calibration,P2
+201026_MIA_134b.xms,0.1 mg/L stric_v13#2,2.221,Tryptophan,Failed,39527,85.995,100,-14.005,Calibration,P2
+201026_MIA_135b.xms,0.25 mg/L stric_v13#3,2.219,Tryptophan,Failed,59989,244.941,250,-2.024,Calibration,P2
+201026_MIA_136b.xms,0.5 mg/L stric_v13#4,2.222,Tryptophan,Failed,88495,501.206,500,0.241,Calibration,P2
+201026_MIA_137b.xms,1 mg/L stric_v13#5,2.202,Tryptophan,Failed,177481,1005.519,1000,0.552,Calibration,P2
+201026_MIA_138b.xms,2.5 mg/L stric_v13#6,2.209,Tryptophan,Failed,328990,2260.385,2500,-9.585,Calibration,P2
+201026_MIA_139b.xms,5 mg/L stric_v13#7,2.21,Tryptophan,Failed,867217,6489.568,5000,29.791,Calibration,P2
+201026_MIA_140b.xms,10 mg/L stric_v13#8,2.194,Tryptophan,Failed,1.46E+06,12001.759,10000,20.018,Calibration,P2
+201026_MIA_141b.xms,25 mg/L stric_v13#9,2.213,Tryptophan,Failed,3.75E+06,29820.484,25000,19.282,Calibration,P2
+201026_MIA_142b.xms,50 mg/L stric_v13#10,2.208,Tryptophan,Failed,7.73E+06,55682.016,50000,11.364,Calibration,P2
+201026_MIA_143b.xms,Solvent Blank,2.204,Tryptophan,Failed,3397,6916.469,---,---,Blank,P2
+201026_MIA_143b001.xms,Solvent Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P2
+201026_MIA_143b002.xms,Solvent Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P2
+201026_MIA_144b.xms,ISY_CYC_P2_A1,2.19,Tryptophan,Failed,3507,N/A,---,---,Analysis,P2
+201026_MIA_145b.xms,ISY_CYC_P2_A2,2.199,Tryptophan,Failed,10479,N/A,---,---,Analysis,P2
+201026_MIA_146.xms,ISY_CYC_P2_A3,2.183,Tryptophan,Failed,10265,N/A,---,---,Analysis,P2
+201026_MIA_147.xms,ISY_CYC_P2_A4,2.206,Tryptophan,Failed,50259,N/A,---,---,Analysis,P2
+201026_MIA_148.xms,ISY_CYC_P2_A5,2.183,Tryptophan,Failed,9502,N/A,---,---,Analysis,P2
+201026_MIA_149.xms,ISY_CYC_P2_A6,2.259,Tryptophan,Failed,616,N/A,---,---,Analysis,P2
+201026_MIA_150.xms,ISY_CYC_P2_A7,2.178,Tryptophan,Failed,6610,N/A,---,---,Analysis,P2
+201026_MIA_151.xms,ISY_CYC_P2_A8,2.179,Tryptophan,Failed,12382,N/A,---,---,Analysis,P2
+201026_MIA_152.xms,ISY_CYC_P2_A9,2.177,Tryptophan,Failed,132235,N/A,---,---,Analysis,P2
+201026_MIA_153.xms,ISY_CYC_P2_A10,2.19,Tryptophan,Failed,1.19E+06,5458.799,---,---,Analysis,P2
+201026_MIA_154.xms,ISY_CYC_P2_A11,2.26,Tryptophan,Failed,4007,N/A,---,---,Analysis,P2
+201026_MIA_155.xms,ISY_CYC_P2_A12,2.199,Tryptophan,Failed,6070,N/A,---,---,Analysis,P2
+201026_MIA_156.xms,QC_mix_07,2.221,Tryptophan,Missing,0,---,1000,N/A,Verification,P2
+201026_MIA_157.xms,ISY_CYC_P2_B1,2.194,Tryptophan,Failed,6093,N/A,---,---,Analysis,P2
+201026_MIA_158.xms,ISY_CYC_P2_B2,2.208,Tryptophan,Failed,6833,N/A,---,---,Analysis,P2
+201026_MIA_159.xms,ISY_CYC_P2_B3,2.213,Tryptophan,Failed,5479,N/A,---,---,Analysis,P2
+201026_MIA_160.xms,ISY_CYC_P2_B4,2.207,Tryptophan,Failed,1.69E+06,17085.314,---,---,Analysis,P2
+201026_MIA_161.xms,ISY_CYC_P2_B5,2.209,Tryptophan,Failed,576405,2451.278,---,---,Analysis,P2
+201026_MIA_162.xms,ISY_CYC_P2_B6,2.213,Tryptophan,Failed,1.22E+06,10335.706,---,---,Analysis,P2
+201026_MIA_163.xms,ISY_CYC_P2_B7,2.212,Tryptophan,Failed,425002,N/A,---,---,Analysis,P2
+201026_MIA_164.xms,ISY_CYC_P2_B8,2.209,Tryptophan,Failed,256862,N/A,---,---,Analysis,P2
+201026_MIA_165.xms,ISY_CYC_P2_B9,2.194,Tryptophan,Failed,11195,N/A,---,---,Analysis,P2
+201026_MIA_166.xms,ISY_CYC_P2_B10,2.213,Tryptophan,Failed,6438,N/A,---,---,Analysis,P2
+201026_MIA_167.xms,ISY_CYC_P2_B11,2.202,Tryptophan,Failed,26366,N/A,---,---,Analysis,P2
+201026_MIA_168.xms,ISY_CYC_P2_B12,2.193,Tryptophan,Failed,11771,N/A,---,---,Analysis,P2
+201026_MIA_169.xms,QC_mix_08,2.221,Tryptophan,Missing,0,---,1000,N/A,Verification,P2
+201026_MIA_170.xms,ISY_CYC_P2_C1,2.189,Tryptophan,Identified,18760,N/A,---,---,Analysis,P2
+201026_MIA_171.xms,ISY_CYC_P2_C2,2.214,Tryptophan,Failed,4.07E+06,27502.729,---,---,Analysis,P2
+201026_MIA_172.xms,ISY_CYC_P2_C3,2.204,Tryptophan,Failed,9496,N/A,---,---,Analysis,P2
+201026_MIA_173.xms,ISY_CYC_P2_C4,2.199,Tryptophan,Failed,761942,1534.137,---,---,Analysis,P2
+201026_MIA_174.xms,ISY_CYC_P2_C5,2.215,Tryptophan,Failed,56220,N/A,---,---,Analysis,P2
+201026_MIA_175.xms,ISY_CYC_P2_C6,2.209,Tryptophan,Failed,6440,N/A,---,---,Analysis,P2
+201026_MIA_176.xms,ISY_CYC_P2_C7,2.198,Tryptophan,Failed,10981,N/A,---,---,Analysis,P2
+201026_MIA_177.xms,ISY_CYC_P2_C8,2.2,Tryptophan,Failed,15287,N/A,---,---,Analysis,P2
+201026_MIA_178.xms,ISY_CYC_P2_C9,2.197,Tryptophan,Failed,8376,N/A,---,---,Analysis,P2
+201026_MIA_179.xms,ISY_CYC_P2_C10,2.202,Tryptophan,Failed,649635,1538.026,---,---,Analysis,P2
+201026_MIA_180.xms,ISY_CYC_P2_C11,2.209,Tryptophan,Failed,94116,N/A,---,---,Analysis,P2
+201026_MIA_181.xms,ISY_CYC_P2_C12,2.203,Tryptophan,Failed,8022,N/A,---,---,Analysis,P2
+201026_MIA_182.xms,QC_mix_09,2.221,Tryptophan,Missing,0,---,1000,N/A,Verification,P2
+201026_MIA_183.xms,ISY_CYC_P2_D1,2.214,Tryptophan,Failed,127605,N/A,---,---,Analysis,P2
+201026_MIA_184.xms,ISY_CYC_P2_D2,2.211,Tryptophan,Failed,1.92E+06,11568.901,---,---,Analysis,P2
+201026_MIA_185.xms,ISY_CYC_P2_D3,2.181,Tryptophan,Failed,11539,N/A,---,---,Analysis,P2
+201026_MIA_186.xms,ISY_CYC_P2_D4,2.182,Tryptophan,Failed,3.74E+06,25248.93,---,---,Analysis,P2
+201026_MIA_187.xms,ISY_CYC_P2_D5,2.184,Tryptophan,Failed,541820,542.959,---,---,Analysis,P2
+201026_MIA_188.xms,ISY_CYC_P2_D6,2.193,Tryptophan,Failed,8994,N/A,---,---,Analysis,P2
+201026_MIA_189.xms,ISY_CYC_P2_D7,2.172,Tryptophan,Failed,19006,N/A,---,---,Analysis,P2
+201026_MIA_190.xms,ISY_CYC_P2_D8,2.2,Tryptophan,Failed,3348,N/A,---,---,Analysis,P2
+201026_MIA_191.xms,ISY_CYC_P2_D9,2.2,Tryptophan,Failed,112691,N/A,---,---,Analysis,P2
+201026_MIA_192.xms,ISY_CYC_P2_D10,2.197,Tryptophan,Failed,806935,2930.069,---,---,Analysis,P2
+201026_MIA_193.xms,ISY_CYC_P2_D11,2.177,Tryptophan,Failed,82914,N/A,---,---,Analysis,P2
+201026_MIA_194.xms,ISY_CYC_P2_D12,2.196,Tryptophan,Failed,3.87E+06,18048.35,---,---,Analysis,P2
+201026_MIA_195.xms,Solvent Blank,2.191,Tryptophan,Failed,17269,451.675,---,---,Blank,P2
+201026_MIA_195001.xms,Solvent Blank,2.212,Tryptophan,Failed,1647,310.602,---,---,Blank,P2
+201026_MIA_196.xms,Blank,2.327,Tryptophan,Failed,548,280.015,---,---,Blank,P2
+201026_MIA_197.xms,0.05 mg/L stric_v13#1,2.222,Tryptophan,Failed,43784,27.477,50,-45.046,Calibration,P2
+201026_MIA_198.xms,0.1 mg/L stric_v13#2,2.207,Tryptophan,Failed,60769,60.456,100,-39.544,Calibration,P2
+201026_MIA_199.xms,0.25 mg/L stric_v13#3,2.206,Tryptophan,Failed,74270,260.534,250,4.214,Calibration,P2
+201026_MIA_200.xms,0.5 mg/L stric_v13#4,2.196,Tryptophan,Failed,91092,514.884,500,2.977,Calibration,P2
+201026_MIA_201.xms,1 mg/L stric_v13#5,2.207,Tryptophan,Failed,149094,1042.681,1000,4.268,Calibration,P2
+201026_MIA_202.xms,2.5 mg/L stric_v13#6,2.189,Tryptophan,Failed,298476,2703.231,2500,8.129,Calibration,P2
+201026_MIA_203.xms,5 mg/L stric_v13#7,2.194,Tryptophan,Failed,769691,6987.3,5000,39.746,Calibration,P2
+201026_MIA_204.xms,10 mg/L stric_v13#8,2.206,Tryptophan,Failed,1.28E+06,10532.314,10000,5.323,Calibration,P2
+201026_MIA_205.xms,25 mg/L stric_v13#9,2.203,Tryptophan,Failed,3.41E+06,30330.57,25000,21.322,Calibration,P2
+201026_MIA_206.xms,50 mg/L stric_v13#10,2.19,Tryptophan,Failed,7.45E+06,71483.438,50000,42.967,Calibration,P2
+201026_MIA_207.xms,Solvent Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P2
+201026_MIA_207001.xms,Solvent Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P2
+201026_MIA_207002.xms,Solvent Blank,2.206,Tryptophan,Failed,652,1067.892,---,---,Blank,P2
+201026_MIA_208.xms,ISY_CYC_P2_E1,2.2,Tryptophan,Failed,1.13E+06,5962.326,---,---,Analysis,P2
+201026_MIA_209.xms,ISY_CYC_P2_E2,2.207,Tryptophan,Failed,2.32E+06,18293.258,---,---,Analysis,P2
+201026_MIA_210.xms,ISY_CYC_P2_E3,2.21,Tryptophan,Failed,3.41E+06,22430.674,---,---,Analysis,P2
+201026_MIA_211.xms,ISY_CYC_P2_E4,2.213,Tryptophan,Failed,2.14E+06,13587.199,---,---,Analysis,P2
+201026_MIA_212.xms,ISY_CYC_P2_E5,2.199,Tryptophan,Failed,520738,867.661,---,---,Analysis,P2
+201026_MIA_213.xms,ISY_CYC_P2_E6,2.213,Tryptophan,Failed,11588,N/A,---,---,Analysis,P2
+201026_MIA_214.xms,ISY_CYC_P2_E7,2.209,Tryptophan,Failed,128651,N/A,---,---,Analysis,P2
+201026_MIA_215.xms,ISY_CYC_P2_E8,2.199,Tryptophan,Failed,6482,N/A,---,---,Analysis,P2
+201026_MIA_216.xms,ISY_CYC_P2_E9,2.201,Tryptophan,Failed,6079,N/A,---,---,Analysis,P2
+201026_MIA_217.xms,ISY_CYC_P2_E10,2.18,Tryptophan,Failed,366713,N/A,---,---,Analysis,P2
+201026_MIA_218.xms,ISY_CYC_P2_E11,2.181,Tryptophan,Failed,4852,N/A,---,---,Analysis,P2
+201026_MIA_219.xms,ISY_CYC_P2_E12,2.18,Tryptophan,Failed,2.17E+06,15290.55,---,---,Analysis,P2
+201026_MIA_220.xms,QC_mix_10,2.221,Tryptophan,Missing,0,---,1000,N/A,Verification,P2
+201026_MIA_221.xms,ISY_CYC_P2_F1,2.184,Tryptophan,Failed,226148,N/A,---,---,Analysis,P2
+201026_MIA_222.xms,ISY_CYC_P2_F2,2.178,Tryptophan,Identified,12547,N/A,---,---,Analysis,P2
+201026_MIA_223.xms,ISY_CYC_P2_F3,2.195,Tryptophan,Failed,169316,N/A,---,---,Analysis,P2
+201026_MIA_224.xms,ISY_CYC_P2_F4,2.192,Tryptophan,Failed,404346,1121.733,---,---,Analysis,P2
+201026_MIA_225.xms,ISY_CYC_P2_F5,2.214,Tryptophan,Failed,506716,1738.419,---,---,Analysis,P2
+201026_MIA_226.xms,ISY_CYC_P2_F6,2.211,Tryptophan,Failed,262951,N/A,---,---,Analysis,P2
+201026_MIA_227.xms,ISY_CYC_P2_F7,2.194,Tryptophan,Failed,2.45E+06,22584.719,---,---,Analysis,P2
+201026_MIA_228.xms,ISY_CYC_P2_F8,2.202,Tryptophan,Failed,53003,N/A,---,---,Analysis,P2
+201026_MIA_229.xms,ISY_CYC_P2_F9,2.195,Tryptophan,Failed,11450,N/A,---,---,Analysis,P2
+201026_MIA_230.xms,ISY_CYC_P2_F10,2.208,Tryptophan,Failed,623117,2223.802,---,---,Analysis,P2
+201026_MIA_231.xms,ISY_CYC_P2_F11,2.207,Tryptophan,Failed,629140,1628.959,---,---,Analysis,P2
+201026_MIA_232.xms,ISY_CYC_P2_F12,2.192,Tryptophan,Failed,47847,N/A,---,---,Analysis,P2
+201026_MIA_233.xms,QC_mix_11,2.221,Tryptophan,Missing,0,---,1000,N/A,Verification,P2
+201026_MIA_234.xms,ISY_CYC_P2_G1,2.203,Tryptophan,Failed,818286,3600.311,---,---,Analysis,P2
+201026_MIA_235.xms,ISY_CYC_P2_G2,2.209,Tryptophan,Failed,4259,N/A,---,---,Analysis,P2
+201026_MIA_236.xms,ISY_CYC_P2_G3,2.197,Tryptophan,Failed,318486,N/A,---,---,Analysis,P2
+201026_MIA_237.xms,ISY_CYC_P2_G4,2.206,Tryptophan,Failed,590707,1799.331,---,---,Analysis,P2
+201026_MIA_238.xms,ISY_CYC_P2_G5,2.204,Tryptophan,Failed,474147,724.275,---,---,Analysis,P2
+201026_MIA_239.xms,ISY_CYC_P2_G6,2.198,Tryptophan,Failed,5066,N/A,---,---,Analysis,P2
+201026_MIA_240.xms,ISY_CYC_P2_H1,2.194,Tryptophan,Failed,937198,5902.147,---,---,Analysis,P2
+201026_MIA_241.xms,ISY_CYC_P2_H2,2.196,Tryptophan,Failed,728868,4068.055,---,---,Analysis,P2
+201026_MIA_242.xms,ISY_CYC_P2_H3,2.208,Tryptophan,Failed,773255,1034.669,---,---,Analysis,P2
+201026_MIA_243.xms,ISY_CYC_P2_H4,2.184,Tryptophan,Failed,7415,N/A,---,---,Analysis,P2
+201026_MIA_244.xms,ISY_CYC_P2_H5,2.195,Tryptophan,Failed,3903,N/A,---,---,Analysis,P2
+201026_MIA_245.xms,ISY_CYC_P2_H6,2.209,Tryptophan,Failed,3239,N/A,---,---,Analysis,P2
+201026_MIA_246.xms,Solvent Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P2
+201026_MIA_246001.xms,Solvent Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P2
+201026_MIA_247.xms,Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P2
+201026_MIA_248.xms,0.05 mg/L stric_v13#1,2.206,Tryptophan,Failed,29450,57.667,50,15.334,Calibration,P2
+201026_MIA_249.xms,0.1 mg/L stric_v13#2,2.192,Tryptophan,Failed,37554,83.797,100,-16.203,Calibration,P2
+201026_MIA_250.xms,0.25 mg/L stric_v13#3,2.185,Tryptophan,Failed,49867,204.142,250,-18.343,Calibration,P2
+201026_MIA_251.xms,0.5 mg/L stric_v13#4,2.175,Tryptophan,Failed,81327,498.114,500,-0.377,Calibration,P2
+201026_MIA_252.xms,1 mg/L stric_v13#5,2.171,Tryptophan,Failed,153894,1135.866,1000,13.587,Calibration,P2
+201026_MIA_253.xms,2.5 mg/L stric_v13#6,2.196,Tryptophan,Failed,297595,2745.762,2500,9.83,Calibration,P2
+201026_MIA_254.xms,5 mg/L stric_v13#7,2.183,Tryptophan,Failed,817978,6936.532,5000,38.731,Calibration,P2
+201026_MIA_255.xms,10 mg/L stric_v13#8,2.187,Tryptophan,Failed,1.18E+06,10421.233,10000,4.212,Calibration,P2
+201026_MIA_256.xms,25 mg/L stric_v13#9,2.196,Tryptophan,Failed,3.16E+06,29096.363,25000,16.385,Calibration,P2
+201026_MIA_257.xms,50 mg/L stric_v13#10,2.26,Tryptophan,Failed,16661,---,50000,N/A,Calibration,P2
+201026_MIA_258.xms,Solvent Blank,2.226,Tryptophan,Failed,1813,5930.088,---,---,Blank,P2
+201026_MIA_258001.xms,Solvent Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P2
+201026_MIA_999.xms,Solvent Blank,2.221,Tryptophan,Missing,0,---,---,---,Blank,P2

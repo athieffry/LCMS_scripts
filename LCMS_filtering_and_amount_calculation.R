@@ -1,5 +1,5 @@
 ##### Plotting caffeine Internal Standard areas, then output a csv with concentrations
-##### Lars - November 2020
+##### November 2020
 
 ################ SCRIPT SETTINGS ##########################
 # working directory                                       #
